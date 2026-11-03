@@ -91,7 +91,7 @@ def trust_tier(source: str, cfg: dict) -> int | None:
     for tier, key in ((1, "tier1"), (2, "tier2"), (3, "watchlist_only")):
         for name in t.get(key, []):
             n = _norm(name)
-            if s == n or s.startswith(n + " ") or s.endswith(" " + n):
+            if s in (n, n + " com", n + " co uk", "the " + n):
                 return tier
     return None
 

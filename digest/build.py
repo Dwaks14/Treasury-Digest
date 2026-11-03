@@ -63,7 +63,13 @@ def main() -> None:
         return
 
     print("Writing briefing…")
-    top = items[: cfg.get("ai", {}).get("max_items_to_ai", 120)]
+    # Top stories for the writer, with no single outlet taking more than 15 slots.
+    per_source, top = {}, []
+    for it in items:
+        if per_source.get(it["source"], 0) < 15:
+            per_source[it["source"]] = per_source.get(it["source"], 0) + 1
+            top.append(it)
+    top = top[: cfg.get("ai", {}).get("max_items_to_ai", 120)]
     md = writer.with_claude(cfg, top, market.as_text(snap), econcal.as_text(cal), today)
     mode = "ai" if md else "headlines"
     md = md or writer.headline_list(items)

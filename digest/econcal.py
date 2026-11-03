@@ -9,8 +9,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-FEEDS = ["https://nfs.faireconomy.media/ff_calendar_thisweek.json",
-         "https://nfs.faireconomy.media/ff_calendar_nextweek.json"]
+FEEDS = ["https://nfs.faireconomy.media/ff_calendar_thisweek.json"]
 DECISION_WORDS = ("rate decision", "funds rate", "refinancing rate", "deposit facility", "bank rate",
                   "policy rate", "monetary policy statement", "fomc statement", "loan prime rate", "cash rate")
 CCY_NAMES = {"USD": "US", "EUR": "Euro area", "GBP": "UK", "CNY": "China", "JPY": "Japan"}
