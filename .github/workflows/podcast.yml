@@ -1,0 +1,73 @@
+name: Podcast episode
+
+# Runs when a new script lands in data/podcast/ (written by the Claude routine),
+# voices it with the free open-source Kokoro model, and publishes the MP3 + feed.
+on:
+  push:
+    branches: [main]
+    paths: ["data/podcast/*.txt"]
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Episode date (YYYY-MM-DD)"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Which episode?
+        id: ep
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then d="${{ github.event.inputs.date }}"
+          else d=$(git diff --name-only HEAD~1 HEAD -- 'data/podcast/*.txt' | tail -1 | xargs -r basename | sed 's/\.txt$//'); fi
+          [ -n "$d" ] || { echo "No script changed"; exit 1; }
+          echo "date=$d" >> "$GITHUB_OUTPUT"
+      - name: Cache voice model
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-v1.0
+      - name: Download voice model
+        run: |
+          mkdir -p models && cd models
+          for f in kokoro-v1.0.onnx voices-v1.0.bin; do
+            [ -s "$f" ] || curl -sSLO "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f"
+          done
+      - run: pip install -r requirements.txt kokoro-onnx==0.6.1 soundfile
+      - name: Voice the script
+        run: python -m digest.podcast synth "${{ steps.ep.outputs.date }}"
+      - name: Publish the MP3
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          d="${{ steps.ep.outputs.date }}"
+          if gh release view "ep-$d" >/dev/null 2>&1; then
+            gh release upload "ep-$d" "build/$d.mp3" --clobber
+          else
+            gh release create "ep-$d" "build/$d.mp3" --title "Morning Brief $d" --notes "Podcast episode for $d."
+          fi
+      - name: Update feed and site
+        run: |
+          python -m digest.podcast feed
+          python -c "import yaml; from digest.build import render, ROOT; render(yaml.safe_load((ROOT/'config.yaml').read_text()))"
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add data/podcast docs
+          git commit -m "Podcast ${{ steps.ep.outputs.date }}" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done

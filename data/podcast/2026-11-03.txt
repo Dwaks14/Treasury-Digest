@@ -1,0 +1,96 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Tuesday the third of November. I'm Emma.
+MICHAEL: And I'm Michael. Three big things today. The European Central Bank is lining up a rate hike for December. Americans are voting in the midterm elections. And on our watchlist, there's movement at three of the relationship banks, plus some interesting signals from the HVAC market itself.
+EMMA: Plenty to get through, so let's start where we always do, with the watchlist. Michael, Carrier first.
+MICHAEL: Yes. The trade publication A-C-H-R News reports that Carrier's residential HVAC business has rebounded, but that price increases are looming. So the headline is volume coming back in residential, with pricing about to move up.
+EMMA: And from a treasury seat, that combination matters more than people might think. Price increases are obviously a margin lever. But they also flow straight into receivables. Higher invoice values mean more cash tied up in working capital, at least until collections catch up.
+MICHAEL: Right. And if distributors and dealers push back on price, one of the first places that shows up is in payment behaviour. People start stretching terms.
+EMMA: Exactly. So the practical point for the team is to keep an eye on customer payment terms and days sales outstanding as the price rises go through, and to make sure the working-capital forecast reflects them. If you're running a thirteen-week cash forecast, that's where you'd want to see it.
+MICHAEL: Staying with the industry, Lennox has announced a leadership transition in its Building Climate Solutions business. That's one of its core commercial units.
+EMMA: What do you read into that?
+MICHAEL: On its own, not a huge amount. We only have the announcement, not the reasons behind it. But a change at the top of a key competitor's commercial business can lead to shifts in pricing or channel strategy over the following quarters. Worth noting and worth watching, especially alongside the pricing story we just discussed.
+EMMA: And Johnson Controls had a couple of smaller items. It unveiled a heat recovery system aimed at food processing, and its shares underperformed competitors on Monday. Neither feels material, so let's move on to the banks, where there's more going on.
+MICHAEL: There is. Start with B-N-P Paribas.
+EMMA: Reuters reports, based on an internal memo, that B-N-P Paribas is shaking up management at its investment bank. For a corporate client, this is the kind of story that matters in a very practical way. Reshuffles at the top often ripple down into coverage teams.
+MICHAEL: So the action point is fairly simple.
+EMMA: It is. Check whether your relationship manager, your coverage banker, or the transaction-banking contacts behind them are affected. You don't want to discover in the middle of a facility renewal or a cash management review that your key contact has moved on.
+MICHAEL: Next, H-S-B-C and J-P Morgan together. Bloomberg reports that both banks are offering to help development banks get capital relief.
+EMMA: That one is a little more technical, so let's unpack it. Development banks are looking for ways to free up capital so they can lend more. And commercial banks like these two are offering to help, presumably by taking on some of that risk or structuring transactions around it.
+MICHAEL: And the reason it matters to you is balance sheet appetite.
+EMMA: Exactly. It tells you where two of your relationship banks are choosing to put their balance sheets. Banks have finite capacity, and every time they lean into one area, it says something about their appetite elsewhere. It's a useful data point to have in mind for your next bank review, when you're thinking about wallet share and who's genuinely committed to corporate lending.
+MICHAEL: J-P Morgan also had a story where one of its investment executives urged the U.S. Treasury to scrap what he called the orphan twenty-year bond. That's more of a markets debate than anything that touches your business directly.
+EMMA: Agreed. And then Barclays.
+MICHAEL: Barclays has become the first big U.K. lender to offer early payouts to customers for mis-sold car loans. Reuters, Bloomberg and The Guardian all reported it.
+EMMA: For context, this is the motor finance mis-selling issue in the U.K. that has been hanging over several lenders. Barclays moving first to offer early compensation suggests it wants to get ahead of the issue and settle it.
+MICHAEL: Is it a concern from a counterparty point of view?
+EMMA: I'd call it a modest credit consideration rather than a concern. The redress costs are a drag, but nothing we've seen suggests they're anything Barclays can't absorb. If anything, getting ahead of it and putting a number on it can be a positive. It's simply one to keep in the file when you're reviewing counterparty limits.
+MICHAEL: And UniCredit?
+EMMA: Nothing material today. Let's move on to rates and currencies.
+MICHAEL: Dollar side first. SOFR, the secured overnight financing rate, was flat at three point nine five percent. The effective Fed Funds rate was three point eight eight percent, also unchanged.
+EMMA: So overnight dollar money is very stable.
+MICHAEL: Very. Further out the curve there was a bit more movement. The two-year Treasury yield rose two basis points to four point six one percent. The ten-year rose four basis points to four point nine five percent. But on the week, both are lower. The two-year is down nine basis points and the ten-year down four.
+EMMA: Which tells you the market has been pulling back on its rate expectations over the past week, even if yesterday ticked up a little.
+MICHAEL: And for cash investment, short-dated dollar money is still yielding close to four percent. That's a good place for surplus dollar cash.
+EMMA: Now the euro side, which is where the more interesting story is. The euro short-term rate was unchanged at two point four four percent. But the big news is from the E-C-B.
+MICHAEL: This is the Bundesbank president.
+EMMA: Yes. Joachim Nagel, president of the Bundesbank, said the E-C-B will probably have to raise rates in December. Reuters described it as him joining a chorus of E-C-B officials backing a December hike.
+MICHAEL: So this isn't one voice. It's a building consensus.
+EMMA: That's how it reads. And for euro treasury, the implications run both ways. Euro funding costs are likely to rise. But so are yields on euro deposits and money market funds. If you're holding meaningful euro cash, it's worth thinking about how that cash is laddered. You might not want to lock everything into longer tenors right before rates move up.
+MICHAEL: And yet the currency didn't react the way you might expect. Euro-dollar fell a third of a percent to one point one one eight.
+EMMA: Despite the hawkish talk.
+MICHAEL: Despite it. Over the week, the euro is still up about a quarter of a percent. But on the day, the dollar firmed a little, which may be about the U.S. election as much as anything in Europe.
+EMMA: Sterling next. Cable, pound-dollar, was little changed at one point three four one. Euro-sterling was at zero point eight three four, with sterling firmer against the euro over the week. And the U.K. has a big event coming on Thursday.
+MICHAEL: The Bank of England decision.
+EMMA: Yes. The forecast is for a hike in Bank Rate to four percent, from three point seven five. The expected vote split is interesting too. The forecast is seven to raise and two to hold, compared with three, zero and six last time.
+MICHAEL: That's a big shift in the committee.
+EMMA: It is. And for treasury, a hike would raise sterling deposit yields and sterling borrowing costs. SONIA, the sterling overnight rate, was at three point seven three percent on the latest reading, so you'd expect that to move up quickly if the hike happens.
+MICHAEL: Then the other currencies on your list. Dollar-yuan rose about a third of a percent to six point six seven. For the Chinese yuan, that's a relatively large daily move.
+EMMA: Worth watching if you've got intercompany flows or a cash pool in China.
+MICHAEL: Dollar-peso fell two thirds of a percent to eighteen point six. So the Mexican peso strengthened.
+EMMA: And that's one that directly touches a manufacturer with Mexican operations. A stronger peso means the dollar cost of your Mexican payroll and local costs goes up. If you hedge peso costs, this is the scenario those hedges are there for.
+MICHAEL: And finally dollar-yen, up a quarter of a percent at about one fifty-eight point three.
+EMMA: So let's turn to the big stories. We've touched on the E-C-B, so Michael, the U.S. elections.
+MICHAEL: Americans are voting today in midterm elections that the Financial Times describes as a referendum on President Trump's presidency. Republicans are fighting to keep their majorities in both the Senate and the House of Representatives.
+EMMA: And why does this matter to a treasury team in Dublin?
+MICHAEL: Because control of Congress shapes the outlook for tariffs and for fiscal policy. Both of those matter enormously to a U.S. manufacturer with a global supply chain. So expect some volatility in the dollar and in Treasury yields as results come in over the next day or two.
+EMMA: There's a market angle too.
+MICHAEL: There is. CNBC looked at what history shows, and midterms have historically come before a strong year for the S and P five hundred. J-P Morgan has also published its view on how markets might react. And interestingly, the Financial Times reports that investors are watching the state governor races for signs of a backlash against the AI boom, because those races could affect how data centres get built across America.
+EMMA: Which connects to another story today about AI financing.
+MICHAEL: It does. The Financial Times describes a chill wind in the AI credit market. Investors are demanding higher returns to finance the data centre boom. And separately, Blackstone's president, Jon Gray, said the AI buildout needs more equity, because debt investors are facing concentration risk.
+EMMA: Data centres are a big demand driver for cooling, so for an HVAC business that's an interesting thread to pull on. If financing for data centres gets more expensive, it could slow the pace of some projects.
+MICHAEL: That's analysis rather than anything the articles say directly, but it's a fair question for the strategy team.
+EMMA: Next story. The European Union and Canada have committed to link their real-time payment systems, and to explore opening up their markets to each other's banks and fintechs.
+MICHAEL: That's a payments story you'd actually care about.
+EMMA: Very much. It's early days, and it's a commitment rather than a launch date. But if it happens, payments between European and Canadian entities could eventually become instant and cheaper. That covers intercompany settlements and supplier payments. It's part of a broader trend of connecting instant payment schemes across borders, which is good news for anyone managing cross-border cash.
+MICHAEL: And the last of the big stories is the manufacturing data.
+EMMA: Go on.
+MICHAEL: The Institute for Supply Management's purchasing managers' index shows U.S. manufacturing has expanded for a tenth straight month. But the comments from respondents are getting more negative. They cite the Iran war, price volatility and trade wars. One economist at Pantheon Macroeconomics said the AI capital spending boom will probably keep supporting tech-related sectors, but a broader manufacturing boom looks unlikely.
+EMMA: So growth, but fragile, and with cost pressures.
+MICHAEL: That's the read. For the forecast, it argues for conservative assumptions on input costs and inventory. If prices are erratic, you want headroom in the plan.
+EMMA: A quicker round now on treasury, payments and banking. Stripe has launched Stripe Treasury in the U.K., letting businesses manage money from the same dashboard they use to accept payments.
+MICHAEL: That's aimed more at founders and smaller firms than a company your size, but it shows where the embedded finance market is going.
+EMMA: Fiserv, the payments processor, has started talking to potential buyers for some of its assets, and has doubled its savings target to one billion dollars. If you use Fiserv anywhere in your payments stack, that's one to keep an eye on.
+MICHAEL: In European banking, the Financial Times has a piece on the so-called Danish compromise. It's a rule that makes it easier for eurozone banks to own insurers, and insurers argue it gives banks an unfair advantage. It's a regulatory fight, but it could shape how some of the big European banking groups are structured.
+EMMA: And a couple of bank stability stories from elsewhere. Paraguay has seized a fast-growing digital bank with ties to the president, over solvency problems. And in Serbia, the owner of Alta Bank has been arrested after its collapse.
+MICHAEL: Neither of those are banks you'd be dealing with, I assume.
+EMMA: Hopefully not! But they're a reminder of why counterparty limits exist. And finally on regulation, the U.S. Securities and Exchange Commission has approved easier audit quality-control rules, which the Big Four firms had backed.
+MICHAEL: Australia also raised rates for the fifth time this year, to the highest level since the financial crisis, because inflation remains above target. So the E-C-B and the Bank of England are not alone in leaning hawkish.
+EMMA: Michael, strategy corner. What caught your eye?
+MICHAEL: A couple of things. First, deals. Shell is selling a stake in an Australian gas asset to Abu Dhabi's X-R-G for one point four five billion dollars, as part of shedding mature assets. Grant Thornton Advisors closed its five billion dollar deal for C-B-I-Z, creating the fifth-largest U.S. professional services firm. And the Financial Times reports that billionaire Mark Walter has explored a sale of a seventy-one billion dollar insurer, Delaware Life.
+EMMA: Portfolio reshaping seems to be the theme.
+MICHAEL: It does. Companies are selling non-core assets and focusing. For anyone with an FP&A background, the questions those deals raise are familiar. What's core, what earns its cost of capital, and what's worth more to someone else.
+EMMA: You had a second one.
+MICHAEL: Finance leadership. Pfizer promoted an insider, Cecile Guegan, to chief financial officer. And Norwegian Cruise Line named a new C-F-O who was previously treasurer at American Airlines. That's a nice data point for treasury people, because it's the treasurer-to-C-F-O path in action.
+EMMA: Good to see.
+MICHAEL: And one more for the industrial picture. Deere has called back around a thousand workers since twenty twenty-four, ahead of labour talks with the United Auto Workers. And on the electricity side, the F-T has an opinion piece arguing the energy transition is more achievable than often suggested. That's relevant to the heat pump story over time.
+EMMA: Let's look at the calendar. Today, the U.S. elections, with results flowing through tonight and tomorrow our time.
+MICHAEL: Then Thursday at midday Dublin time, the Bank of England. That's the rate decision, the vote split, the monetary policy report, and then Governor Andrew Bailey speaking at twelve thirty.
+EMMA: Expect sterling to move around that window.
+MICHAEL: Then Friday at half past one Dublin time, the U.S. jobs report. Non-farm payrolls are forecast at sixty-five thousand, up from twenty-nine thousand last time. The unemployment rate is forecast steady at four point two percent, and average hourly earnings are seen up zero point three percent on the month.
+EMMA: And later on Friday, at four o'clock, the Bank of Japan's Governor Ueda speaks. With dollar-yen around one fifty-eight, any hint about policy could move the yen.
+MICHAEL: So a busy week for anyone managing currency exposure.
+EMMA: It is. So, to close, one thing to take into the office today. Here's how I'd frame it. Both the E-C-B and the Bank of England look set to raise rates, while U.S. yields have eased over the past week. That narrows the interest rate gap between the dollar and the euro, and between the dollar and sterling.
+MICHAEL: And that gap is what drives forward points.
+EMMA: Exactly. Forward points are what change the cost of hedging. So if you hedge European receivables or exposures, the economics of those hedges are shifting. Put that together with Carrier pushing through price increases, and the question I'd raise with the team is this. Do your F-X hedge ratios and your euro cash investment policy still fit a world of higher European rates?
+MICHAEL: A good one to bring to the next hedging committee.
+EMMA: That's it for today. Thanks for listening to the Daily Treasury Brief.
+MICHAEL: Have a good walk in, and we'll be back tomorrow morning.

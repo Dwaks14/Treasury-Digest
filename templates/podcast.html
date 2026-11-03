@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Podcast · {{ cfg.reader.name }}{% endblock %}
+{% block content %}
+<h1>Listen in your podcast app</h1>
+<p>New episodes arrive automatically each weekday morning.</p>
+<h2>Apple Podcasts (iPhone)</h2>
+<ol>
+  <li>Copy this address: <br><code id="feed">https://dwaks14.github.io/Treasury-Digest/feed.xml</code>
+    <button onclick="navigator.clipboard.writeText(document.getElementById('feed').textContent);this.textContent='Copied ✓'">Copy</button></li>
+  <li>Open the <b>Podcasts</b> app and go to <b>Library</b>.</li>
+  <li>Tap <b>⋯</b> (top right), then <b>Follow a Show by URL…</b></li>
+  <li>Paste the address and tap <b>Follow</b>.</li>
+</ol>
+<h2>Overcast, Pocket Casts and others</h2>
+<p>Use “Add URL” (or the + button) and paste the same address.</p>
+<p class="meta">Tip: in the show's settings, turn on automatic downloads so each morning's episode is ready offline.</p>
+{% endblock %}

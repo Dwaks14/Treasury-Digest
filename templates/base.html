@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
+<link rel="apple-touch-icon" href="{{ prefix }}icon-180.png">
+<link rel="icon" href="{{ prefix }}icon-180.png">
+<meta name="apple-mobile-web-app-title" content="Treasury Brief">
+<link rel="alternate" type="application/rss+xml" title="{{ cfg.reader.name }} podcast" href="{{ prefix }}feed.xml">
 <title>{% block title %}{{ cfg.reader.name }}{% endblock %}</title>
 <style>
 :root{--bg:#f7f6f2;--card:#fff;--ink:#1d2228;--muted:#6a717a;--line:#e4e1da;--accent:#0f5c4c;--up:#1d7a46;--down:#b3372b}
@@ -40,6 +44,10 @@ a{color:var(--accent)}
 .cal .r{white-space:nowrap;color:var(--muted);width:1%;padding-right:10px}
 .cal .dec td{font-weight:650}
 .cal .fp{font-size:12px;color:var(--muted);font-weight:400}
+.pod{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:0 0 18px;font-family:-apple-system,system-ui,sans-serif}
+.pod-l{font-size:14px;font-weight:600;margin-bottom:6px}
+.pod audio{width:100%}
+.pod-s{font-size:13px;margin-top:4px}
 .foot{margin-top:40px;font:12px -apple-system,system-ui,sans-serif;color:var(--muted)}
 </style>
 </head>

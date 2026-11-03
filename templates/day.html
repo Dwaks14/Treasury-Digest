@@ -4,6 +4,13 @@
 {% set d = e.date.split('-') %}
 <h1>Morning Brief</h1>
 <div class="meta">{{ e.date }} · built from {{ e.n_items }} headlines</div>
+{% if e.podcast %}
+<div class="pod">
+  <div class="pod-l">🎧 Listen · {{ (e.podcast.seconds // 60) }} min</div>
+  <audio controls preload="none" src="{{ e.podcast.url }}"></audio>
+  <div class="pod-s"><a href="{{ prefix }}podcast.html">Get it in your podcast app</a></div>
+</div>
+{% endif %}
 
 {% if e.market %}
 <h2 style="border:0;margin-top:8px;padding-top:0">Market snapshot</h2>

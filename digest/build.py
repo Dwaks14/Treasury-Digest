@@ -22,6 +22,9 @@ def render_site(cfg: dict, jenv: Environment) -> None:
                      key=lambda e: e["date"], reverse=True)
     if not entries:
         return
+    for e in entries:  # attach podcast episodes, if any
+        pod = DATA / "podcast" / f"{e['date']}.json"
+        e["podcast"] = json.loads(pod.read_text()) if pod.exists() else None
     day_tpl = jenv.get_template("day.html")
     for i, e in enumerate(entries):
         nav = {"newer": entries[i - 1]["date"] if i > 0 else None,
@@ -35,6 +38,7 @@ def render_site(cfg: dict, jenv: Environment) -> None:
         cfg=cfg, e=latest, body=markdown.markdown(latest["markdown"]),
         nav={"newer": None, "older": entries[1]["date"] if len(entries) > 1 else None}, prefix=""))
     (DOCS / "archive.html").write_text(jenv.get_template("archive.html").render(cfg=cfg, entries=entries))
+    (DOCS / "podcast.html").write_text(jenv.get_template("podcast.html").render(cfg=cfg, prefix=""))
     (DOCS / ".nojekyll").write_text("")
 
 
