@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}{{ e.date }} · {{ cfg.reader.name }}{% endblock %}
+{% block content %}
+{% set d = e.date.split('-') %}
+<h1>Morning Brief</h1>
+<div class="meta">{{ e.date }} · built from {{ e.n_items }} headlines</div>
+
+{% if e.market %}
+<h2 style="border:0;margin-top:8px;padding-top:0">Market snapshot</h2>
+<div class="mkt">
+{% for m in e.market %}
+  {% set unit = 'bp' if m.is_rate else '%' %}
+  {% set cls = 'flat' if not m.d1 else ('up' if m.d1 > 0 else 'down') %}
+  <div class="tile">
+    <div class="l">{{ m.label }}</div>
+    <div class="v">{{ '%.2f'|format(m.value) }}{{ '%' if m.is_rate else '' }}</div>
+    <div class="c {{ cls }}">{% if m.d1 is not none %}{{ '%+g'|format(m.d1) }}{{ unit }} 1d{% endif %}{% if m.w1 is not none %} · {{ '%+g'|format(m.w1) }}{{ unit }} 1w{% endif %}</div>
+  </div>
+{% endfor %}
+</div>
+<div class="meta">Source: FRED, latest available close. Some series lag by a day or more.</div>
+{% endif %}
+
+{{ body }}
+
+<div class="pager">
+  <span>{% if nav.older %}<a href="{{ prefix }}{{ nav.older }}/index.html">← {{ nav.older }}</a>{% endif %}</span>
+  <span>{% if nav.newer %}<a href="{{ prefix }}{{ nav.newer }}/index.html">{{ nav.newer }} →</a>{% endif %}</span>
+</div>
+<div class="foot">Personal digest. Summaries generated from public headlines; follow links for full articles.</div>
+{% endblock %}

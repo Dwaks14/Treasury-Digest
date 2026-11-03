@@ -1,0 +1,91 @@
+# ─────────────────────────────────────────────────────────────
+#  Your personal profile. Edit freely; this drives what gets
+#  picked and how it's written.
+# ─────────────────────────────────────────────────────────────
+reader:
+  name: "Daily Treasury Brief"
+  timezone: "Europe/Dublin"
+  profile: |
+    I work in international treasury and cash management at a global
+    manufacturing company headquartered in the US. I'm based in Dublin.
+    My day-to-day: global cash visibility and pooling, intercompany funding
+    and netting, bank relationship management, FX exposure and hedging
+    (EUR, GBP, CNY, MXN, JPY in particular), liquidity and short-term
+    investments, payments and treasury technology (TMS, ISO 20022, real-time
+    payments), and working capital / supply chain finance.
+    I have an FP&A background and a strong interest in corporate strategy:
+    M&A, capital allocation, industrial/manufacturing sector moves, tariffs
+    and trade policy, and how macro shifts hit large multinationals.
+  # Words that boost a story's score in the no-AI fallback mode.
+  keywords:
+    high: [treasury, "cash management", liquidity, "cash pooling", "FX", hedging, SOFR, "€STR", ESTR,
+           "commercial paper", "money market", "ISO 20022", payments, "working capital",
+           "supply chain finance", "interest rate", "rate cut", "rate hike", "bond issuance",
+           "credit rating", "corporate debt", "tariff", "Federal Reserve", ECB, "Bank of England", "CFO"]
+    medium: [manufacturing, industrial, "M&A", acquisition, merger, divestiture, "capital allocation",
+             buyback, dividend, strategy, Basel, regulation, sanctions, "trade policy", euro, dollar,
+             yuan, peso, yen, sterling, inflation, recession, earnings, guidance, bank]
+  avoid: [crypto meme coins, celebrity, sports, consumer personal-finance tips]
+
+# ─────────────────────────────────────────────────────────────
+#  AI writing (optional). Without an ANTHROPIC_API_KEY the
+#  digest still builds, as a ranked headline list.
+# ─────────────────────────────────────────────────────────────
+ai:
+  model: "claude-opus-5-5"   # "claude-haiku-5-5" is a much cheaper alternative
+  effort: "medium"
+  max_items_to_ai: 140       # top-scored headlines sent to the model
+
+lookback_hours: 30           # 72 on Mondays (handled automatically)
+
+# ─────────────────────────────────────────────────────────────
+#  Sources. Any RSS/Atom feed works. Google News searches are
+#  the easiest way to add a topic: just add a query.
+# ─────────────────────────────────────────────────────────────
+feeds:
+  # Central banks & regulators
+  - {name: "Federal Reserve", url: "https://www.federalreserve.gov/feeds/press_all.xml", section: policy}
+  - {name: "ECB", url: "https://www.ecb.europa.eu/rss/press.html", section: policy}
+  - {name: "Bank of England", url: "https://www.bankofengland.co.uk/rss/news", section: policy}
+  - {name: "BIS", url: "https://www.bis.org/doclist/all_pressrels.rss", section: policy}
+  - {name: "SEC", url: "https://www.sec.gov/news/pressreleases.rss", section: policy}
+  # Markets & business
+  - {name: "WSJ Markets", url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", section: markets}
+  - {name: "WSJ Business", url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", section: business}
+  - {name: "FT Markets", url: "https://www.ft.com/markets?format=rss", section: markets}
+  - {name: "FT Companies", url: "https://www.ft.com/companies?format=rss", section: business}
+  - {name: "CNBC Finance", url: "https://www.cnbc.com/id/10000664/device/rss/rss.html", section: markets}
+  # Treasury, CFO, payments, industry
+  - {name: "CFO Dive", url: "https://www.cfodive.com/feeds/news/", section: treasury}
+  - {name: "Payments Dive", url: "https://www.paymentsdive.com/feeds/news/", section: treasury}
+  - {name: "Manufacturing Dive", url: "https://www.manufacturingdive.com/feeds/news/", section: business}
+  - {name: "Finextra", url: "https://www.finextra.com/rss/headlines.aspx", section: treasury}
+  - {name: "HBR", url: "http://feeds.hbr.org/harvardbusiness", section: strategy}
+
+google_news_queries:
+  - {q: '"corporate treasury" OR "treasurer"', section: treasury}
+  - {q: '"cash management" bank corporate', section: treasury}
+  - {q: '"FX hedging" OR "currency hedging" OR "currency headwinds"', section: treasury}
+  - {q: 'SOFR OR "commercial paper" OR "money market funds"', section: markets}
+  - {q: '"ISO 20022" OR "real-time payments" OR "instant payments"', section: treasury}
+  - {q: '"supply chain finance" OR "working capital"', section: treasury}
+  - {q: 'tariffs manufacturers', section: business}
+  - {q: 'industrial manufacturing acquisition OR merger', section: strategy}
+  - {q: 'ECB OR "euro area" interest rates', section: policy}
+
+# ─────────────────────────────────────────────────────────────
+#  Market dashboard (FRED, free, no key needed)
+# ─────────────────────────────────────────────────────────────
+market_series:
+  - {id: SOFR,        label: "SOFR",            unit: "%"}
+  - {id: DFF,         label: "Fed Funds (eff.)", unit: "%"}
+  - {id: ECBESTRVOLWGTTRMDRATE, label: "€STR", unit: "%"}
+  - {id: IUDSOIA,     label: "SONIA",           unit: "%"}
+  - {id: DGS2,        label: "UST 2Y",          unit: "%"}
+  - {id: DGS10,       label: "UST 10Y",         unit: "%"}
+  - {id: DEXUSEU,     label: "EUR/USD",         unit: ""}
+  - {id: DEXUSUK,     label: "GBP/USD",         unit: ""}
+  - {id: DEXJPUS,     label: "USD/JPY",         unit: ""}
+  - {id: DEXCHUS,     label: "USD/CNY",         unit: ""}
+  - {id: DEXMXUS,     label: "USD/MXN",         unit: ""}
+  - {id: DCOILBRENTEU, label: "Brent ($/bbl)",  unit: ""}

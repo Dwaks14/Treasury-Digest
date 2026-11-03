@@ -1,0 +1,38 @@
+name: Daily digest
+
+on:
+  schedule:
+    # Weekdays 05:40 UTC = 05:40 Dublin in winter, 06:40 in summer (well before an 8:00 departure).
+    # GitHub can start scheduled jobs a little late, so this leaves a buffer.
+    - cron: "40 5 * * 1-5"
+  workflow_dispatch: {}   # adds a "Run workflow" button for on-demand builds
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Build digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional; headline mode without it
+        run: python -m digest.build
+      - name: Commit today's edition
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Digest $(date -u +%F)"
+          git push

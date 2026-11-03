@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Archive · {{ cfg.reader.name }}{% endblock %}
+{% block content %}
+<h1>Archive</h1>
+<ul class="archive">
+{% for e in entries %}
+  <li><a href="{{ e.date }}/index.html">{{ e.date }}</a> <span class="src">· {{ 'written brief' if e.mode == 'ai' else 'headlines' }}</span></li>
+{% endfor %}
+</ul>
+{% endblock %}
