@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-title" content="Treasury Brief">
+<link rel="alternate" type="application/rss+xml" title="Daily Treasury Brief podcast" href="feed.xml">
+<title>Podcast · Daily Treasury Brief</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1d2228;--muted:#6a717a;--line:#e4e1da;--accent:#0f5c4c;--up:#1d7a46;--down:#b3372b}
+@media (prefers-color-scheme:dark){:root{--bg:#121417;--card:#1a1d21;--ink:#e7e9ec;--muted:#959ca5;--line:#2a2e34;--accent:#5fc3a7;--up:#5cc489;--down:#f07b6e}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 Charter,"Iowan Old Style",Georgia,serif;-webkit-text-size-adjust:100%}
+.wrap{max-width:720px;margin:0 auto;padding:20px 16px 64px}
+header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:10px;margin-bottom:18px}
+.brand{font:700 14px/1.2 -apple-system,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);text-decoration:none}
+header nav a{font:500 14px -apple-system,system-ui,sans-serif;color:var(--muted);text-decoration:none;margin-left:14px}
+h1{font-size:30px;line-height:1.2;margin:4px 0 2px}
+.meta{font:14px -apple-system,system-ui,sans-serif;color:var(--muted);margin-bottom:20px}
+h2{font:700 13px/1.3 -apple-system,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);margin:34px 0 10px;padding-top:14px;border-top:1px solid var(--line)}
+p,li{margin:0 0 12px}
+ul{padding-left:20px}
+a{color:var(--accent)}
+.src{font:13px -apple-system,system-ui,sans-serif;color:var(--muted);white-space:nowrap}
+.src a{color:var(--muted)}
+.src::before{content:" "}
+.src+.src::before{content:" · "}
+.mkt{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:0 0 8px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-family:-apple-system,system-ui,sans-serif}
+.tile .l{font-size:12px;color:var(--muted)}
+.tile .v{font-size:18px;font-weight:600;font-variant-numeric:tabular-nums}
+.tile .c{font-size:12px;font-variant-numeric:tabular-nums}
+.up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--muted)}
+.pager{display:flex;justify-content:space-between;margin-top:40px;font:15px -apple-system,system-ui,sans-serif}
+.archive li{list-style:none;padding:10px 0;border-bottom:1px solid var(--line)}
+.archive{padding:0}
+.h2note{font-weight:500;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:6px}
+.cal{width:100%;border-collapse:collapse;font:14px/1.4 -apple-system,system-ui,sans-serif;margin-bottom:8px}
+.cal td{padding:7px 6px 7px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.cal .t{white-space:nowrap;font-variant-numeric:tabular-nums;color:var(--muted);width:1%}
+.cal .r{white-space:nowrap;color:var(--muted);width:1%;padding-right:10px}
+.cal .dec td{font-weight:650}
+.cal .fp{font-size:12px;color:var(--muted);font-weight:400}
+.pod{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:0 0 18px;font-family:-apple-system,system-ui,sans-serif}
+.pod-l{font-size:14px;font-weight:600;margin-bottom:6px}
+.pod audio{width:100%}
+.pod-s{font-size:13px;margin-top:4px}
+.foot{margin-top:40px;font:12px -apple-system,system-ui,sans-serif;color:var(--muted)}
+</style>
+</head>
+<body><div class="wrap">
+<header><a class="brand" href="index.html">Daily Treasury Brief</a>
+<nav><a href="index.html">Today</a><a href="archive.html">Archive</a></nav></header>
+
+<h1>Listen in your podcast app</h1>
+<p>New episodes arrive automatically each weekday morning.</p>
+<h2>Apple Podcasts (iPhone)</h2>
+<ol>
+  <li>Copy this address: <br><code id="feed">https://dwaks14.github.io/Treasury-Digest/feed.xml</code>
+    <button onclick="navigator.clipboard.writeText(document.getElementById('feed').textContent);this.textContent='Copied ✓'">Copy</button></li>
+  <li>Open the <b>Podcasts</b> app and go to <b>Library</b>.</li>
+  <li>Tap <b>⋯</b> (top right), then <b>Follow a Show by URL…</b></li>
+  <li>Paste the address and tap <b>Follow</b>.</li>
+</ol>
+<h2>Overcast, Pocket Casts and others</h2>
+<p>Use “Add URL” (or the + button) and paste the same address.</p>
+<p class="meta">Tip: in the show's settings, turn on automatic downloads so each morning's episode is ready offline.</p>
+
+</div></body></html>

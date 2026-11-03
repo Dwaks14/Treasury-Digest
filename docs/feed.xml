@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Daily Treasury Brief</title>
+  <link>https://dwaks14.github.io/Treasury-Digest/</link>
+  <language>en</language>
+  <description>A private daily treasury, markets and strategy briefing.</description>
+  <itunes:author>Daily Treasury Brief</itunes:author>
+  <itunes:image href="https://dwaks14.github.io/Treasury-Digest/cover.png"/>
+  <itunes:category text="Business"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <item>
+    <title>Morning Brief, Tue 03 Nov 2026</title>
+    <description>Your two-host treasury and markets briefing for 2026-11-03.</description>
+    <link>https://dwaks14.github.io/Treasury-Digest/2026-11-03/index.html</link>
+    <guid isPermaLink="false">treasury-brief-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 22:35:02 +0000</pubDate>
+    <enclosure url="https://github.com/Dwaks14/Treasury-Digest/releases/download/ep-2026-11-03/2026-11-03.mp3" length="8127286" type="audio/mpeg"/>
+    <itunes:duration>00:16:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
