@@ -22,6 +22,8 @@ ul{padding-left:20px}
 a{color:var(--accent)}
 .src{font:13px -apple-system,system-ui,sans-serif;color:var(--muted);white-space:nowrap}
 .src a{color:var(--muted)}
+.src::before{content:" "}
+.src+.src::before{content:" · "}
 .mkt{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:0 0 8px}
 .tile{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-family:-apple-system,system-ui,sans-serif}
 .tile .l{font-size:12px;color:var(--muted)}
