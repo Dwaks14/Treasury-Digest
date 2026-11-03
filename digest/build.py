@@ -50,20 +50,35 @@ def main() -> None:
     print("Fetching market data…")
     snap = market.snapshot(cfg)
 
+    out = DATA / f"{today}.json"
+    existing = json.loads(out.read_text()) if out.exists() else {}
+    if existing.get("mode") == "ai":
+        # A written briefing already exists for today; never overwrite it with headlines.
+        print("Today's written briefing already exists; keeping it.")
+        render(cfg)
+        return
+
     print("Writing briefing…")
-    md = writer.with_claude(cfg, items, market.as_text(snap), today)
+    top = items[: cfg.get("ai", {}).get("max_items_to_ai", 140)]
+    md = writer.with_claude(cfg, top, market.as_text(snap), today)
     mode = "ai" if md else "headlines"
     md = md or writer.headline_list(items)
 
     DATA.mkdir(exist_ok=True)
-    (DATA / f"{today}.json").write_text(json.dumps({
+    out.write_text(json.dumps({
         "date": today, "generated": now.isoformat(), "mode": mode,
         "markdown": md, "market": snap, "n_items": len(items),
+        # Saved so a briefing can be written later (see digest/brief.py).
+        "items": [{k: i[k] for k in ("title", "url", "source", "section", "summary")} for i in top],
     }, indent=1))
 
+    render(cfg)
+    print(f"Done: docs/{today}/ ({mode} mode)")
+
+
+def render(cfg: dict) -> None:
     jenv = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=False)
     render_site(cfg, jenv)
-    print(f"Done: docs/{today}/ ({mode} mode)")
 
 
 if __name__ == "__main__":

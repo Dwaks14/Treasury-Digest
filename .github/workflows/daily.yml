@@ -2,9 +2,10 @@ name: Daily digest
 
 on:
   schedule:
-    # Weekdays 05:40 UTC = 05:40 Dublin in winter, 06:40 in summer (well before an 8:00 departure).
+    # Weekdays 05:10 UTC = 05:10 Dublin in winter, 06:10 in summer. A scheduled Claude
+    # routine writes the briefing ~35 minutes later (see digest/brief.py).
     # GitHub can start scheduled jobs a little late, so this leaves a buffer.
-    - cron: "40 5 * * 1-5"
+    - cron: "10 5 * * 1-5"
   workflow_dispatch: {}   # adds a "Run workflow" button for on-demand builds
 
 permissions:
