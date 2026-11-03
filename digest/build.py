@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -10,7 +11,7 @@ import markdown
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
-from . import market, sources, writer
+from . import econcal, market, sources, writer
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS, DATA = ROOT / "docs", ROOT / "data"
@@ -50,26 +51,30 @@ def main() -> None:
     print("Fetching market data…")
     snap = market.snapshot(cfg)
 
+    print("Fetching calendar…")
+    cal = econcal.fetch(cfg, now)
+
     out = DATA / f"{today}.json"
     existing = json.loads(out.read_text()) if out.exists() else {}
-    if existing.get("mode") == "ai":
+    if existing.get("mode") == "ai" and not os.environ.get("DIGEST_FORCE"):
         # A written briefing already exists for today; never overwrite it with headlines.
         print("Today's written briefing already exists; keeping it.")
         render(cfg)
         return
 
     print("Writing briefing…")
-    top = items[: cfg.get("ai", {}).get("max_items_to_ai", 140)]
-    md = writer.with_claude(cfg, top, market.as_text(snap), today)
+    top = items[: cfg.get("ai", {}).get("max_items_to_ai", 120)]
+    md = writer.with_claude(cfg, top, market.as_text(snap), econcal.as_text(cal), today)
     mode = "ai" if md else "headlines"
     md = md or writer.headline_list(items)
 
     DATA.mkdir(exist_ok=True)
     out.write_text(json.dumps({
         "date": today, "generated": now.isoformat(), "mode": mode,
-        "markdown": md, "market": snap, "n_items": len(items),
+        "markdown": md, "market": snap, "calendar": cal, "n_items": len(items),
         # Saved so a briefing can be written later (see digest/brief.py).
-        "items": [{k: i[k] for k in ("title", "url", "source", "section", "summary")} for i in top],
+        "items": [{k: i[k] for k in ("title", "url", "source", "section", "summary", "watch", "also")}
+                  for i in top],
     }, indent=1))
 
     render(cfg)

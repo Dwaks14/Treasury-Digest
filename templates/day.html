@@ -21,7 +21,27 @@
 <div class="meta">Sources: NY Fed, ECB, US Treasury, Bank of England. Latest published values. Some series lag by a day or more.</div>
 {% endif %}
 
+{% set cal = e.calendar or [] %}
+{% set today_ev = cal | selectattr('today') | list %}
+{% if cal %}
+<h2>Today's calendar <span class="h2note">Dublin time</span></h2>
+{% if today_ev %}
+<table class="cal">
+{% for c in today_ev %}<tr{% if c.decision %} class="dec"{% endif %}><td class="t">{{ c.time }}</td><td class="r">{{ c.region }}</td><td>{{ c.title }}{% if c.forecast or c.previous %}<div class="fp">{% if c.forecast %}f'cast {{ c.forecast }}{% endif %}{% if c.forecast and c.previous %} · {% endif %}{% if c.previous %}prev {{ c.previous }}{% endif %}</div>{% endif %}</td></tr>
+{% endfor %}</table>
+{% else %}<p class="meta">No high-impact releases or rate decisions today.</p>{% endif %}
+{% endif %}
+
 {{ body }}
+
+{% set later = cal | rejectattr('today') | list %}
+{% if later %}
+<h2>Coming up <span class="h2note">Dublin time</span></h2>
+<table class="cal">
+{% for c in later %}<tr{% if c.decision %} class="dec"{% endif %}><td class="t">{{ c.day[:3] }} {{ c.time }}</td><td class="r">{{ c.region }}</td><td>{{ c.title }}</td></tr>
+{% endfor %}</table>
+<div class="meta">Calendar: Forex Factory. Rate decisions in bold.</div>
+{% endif %}
 
 <div class="pager">
   <span>{% if nav.older %}<a href="{{ prefix }}{{ nav.older }}/index.html">← {{ nav.older }}</a>{% endif %}</span>

@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
-from . import market, writer
+from . import econcal, market, writer
 from .build import DATA, ROOT, render
 
 
@@ -37,14 +37,12 @@ def _load(date: str | None) -> tuple[dict, dict, str]:
 
 def show(date: str | None) -> None:
     cfg, e, date = _load(date)
-    r = cfg["reader"]
     print(f"STATUS: {e['mode']}  (mode 'ai' means a briefing was already written)\n")
     print("=== INSTRUCTIONS ===")
-    print(writer.SYSTEM.format(profile=r["profile"].strip(), avoid=", ".join(r.get("avoid", []))))
-    print(f"=== DATE ===\n{date}\n")
-    print(f"=== MARKET SNAPSHOT ===\n{market.as_text(e.get('market', [])) or '(unavailable)'}\n")
-    print("=== HEADLINES ===")
-    print(writer._items_text(e["items"]))
+    print(writer.system_prompt(cfg))
+    print("=== INPUT ===")
+    print(writer.user_message(date, market.as_text(e.get("market", [])),
+                              econcal.as_text(e.get("calendar", [])), e["items"]))
 
 
 def publish(md_file: str, date: str | None) -> None:
@@ -52,6 +50,9 @@ def publish(md_file: str, date: str | None) -> None:
     md = open(md_file, encoding="utf-8").read().strip()
     if len(md) < 400 or "##" not in md:
         sys.exit("REJECTED: briefing looks too short or has no sections")
+    words = len(md.split())
+    if words > 800:
+        sys.exit(f"REJECTED: briefing is {words} words; cut it to 650 or fewer")
     e["markdown"] = writer.link_citations(md, e["items"])
     e["mode"] = "ai"
     e["briefed"] = datetime.now(timezone.utc).isoformat()

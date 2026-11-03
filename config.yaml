@@ -6,26 +6,72 @@ reader:
   name: "Daily Treasury Brief"
   timezone: "Europe/Dublin"
   profile: |
-    I work in international treasury and cash management at a global
-    manufacturing company headquartered in the US. I'm based in Dublin.
+    I work in international treasury and cash management at Carrier, the
+    US-headquartered global HVAC manufacturer. I'm based in Dublin.
     My day-to-day: global cash visibility and pooling, intercompany funding
     and netting, bank relationship management, FX exposure and hedging
     (EUR, GBP, CNY, MXN, JPY in particular), liquidity and short-term
     investments, payments and treasury technology (TMS, ISO 20022, real-time
     payments), and working capital / supply chain finance.
     I have an FP&A background and a strong interest in corporate strategy:
-    M&A, capital allocation, industrial/manufacturing sector moves, tariffs
+    M&A, capital allocation, industrial/HVAC sector moves, tariffs
     and trade policy, and how macro shifts hit large multinationals.
-  # Words that boost a story's score in the no-AI fallback mode.
+  # Words that boost a story's score when ranking headlines.
   keywords:
     high: [treasury, "cash management", liquidity, "cash pooling", "FX", hedging, SOFR, "€STR", ESTR,
            "commercial paper", "money market", "ISO 20022", payments, "working capital",
            "supply chain finance", "interest rate", "rate cut", "rate hike", "bond issuance",
-           "credit rating", "corporate debt", "tariff", "Federal Reserve", ECB, "Bank of England", "CFO"]
+           "credit rating", "corporate debt", "tariff", "Federal Reserve", ECB, "Bank of England", "CFO",
+           HVAC, "heat pump"]
     medium: [manufacturing, industrial, "M&A", acquisition, merger, divestiture, "capital allocation",
              buyback, dividend, strategy, Basel, regulation, sanctions, "trade policy", euro, dollar,
-             yuan, peso, yen, sterling, inflation, recession, earnings, guidance, bank]
-  avoid: [crypto meme coins, celebrity, sports, consumer personal-finance tips]
+             yuan, peso, yen, sterling, inflation, recession, earnings, guidance, bank, "data center", cooling]
+  avoid: [crypto, meme stocks, celebrity, sports, consumer personal-finance tips]
+
+# ─────────────────────────────────────────────────────────────
+#  Watchlist: gets its own section at the top of the briefing.
+#  `match` = regular expressions used to spot the name in a headline.
+#  `query` = Google News search used to find news about it.
+# ─────────────────────────────────────────────────────────────
+watchlist:
+  company:
+    - {name: Carrier, query: '"Carrier Global" OR "Carrier Corp" OR "Carrier Transicold" OR (Carrier HVAC)',
+       match: ['Carrier Global', 'Carrier Corp', 'Carrier Transicold', "Carrier's", '\bCarrier\b.*\b(HVAC|heat pump|Viessmann|climate)', 'Viessmann']}
+  peers:
+    - {name: Trane, query: '"Trane Technologies"', match: ['\bTrane\b']}
+    - {name: Lennox, query: '"Lennox International" OR (Lennox HVAC)', match: ['\bLennox\b']}
+    - {name: Johnson Controls, query: '"Johnson Controls"', match: ['Johnson Controls', '\bJCI\b']}
+  banks:
+    - {name: BNP Paribas, query: '"BNP Paribas"', match: ['BNP Paribas', '\bBNP\b']}
+    - {name: HSBC, query: 'HSBC bank', match: ['\bHSBC\b']}
+    - {name: UniCredit, query: 'UniCredit', match: ['UniCredit']}
+    - {name: JPMorgan, query: '"JPMorgan Chase" OR "J.P. Morgan" OR JPMorgan', match: ['JPMorgan', 'J\.P\. Morgan', 'JP Morgan', '\bJPM\b', 'Jamie Dimon']}
+    - {name: Barclays, query: 'Barclays bank', match: ['Barclays']}
+
+# ─────────────────────────────────────────────────────────────
+#  Trusted sources. Google News results from any publisher NOT
+#  on this list are dropped. (Feeds listed under `feeds` below
+#  are always trusted.) Matching ignores case.
+# ─────────────────────────────────────────────────────────────
+trusted_publishers:
+  tier1: [Reuters, Bloomberg, Financial Times, Wall Street Journal, WSJ, The Economist, Associated Press, AP News]
+  tier2: [CNBC, Barron's, MarketWatch, Axios, The New York Times, New York Times, Washington Post, BBC, The Guardian,
+          The Irish Times, Irish Independent, RTE, RTÉ, Business Post, Politico, POLITICO, Nikkei Asia, South China Morning Post,
+          Fortune, Forbes, Handelsblatt, Les Echos, Le Monde, Il Sole 24 Ore, Sky News, The Times, The Telegraph,
+          Fitch Ratings, Moody's, S&P Global,
+          CFO Dive, CFO.com, CFO Brew, Treasury & Risk, Treasury Today, Global Treasurer, gtnews, Finextra, Payments Dive,
+          American Banker, Euromoney, The Banker, Risk.net, Global Finance, Institutional Investor, Banking Dive,
+          Manufacturing Dive, IndustryWeek, ACHR News, Supply Chain Dive, Utility Dive, Data Center Dynamics, DCD]
+  # Company press-release wires: only kept when the story mentions a watchlist name.
+  watchlist_only: [Business Wire, PR Newswire, GlobeNewswire]
+
+# ─────────────────────────────────────────────────────────────
+#  Economic calendar: central bank decisions and key data.
+# ─────────────────────────────────────────────────────────────
+calendar:
+  currencies: [USD, EUR, GBP, CNY, JPY]
+  impacts: [High]          # add Medium for a fuller list
+  days_ahead: 7
 
 # ─────────────────────────────────────────────────────────────
 #  AI writing (optional). Without an ANTHROPIC_API_KEY the
@@ -34,7 +80,7 @@ reader:
 ai:
   model: "claude-opus-5-5"   # "claude-haiku-5-5" is a much cheaper alternative
   effort: "medium"
-  max_items_to_ai: 140       # top-scored headlines sent to the model
+  max_items_to_ai: 120       # top-scored stories sent to the writer
 
 lookback_hours: 30           # 72 on Mondays (handled automatically)
 
@@ -50,14 +96,15 @@ feeds:
   - {name: "BIS", url: "https://www.bis.org/doclist/all_pressrels.rss", section: policy}
   - {name: "SEC", url: "https://www.sec.gov/news/pressreleases.rss", section: policy}
   # Markets & business
-  - {name: "WSJ Markets", url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", section: markets}
-  - {name: "WSJ Business", url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", section: business}
-  - {name: "FT Markets", url: "https://www.ft.com/markets?format=rss", section: markets}
-  - {name: "FT Companies", url: "https://www.ft.com/companies?format=rss", section: business}
-  - {name: "CNBC Finance", url: "https://www.cnbc.com/id/10000664/device/rss/rss.html", section: markets}
+  - {name: "Wall Street Journal", url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", section: markets}
+  - {name: "Wall Street Journal", url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", section: business}
+  - {name: "Financial Times", url: "https://www.ft.com/markets?format=rss", section: markets}
+  - {name: "Financial Times", url: "https://www.ft.com/companies?format=rss", section: business}
+  - {name: "CNBC", url: "https://www.cnbc.com/id/10000664/device/rss/rss.html", section: markets}
   # Treasury, CFO, payments, industry
   - {name: "CFO Dive", url: "https://www.cfodive.com/feeds/news/", section: treasury}
   - {name: "Payments Dive", url: "https://www.paymentsdive.com/feeds/news/", section: treasury}
+  - {name: "Banking Dive", url: "https://www.bankingdive.com/feeds/news/", section: policy}
   - {name: "Manufacturing Dive", url: "https://www.manufacturingdive.com/feeds/news/", section: business}
   - {name: "Finextra", url: "https://www.finextra.com/rss/headlines.aspx", section: treasury}
   - {name: "HBR", url: "http://feeds.hbr.org/harvardbusiness", section: strategy}
@@ -70,8 +117,10 @@ google_news_queries:
   - {q: '"ISO 20022" OR "real-time payments" OR "instant payments"', section: treasury}
   - {q: '"supply chain finance" OR "working capital"', section: treasury}
   - {q: 'tariffs manufacturers', section: business}
+  - {q: 'HVAC industry OR "heat pump" market', section: business}
   - {q: 'industrial manufacturing acquisition OR merger', section: strategy}
   - {q: 'ECB OR "euro area" interest rates', section: policy}
+  - {q: 'Federal Reserve rates outlook', section: policy}
 
 # ─────────────────────────────────────────────────────────────
 #  Market dashboard: official sources, no keys needed.

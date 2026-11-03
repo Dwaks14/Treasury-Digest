@@ -4,76 +4,103 @@ from __future__ import annotations
 import os
 import re
 
-SYSTEM = """You are the editor of a private, one-reader morning briefing.
+SYSTEM = """You are the editor of a private, one-reader morning briefing, read on a phone on the walk to work.
 Write for this reader:
 
 {profile}
 
-Things they do NOT want: {avoid}.
+Their watchlist:
+- Their company: {company}
+- Peers: {peers}
+- Their relationship banks: {banks}
 
-You'll get today's market snapshot and a numbered list of candidate headlines
-(title, source, short blurb). Pick what genuinely matters to this reader, skip
-the rest, and write the briefing in Markdown using exactly these sections:
+Leave out: {avoid}.
 
-## The two-minute brief
-4 to 6 bullets: the most important things today, each with a one-line "so what" for a corporate treasurer.
+Inputs: a market snapshot, an economic calendar (Dublin times), and numbered stories from trusted
+outlets. A story tagged WATCH: names a watchlist company or bank. "also:" lists other outlets that
+ran the same story. Different outlets often cover one event under different headlines. Treat those
+as ONE story.
 
-## Rates, FX & liquidity
-What moved in the snapshot and why it matters (funding costs, hedging, cash investment yields). Mention the actual numbers. Short paragraphs or bullets.
+Write Markdown with exactly these sections, in this order. Target 450 to 650 words in total and never more than 700:
 
-## Treasury, cash & payments
-## Banks, regulation & policy
-## Strategy, M&A & the industrial world
-For each of these three sections, cover 2 to 5 stories. Each is a bold one-line headline in your own words, then 1 to 3 sentences on what happened and why it matters to an international treasury team at a US manufacturer. Leave a section out if nothing qualifies.
+## Watchlist
+Only material news about the watchlist: results, guidance, ratings, M&A, leadership, big contracts or
+plants, litigation or fines; for banks also strategy, market exits, and transaction-banking or treasury-services
+moves. Ignore stories where a bank is only quoted or forecasting (e.g. "JPMorgan analysts expect…").
+One bullet per item: **Name:** what happened, then why it matters to the reader. If nothing qualifies,
+write the single line: Nothing material today.
+
+## The brief
+The 4 most important other stories. One bullet each: a bold lead, then one sentence of "so what" for an
+international treasury team at a US manufacturer.
+
+## Rates & FX
+2 to 4 bullets: what moved in the snapshot that matters (quote the numbers), and any high-impact calendar
+event today and what it could mean for funding, hedging or cash yields.
+
+## Also worth knowing
+Up to 4 one-line bullets covering treasury and payments, regulation, or strategy, M&A and industry.
 
 ## Worth thinking about
-One short paragraph connecting dots across today's news: a strategic or FP&A angle, a question to raise with the team, or a risk to watch.
+Two or three sentences: one strategic or FP&A angle, or a question worth raising with the team.
 
 Rules:
-- Cite every story with its number in square brackets, e.g. [12]. Cite only numbers from the list. Never write URLs.
-- Use only facts present in the headlines, blurbs and snapshot. If a blurb is thin, say less rather than guess.
-- Plain, confident, analyst-grade English. No hype, no filler, no emojis.
-- Total length 700 to 1100 words.
+- Each event appears once in the whole briefing. Never repeat a story across sections.
+- Cite every item with its story number(s), e.g. [12]. At most 2 citations per item; prefer the most
+  authoritative outlet. Cite only numbers from the list. Never write URLs.
+- Use only facts in the inputs. If a story is thin, say less rather than guess.
+- Crisp, plain English. Short sentences. No filler, hype or emojis.
 """
+
+
+def system_prompt(cfg: dict) -> str:
+    r, w = cfg["reader"], cfg.get("watchlist") or {}
+    names = lambda group: ", ".join(x["name"] for x in w.get(group, [])) or "none"
+    return SYSTEM.format(profile=r["profile"].strip(), avoid=", ".join(r.get("avoid", [])),
+                         company=names("company"), peers=names("peers"), banks=names("banks"))
 
 
 def _items_text(items: list[dict]) -> str:
     lines = []
     for n, it in enumerate(items, 1):
-        blurb = f" | {it['summary']}" if it["summary"] else ""
-        lines.append(f"[{n}] ({it['source']}) {it['title']}{blurb}")
+        watch = f" WATCH: {', '.join(it['watch'])} |" if it.get("watch") else ""
+        also = f" | also: {', '.join(it['also'][:4])}" if it.get("also") else ""
+        blurb = f" | {it['summary']}" if it.get("summary") else ""
+        lines.append(f"[{n}]{watch} ({it['source']}) {it['title']}{blurb}{also}")
     return "\n".join(lines)
+
+
+def user_message(today: str, market_text: str, calendar_text: str, items: list[dict]) -> str:
+    return (f"Date: {today}\n\nMARKET SNAPSHOT\n{market_text or '(unavailable)'}\n\n"
+            f"CALENDAR\n{calendar_text or '(unavailable)'}\n\nSTORIES\n{_items_text(items)}")
 
 
 def link_citations(md: str, items: list[dict]) -> str:
     """Replace [n] / [n, m] citations with real source links, so URLs can't be made up."""
     def repl(m):
-        links = []
+        links, used = [], set()
         for num in re.findall(r"\d+", m.group(0)):
             i = int(num) - 1
-            if 0 <= i < len(items):
+            if 0 <= i < len(items) and items[i]["source"] not in used and len(links) < 2:
+                used.add(items[i]["source"])
                 links.append(f"[{items[i]['source']}]({items[i]['url']})")
         return f"<span class='src'>{' · '.join(links)}</span>" if links else ""
     return re.sub(r"\[(\d+(?:\s*,\s*\d+)*)\](?!\()", repl, md)
 
 
-def with_claude(cfg: dict, items: list[dict], market_text: str, today: str) -> str | None:
+def with_claude(cfg: dict, items: list[dict], market_text: str, calendar_text: str, today: str) -> str | None:
     if not os.environ.get("ANTHROPIC_API_KEY"):
         return None
     import anthropic
 
     ai = cfg.get("ai", {})
-    items = items[: ai.get("max_items_to_ai", 140)]
-    reader = cfg["reader"]
     client = anthropic.Anthropic()
     try:
         with client.beta.messages.stream(
             model=ai.get("model", "claude-opus-5-5"),
             max_tokens=16000,
-            system=SYSTEM.format(profile=reader["profile"].strip(), avoid=", ".join(reader.get("avoid", []))),
-            messages=[{"role": "user", "content":
-                       f"Date: {today}\n\nMARKET SNAPSHOT\n{market_text or '(unavailable)'}\n\n"
-                       f"HEADLINES\n{_items_text(items)}"}],
+            system=system_prompt(cfg),
+            messages=[{"role": "user", "content": user_message(today, market_text, calendar_text, items)}],
             output_config={"effort": ai.get("effort", "medium")},
             # If the model declines, the API automatically retries on a fallback model.
             betas=["server-side-fallback-2026-07-01"],
@@ -97,12 +124,19 @@ def with_claude(cfg: dict, items: list[dict], market_text: str, today: str) -> s
 
 
 def headline_list(items: list[dict]) -> str:
-    """No-AI fallback: the top-scored headlines grouped by section."""
+    """No-AI fallback: the top-scored headlines grouped by section, watchlist first."""
     names = {"treasury": "Treasury, cash & payments", "policy": "Banks, regulation & policy",
              "markets": "Markets", "strategy": "Strategy & M&A", "business": "Business & industry"}
-    out = ["*Headline mode: add an `ANTHROPIC_API_KEY` to get a written briefing.*", ""]
+    out = ["*Headline mode: today's written briefing isn't ready yet.*", ""]
+    watch = [i for i in items if i.get("watch")][:10]
+    if watch:
+        out.append("## Watchlist")
+        for i in watch:
+            out.append(f"- **{', '.join(i['watch'])}:** {i['title']} <span class='src'>[{i['source']}]({i['url']})</span>")
+        out.append("")
+    shown = {id(i) for i in watch}
     for sec, title in names.items():
-        picks = [i for i in items if i["section"] == sec][:8]
+        picks = [i for i in items if i["section"] == sec and id(i) not in shown][:6]
         if not picks:
             continue
         out.append(f"## {title}")
