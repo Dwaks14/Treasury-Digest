@@ -4,7 +4,7 @@ A personal morning news digest for international treasury, cash management and c
 Every weekday at about 05:40 Dublin time, a GitHub Action:
 
 1. pulls headlines from about 25 sources (central banks, WSJ/FT/CNBC, CFO Dive, Payments Dive, Finextra, plus targeted Google News searches),
-2. pulls rates and FX from FRED (SOFR, Fed Funds, €STR, SONIA, UST 2Y/10Y, EUR, GBP, JPY, CNY, MXN, Brent),
+2. pulls rates and FX from the NY Fed, ECB, US Treasury and Bank of England (SOFR, Fed Funds, €STR, SONIA, UST 2Y/10Y, EUR, GBP, JPY, CNY, MXN),
 3. ranks the headlines against your profile in `config.yaml`,
 4. publishes a mobile-friendly page to GitHub Pages, with an archive.
 
@@ -24,7 +24,7 @@ Every weekday at about 05:40 Dublin time, a GitHub Action:
 Everything is in `config.yaml`:
 - `reader.profile`: who you are and what you care about. The AI writes to this.
 - `feeds`: any RSS feed. `google_news_queries`: add a search to follow a topic, company or bank.
-- `market_series`: any FRED series ID.
+- `market_series`: rates and FX shown in the snapshot.
 - `ai.model`: `claude-opus-5-5` (default) or `claude-haiku-5-5` (much cheaper).
 
 ## Run locally

@@ -74,18 +74,23 @@ google_news_queries:
   - {q: 'ECB OR "euro area" interest rates', section: policy}
 
 # ─────────────────────────────────────────────────────────────
-#  Market dashboard (FRED, free, no key needed)
+#  Market dashboard: official sources, no keys needed.
+#  FX "num/den": the rate is units of `num` per one `den`
+#  (e.g. num USD, den EUR is EUR/USD), from ECB reference rates.
+#  To add FRED series (e.g. Brent: DCOILBRENTEU), add a
+#  FRED_API_KEY secret and use {source: fred, id: ...}.
 # ─────────────────────────────────────────────────────────────
 market_series:
-  - {id: SOFR,        label: "SOFR",            unit: "%"}
-  - {id: DFF,         label: "Fed Funds (eff.)", unit: "%"}
-  - {id: ECBESTRVOLWGTTRMDRATE, label: "€STR", unit: "%"}
-  - {id: IUDSOIA,     label: "SONIA",           unit: "%"}
-  - {id: DGS2,        label: "UST 2Y",          unit: "%"}
-  - {id: DGS10,       label: "UST 10Y",         unit: "%"}
-  - {id: DEXUSEU,     label: "EUR/USD",         unit: ""}
-  - {id: DEXUSUK,     label: "GBP/USD",         unit: ""}
-  - {id: DEXJPUS,     label: "USD/JPY",         unit: ""}
-  - {id: DEXCHUS,     label: "USD/CNY",         unit: ""}
-  - {id: DEXMXUS,     label: "USD/MXN",         unit: ""}
-  - {id: DCOILBRENTEU, label: "Brent ($/bbl)",  unit: ""}
+  - {label: "SOFR",             source: nyfed, rate: secured/sofr,   unit: "%"}
+  - {label: "Fed Funds (eff.)", source: nyfed, rate: unsecured/effr, unit: "%"}
+  - {label: "€STR",             source: ecb,   key: EST/B.EU000A2X2A25.WT, unit: "%"}
+  - {label: "SONIA",            source: boe,   code: IUDSOIA,        unit: "%"}
+  - {label: "UST 2Y",           source: ust,   col: "2 Yr",          unit: "%"}
+  - {label: "UST 10Y",          source: ust,   col: "10 Yr",         unit: "%"}
+  - {label: "EUR/USD", source: ecb_fx, num: USD, den: EUR}
+  - {label: "GBP/USD", source: ecb_fx, num: USD, den: GBP}
+  - {label: "USD/JPY", source: ecb_fx, num: JPY, den: USD}
+  - {label: "USD/CNY", source: ecb_fx, num: CNY, den: USD}
+  - {label: "USD/MXN", source: ecb_fx, num: MXN, den: USD}
+  - {label: "EUR/GBP", source: ecb_fx, num: GBP, den: EUR}
+  - {label: "Brent ($/bbl)", source: fred, id: DCOILBRENTEU}   # skipped unless FRED_API_KEY is set

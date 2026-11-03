@@ -28,6 +28,7 @@ jobs:
       - name: Build digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional; headline mode without it
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}             # optional
         run: python -m digest.build
       - name: Commit today's edition
         run: |
