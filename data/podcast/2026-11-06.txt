@@ -1,0 +1,98 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Friday, the sixth of November. I'm Emma.
+MICHAEL: And I'm Michael. Happy Friday.
+EMMA: Happy Friday indeed. Three big things today. The Bank of England has raised rates for the first time since twenty twenty-three. Fed officials are now openly talking about hikes too. And we've got US payrolls this afternoon, which could undo a big week for Treasury yields.
+MICHAEL: Plus a busy watchlist, with three of the five relationship banks in the news. Let's start there.
+EMMA: Let's. First up, UniCredit. Its takeover of Commerzbank is nearing completion. Commerzbank says it is, quote, convinced of the value in the deal, and its chief executive describes the bank as being in a position of strength going in.
+MICHAEL: And there was one line in the coverage I thought was the real story for a treasury team. Commerzbank is flagging higher competition for deposits as the takeover nears.
+EMMA: That's the bit I'd underline. Two practical points. First, if you hold balances with both UniCredit and Commerzbank, those two exposures are about to become one counterparty. So it's worth checking how your counterparty limits are set, because what used to be two comfortable lines could become one line that's over the limit.
+MICHAEL: Right, the policy doesn't care that the logos used to be different.
+EMMA: Exactly. Second, deposit competition cuts both ways. If German banks are fighting for deposits, that could mean better rates on euro balances held in Germany. But it could also mean a merged bank deciding which corporate deposits it actually wants, and repricing the rest. So I'd be watching for any change in how your euro operating balances are remunerated over the next few months.
+MICHAEL: And there's a people angle at UniCredit too. They've scrapped what they called automatic remote work, and the unions aren't happy. Not a treasury issue as such, but it tells you the integration culture is going to be fairly hard-nosed.
+EMMA: Fair point. Next, HSBC. Euromoney has named HSBC the world's best transaction bank for twenty twenty-six.
+MICHAEL: Awards are awards, but that one is right in your lane.
+EMMA: It is. Transaction banking is the cash management, payments and liquidity plumbing. So if HSBC is one of your core pooling or cash management providers, this supports the case for that relationship. And if you're ever making the internal argument for consolidating more flows with them, it's a handy third-party data point.
+MICHAEL: Now, JPMorgan had a rougher day. The Senate Finance Committee plans to investigate the bank's ties to Jeffrey Epstein in the new Congress, and the stock fell on the news. CNBC first reported that Democrats were gearing up for the probe.
+EMMA: How do you read that?
+MICHAEL: I'd file it as headline and reputational risk, not credit risk. Nothing in the reporting touches the bank's balance sheet or its ability to settle your payments. What it does mean is noise. Hearings, document requests, a news cycle that comes back every few weeks once the new Congress is sitting.
+EMMA: And from a relationship-management point of view, it's probably worth knowing in case it comes up internally, but I wouldn't move a single dollar on the back of it.
+MICHAEL: Agreed. The more interesting JPMorgan story, honestly, is the other one. J-P Morgan Payments and Mastercard have joined a fifteen million dollar Series A round in a startup called Firmly.
+EMMA: Remind me what Firmly does.
+MICHAEL: It's a no-code platform for what people are calling agentic commerce. Basically, AI agents doing the shopping and checkout on someone's behalf. The money is small for a bank that size. The signal is where its payments arm thinks the next wave of transactions will come from.
+EMMA: And for a corporate, I think the question is whether that eventually shows up in B2B. Agents raising purchase orders, agents paying invoices. Not today, but it's worth keeping an eye on what your banks are building.
+MICHAEL: One more watchlist note. B-N-P Paribas is expanding its wealth hiring in Taiwan, fuelled by tech millionaires. And Barclays had a couple of minor headlines, including the National Trust moving to cut ties with the bank as part of a climate push. Neither is material for you.
+EMMA: Good. Let's move on to rates and FX, because this was a big week.
+MICHAEL: It really was. Let's start with the US. The two-year Treasury yield is four point four six percent. That's down twelve basis points on the day, and down fifteen basis points on the week.
+EMMA: Twelve in a day. That's a big move for the two-year.
+MICHAEL: It is. And the ten-year is at four point eight four percent, down six on the day and fourteen on the week. So the whole curve has rallied hard.
+EMMA: Which is a slightly odd picture, given what Fed officials are saying. We'll come to that. What about the overnight rates?
+MICHAEL: SOFR is three point nine four percent, down three basis points on the day and flat on the week. The effective Fed funds rate is three point eight eight, unchanged.
+EMMA: So the very short end hasn't moved, but anything with a year or more on it has got noticeably cheaper.
+MICHAEL: Exactly. And that matters for anyone thinking about term funding or fixing rates on floating debt. The market has handed you a better entry point this week than last week.
+EMMA: Let's do Europe. The euro short-term rate is two point four four percent, flat. SONIA, the sterling overnight rate, was three point seven three as of earlier in the week, but that figure predates yesterday's Bank of England decision, so expect it to move up.
+MICHAEL: Right, that number is stale by definition. It'll reset higher now that Bank Rate is four percent.
+EMMA: Now currencies. Euro-dollar is at one point one two two four. That's down point three eight percent on the day, so the dollar bounced a bit, but the euro is still up point eight four percent on the week.
+MICHAEL: And there's a fresh reason for euro strength. The E-C-B's Zigman said there's a, quote, rather big chance of a December rate hike.
+EMMA: And the Irish Independent is reporting that experts now see a third E-C-B hike as increasingly certain, with mortgages expected to rise again. So for anyone based in Dublin, that's felt at home as well as at work.
+MICHAEL: Sterling?
+EMMA: Cable, pound-dollar, is at one point three four five nine. It actually slipped point three percent on the day of the hike, which tells you the decision was largely priced in. But it's still up just over one percent on the week. And euro-sterling is at point eight three three nine, down a touch.
+MICHAEL: Then the rest of the basket. Dollar-peso is at eighteen point five nine. So the Mexican peso is about point eight four percent stronger on the week.
+EMMA: That's one to watch for anyone with Mexican manufacturing costs. A stronger peso makes peso costs more expensive in dollar terms. If your hedge ratios on peso exposure are on the light side, a week like this is a reminder of why you hold them.
+MICHAEL: Dollar-yen is at one hundred and fifty-eight point four six, pretty much unchanged, and Bank of Japan Governor Ueda speaks at four this afternoon, Dublin time. And dollar-yuan is steady at six point six six eight four.
+EMMA: The yuan has been remarkably calm given everything going on in US-China politics. Which brings us neatly to the big stories.
+MICHAEL: Let's go. Number one, the Bank of England raised Bank Rate to four percent. That's its first increase since twenty twenty-three.
+EMMA: For a treasury team, this one is very direct. On the asset side, sterling deposit yields go up. So whatever you're holding in GBP, whether it's in operating accounts, money market funds or term deposits, you should be earning more. And it's worth checking that you actually are. Banks are often quicker to pass on rate rises to borrowers than to depositors.
+MICHAEL: That's the classic lag.
+EMMA: It is. And on the liability side, anything priced off SONIA gets more expensive. So any sterling revolving facility or term loan, any intercompany loans that reference SONIA, all of that resets higher.
+MICHAEL: And if you run a notional or physical pool in sterling, the pricing on debit and credit balances within the pool shifts too.
+EMMA: Right. So the action item is a quick review of where GBP cash is placed and how sterling facilities and intercompany loans are priced. It's not dramatic, but it's the sort of thing that's easy to let drift.
+MICHAEL: Story number two. Two Fed officials, Tom Barkin of the Richmond Fed and Beth Hammack of the Cleveland Fed, both said they favour a gradual path of rate hikes to bring down inflation.
+EMMA: Hikes. Not cuts.
+MICHAEL: Hikes. Barkin told CNBC he's concerned about inflation and that monetary policy will need to adjust, but at a gradual pace. And that's quite a shift in tone. A year ago the whole conversation was about how far the Fed would cut.
+EMMA: So now we have the Bank of England hiking, the E-C-B leaning towards December, and Fed officials talking about hikes. That's all three of the major central banks that matter for Carrier's funding pointing the same way.
+MICHAEL: Which is why the bond market rally is so interesting. Yields fell sharply this week even as the Fed got more hawkish. Part of that is the election. Investors seem to think the Democratic sweep will restrain the extremes in Washington. But it does leave a gap between what the market is pricing and what Fed officials are saying.
+EMMA: And for planning purposes, I think the takeaway is simple. Don't build relief on US dollar funding costs into the plan. Plan for flat to higher.
+MICHAEL: Agreed. Story number three. The midterms, and specifically what the Democratic sweep means for US-China trade. Analysts are pointing to growing risks around President Trump's ability to maintain what's been a fragile trade truce with China.
+EMMA: Talk me through the logic.
+MICHAEL: The argument is that a weakened president, facing a Congress controlled by the other party, has less room to manoeuvre and potentially more incentive to look tough on China. And Beijing may read the result as a sign the administration is weaker. Either way, the truce looks less stable than it did last week.
+EMMA: And for a manufacturer with China sourcing and China sales, that's not abstract.
+MICHAEL: Not at all. I'd look at three things. First, China sourcing, how much of the bill of materials still runs through China and what the fallback options are. Second, the CNY exposure itself, which has been very calm, so hedging is cheap to think about while it's calm. And third, from an FP&A angle, how much tariff cost is assumed in the twenty twenty-seven plan. If the truce wobbles, that assumption is the first thing that gets questioned.
+EMMA: And we've also had a reminder this week of how tariffs bite in practice. Reuters reported that Canadian cabinet makers are bracing for US duties that are set to double. Different industry, but it's the same mechanism.
+MICHAEL: And there's a political overlay too. Top Democrats are now calling to rein in the AI buildout, some even calling for a national data centre moratorium. So you've got a new Congress with very different priorities on trade, tech and regulation.
+EMMA: Let's do the fourth story, which is the one closest to home for Carrier. HVACR distributor sales jumped nine percent in September, according to HARDI, the distributors' trade association.
+MICHAEL: That's a strong number. Nine percent is well above what you'd call a normal month.
+EMMA: And from a revenue point of view, it's clearly supportive. Strong sell-through at distributors is the kind of channel data that backs up the revenue outlook for Carrier and its peers.
+MICHAEL: But you have a treasury caution.
+EMMA: I do. When the channel is busy, two things can happen that matter for working capital. One, distributors may start stretching payment terms, so watch their days sales outstanding. Two, they might be building inventory ahead of price increases or regulatory changes, which flatters sell-in now and can reverse later.
+MICHAEL: That's the FP&A in me nodding along. You want to know whether nine percent is genuine demand at the end customer, or the channel stocking up.
+EMMA: Exactly. Either way, good news, but worth asking the commercial team what's driving it.
+MICHAEL: Okay, a quicker round of treasury, payments and banking news.
+EMMA: The one I'd flag first is a fraud story. The French bank Crédit Mutuel Arkéa is trying to recover funds after a hundred million euro hack. And notably, the attack was on the bank's own account, not a customer's.
+MICHAEL: And the Financial Times says the techniques echo last week's attack on the crypto exchange Binance.
+EMMA: Which is a reminder that payment fraud isn't just about phishing emails to accounts payable. If a bank can lose a hundred million euros from its own account, every treasury should be re-checking the basics. Dual authorisation, payment limits, out-of-band callbacks to verify changes to bank details, and who has access to the banking portals.
+MICHAEL: It's never a bad week to test those controls.
+EMMA: Never. In payments more broadly, Yellow Card, a stablecoin payments provider, has bought a Brazilian firm called GoMoney to expand into Brazil. And on cross-border payments, Aqua Global and StoneX have partnered to add cross-border payment and FX capabilities to Aqua's financial messaging platform.
+MICHAEL: And there's a Capgemini study on AI in banking. Fifty-nine percent of banks and insurers are piloting or deploying multi-agent AI, but only ten percent have achieved enterprise-wide orchestration.
+EMMA: Which matches what most of us see from the corporate side. Lots of pilots, not much at scale yet. Also worth noting, Euromoney named D-B-S China's best supply chain finance bank for twenty twenty-six, which may be relevant if you're looking at supplier finance in China.
+MICHAEL: And one more in the US. Payments Dive asks whether the Democratic wave will revive the Credit Card Competition Act, though with key sponsors leaving the Senate, its future looks uncertain.
+EMMA: Okay, Michael, strategy corner. What caught your eye?
+MICHAEL: Two things, and they connect. The first is that China has blocked SoftBank's acquisition of ABB's robotics unit. The Financial Times called it the starting gun on the robot wars.
+EMMA: Why does that matter beyond robotics?
+MICHAEL: Because it's a signal that Beijing is willing to step in on deals involving China-based industrial assets. That's important for anyone in industrials thinking about portfolio moves. If you ever wanted to sell, buy or carve out a business with meaningful operations in China, you now have to price in the risk that Beijing says no, or slows it down.
+EMMA: So deal timelines and deal certainty both take a hit.
+MICHAEL: Exactly. And that feeds right into capital allocation. The second thing is the M&A mood in the US. Fernando Rivas, who runs corporate and investment banking at Wells Fargo, says there's a now-or-never attitude to dealmaking because of the incoming Democratic majorities. The idea being that companies want to get deals done before regulation potentially tightens.
+EMMA: And we've already seen a big one this week.
+MICHAEL: We have. Marvell has agreed to buy Lumentum in a one hundred and fifteen billion dollar all-stock deal, combining electrical and optical technologies for AI connectivity. All-stock is interesting, by the way. It means no cash or debt financing to arrange, which keeps the balance sheet clean when rates are heading up.
+EMMA: That's a good treasury point. If rates are rising, paying in shares instead of borrowing to fund a deal gets more attractive.
+MICHAEL: Right. And on the other side of the ledger, there's a sobering data point. US manufacturers announced more than six thousand layoffs in October, including at 3M and Lear. So you've got very strong HVAC distributor numbers on one hand, and a broader manufacturing sector that's cutting jobs on the other.
+EMMA: Which says HVAC is holding up better than industrials more broadly.
+MICHAEL: That's how I'd read it. And one last market note. The Nasdaq has dropped into correction territory, and European stocks have now overtaken Wall Street for the year following the Democratic sweep. So the narrative of US exceptionalism is being tested.
+EMMA: Let's do the calendar. Today, at one thirty this afternoon Dublin time, we get the US jobs report.
+MICHAEL: The forecast is sixty-five thousand jobs, after twenty-nine thousand last month. Unemployment is expected at four point two percent, unchanged. And average hourly earnings are forecast to rise point three percent on the month, after point one percent last time.
+EMMA: And why does this one matter more than usual?
+MICHAEL: Because of everything we just discussed. Yields fell sharply this week while Fed officials talked about hikes. A strong report, especially on wages, would back the hawks and could reverse a lot of this week's fall in yields and in the dollar. A weak report would confirm the market's view and probably extend the rally.
+EMMA: Then at four o'clock Dublin time, Bank of Japan Governor Ueda speaks. With dollar-yen at one fifty-eight and a half, anything he says about policy or the currency could move the yen.
+MICHAEL: And looking ahead, the big things are the E-C-B in December, where a hike is increasingly expected, and of course the new Congress starting to take shape.
+EMMA: So, to close, here's the question worth taking into the office today. Central banks in the UK, Europe and now the US are all leaning towards higher rates, yet US term yields just fell fifteen basis points in a week. If payrolls come in firm this afternoon, that gap could close quickly.
+MICHAEL: So the question is, should some of the recent fall in US dollar term rates be locked in now, by hedging or by bringing forward any refinancing, before the market changes its mind?
+EMMA: That's the one. Thanks for listening, and have a great weekend.
+MICHAEL: Have a great weekend, everyone. Talk to you on Monday.
