@@ -1,0 +1,149 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Monday, the ninth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. A surprisingly strong American jobs report that puts a December Fed hike firmly on the table. Christine Lagarde hinting that the European Central Bank is heading the same way. And fresh Houthi strikes in Riyadh that are a reminder energy risk hasn't gone away.
+MICHAEL: Plus some real stress in the A-I debt markets, which matters more for an HVAC company than you might think. We'll get to that.
+EMMA: Let's start, as always, with the watchlist. It's a quiet one today. There's really only one item I'd call material.
+MICHAEL: J-P Morgan.
+EMMA: J-P Morgan. JPMorgan Chase has formed a strategic partnership with OpenAI to use the lab's coding and cybersecurity models. That's all the detail we have, so let's not overreach. But it's a relationship bank for Carrier, and the cybersecurity piece is the part I'd pay attention to.
+MICHAEL: Why that piece specifically?
+EMMA: Because when your bank changes how it screens for fraud, you feel it at the corporate end. Payment approvals, how unusual transactions get flagged, how quickly a held payment gets released. If J-P Morgan is building better A-I models into its security stack, that could mean fewer false positives on legitimate payments. Or it could mean a period where the rules shift and things get held that never used to.
+MICHAEL: So the practical step is a conversation with the coverage team.
+EMMA: Exactly. Something simple. How will this show up in your fraud screening, and in your treasury-services platforms? And is there anything we need to do on our side? It's a cheap question to ask, and you'd rather hear the answer before a payment run than during one.
+MICHAEL: And the coding part, I'd read that as internal productivity. Faster development on their platforms, maybe faster rollout of new features. Whether that turns into something useful for a corporate client is an open question.
+EMMA: Agreed. One smaller note. H-S-B-C is reported to be spending about four million Hong Kong dollars a month on a flagship branch to keep its physical outlets relevant. That's a retail strategy story. It doesn't really touch Carrier's treasury, so I'll leave it there.
+MICHAEL: Nothing from Carrier itself, or from Trane, Lennox or Johnson Controls today, and nothing material on B-N-P Paribas, UniCredit or Barclays.
+EMMA: Right. So let's go to rates and F-X. Michael, walk us through it.
+MICHAEL: Sure. Start with dollar funding. SOFR is at three point nine two percent. That reading is as of last Thursday, down two basis points on the day and two on the week. Effective Fed funds is steady at three point eight eight percent. So overnight dollar money is basically where it's been.
+EMMA: And the Treasury curve?
+MICHAEL: That's where Friday's jobs data shows up. The two-year Treasury yield rose five basis points on Friday to four point five one percent. The ten-year rose two basis points to four point eight six percent. The interesting part is the weekly picture. Even after Friday's move, the two-year is down five basis points on the week, and the ten-year is down eight.
+EMMA: So the market pulled yields down earlier in the week, and the jobs number only took back part of that.
+MICHAEL: That's how I read it. The front end, the two-year, reacted more, which makes sense. That's the part of the curve most sensitive to what the Fed does next. If the market is pricing a December hike more firmly, the two-year moves first.
+EMMA: For a treasury team, what does that mean in practice?
+MICHAEL: Two things. On the investment side, dollar cash yields are holding up well. Short-term money funds and deposits tied to SOFR are still paying close to four percent, and if the Fed hikes, that goes up. On the funding side, anything floating off SOFR gets more expensive if the Fed moves. And term borrowing costs are still elevated, with the ten-year near four point nine.
+EMMA: Sterling. SONIA is at three point seven three three five percent, flat on the day and the week. That reading is from last Wednesday, the fourth. Nothing moved there in this data.
+MICHAEL: And currencies?
+EMMA: This is a bit unusual today. The snapshot we have only includes one currency pair, euro-sterling. It's at nought point eight three four one, essentially flat, up two hundredths of a percent on the day and four hundredths on the week. So euro and sterling are moving together.
+MICHAEL: And the rest is missing.
+EMMA: The rest is missing from today's data. No euro-dollar, no dollar-yen, no renminbi, no Mexican peso. I don't want to guess at numbers we don't have. So the honest advice is simple. If you're putting on hedges today, check live rates first. Don't rely on Friday's levels from memory.
+MICHAEL: We also don't have the euro short-term rate in today's snapshot.
+EMMA: No, we don't. But we do have the European Central Bank story, which tells us where euro rates are likely heading, and that's arguably more useful than one day's fixing.
+MICHAEL: Which brings us nicely to the big stories.
+EMMA: Let's start with the jobs report, because it set the tone for everything else.
+MICHAEL: It really did. The US economy added a hundred and sixty-five thousand jobs in October. That's well above forecasts. The unemployment rate dipped to four point one percent. The Financial Times framed it as a hiring rebound that reinforces expectations the Federal Reserve will raise interest rates.
+EMMA: And it wasn't just one outlet reading it that way.
+MICHAEL: No. Bank of America Securities analysts said the strong October report should keep the Fed focused on inflation and on track to hike again in December. And San Francisco Fed President Mary Daly called it good news for American workers. But she also said Americans are on a treadmill of high inflation, and that more rate hikes are likely.
+EMMA: That's quite a phrase from a Fed president.
+MICHAEL: It is. And it tells you where the Fed's head is. A strong labour market is normally welcome. But when inflation is the problem, strong hiring gives the Fed more room to keep tightening without worrying about breaking the jobs market.
+EMMA: There was a manufacturing angle in the numbers too.
+MICHAEL: There was. Manufacturing added nineteen thousand jobs in October. The biggest gain was in computer and electronic products, up about six thousand seven hundred. The biggest loss was in beverage, tobacco and leather products, down about two thousand four hundred.
+EMMA: So the factory gains are concentrated in tech-related sectors.
+MICHAEL: That's the pattern. And it's a useful sanity check for anyone forecasting demand for industrial equipment. Manufacturing employment is growing, but unevenly.
+EMMA: So, the "so what" for us. Let me take the cash side. If a December Fed hike is now more likely, dollar deposit yields and money fund yields should drift up. That's good for surplus dollar cash sitting in the US entities.
+MICHAEL: And the funding side?
+EMMA: Anything floating gets more expensive. Commercial paper, revolver drawings, any floating-rate debt. And for intercompany, if you charge interest on intercompany loans off a SOFR-based benchmark, those rates move too. That has transfer pricing and cash-flow implications for the entities on both sides.
+MICHAEL: I'd add an F-P-and-A angle. If the budget for twenty twenty-seven was built on the assumption that the Fed would be on hold or easing, it's worth revisiting the interest expense line. A hike in December and the risk of more after that is a different world.
+EMMA: Good point. Let's move to Europe, because the story there rhymes.
+MICHAEL: It does. In an interview with the newspaper Yomiuri Shimbun, E-C-B President Christine Lagarde hinted at a December interest rate hike. Bloomberg also reported her saying inflation is likely to stay high in the near future.
+EMMA: And it's not just Lagarde.
+MICHAEL: No. There's a wider chorus. Hernández de Cos, described as a candidate for the top E-C-B job, says vigilance is needed on inflation risks. And Klaas Knot, another contender, told the Financial Times he won't hesitate to act in a debt crisis.
+EMMA: That last one is a slightly different message.
+MICHAEL: It is. That's about the E-C-B being willing to step in if bond markets get disorderly, rather than about rates. But together it paints a picture of a central bank leaning hawkish on inflation, with a succession race in the background where candidates are presenting themselves as tough.
+EMMA: For a treasury team based in Dublin with a lot of euro activity, this is very close to home. If the E-C-B hikes in December, euro deposit yields go up. That's good news for euro surplus cash, which for a long time earned very little.
+MICHAEL: So the question becomes how you ladder the euro cash.
+EMMA: Exactly. If you believe rates are going up, you don't necessarily want to lock euro cash into a long term deposit today at a rate that might look low in two months. Shorter tenors give you flexibility to reinvest at higher rates. But you're giving up certainty.
+MICHAEL: And on the hedging side?
+EMMA: The cost of carry on euro hedges depends on the gap between euro and dollar rates. If both central banks are hiking, the effect on forward points depends on which one moves more. That's worth a fresh look rather than assuming last quarter's hedge costs still apply.
+MICHAEL: And with the snapshot missing euro-dollar today, it's another reason to get live pricing before you execute anything.
+EMMA: Right. Let's go to the third big story, which is geopolitical.
+MICHAEL: Houthi strikes on Sunday damaged Saudi Aramco's office in Riyadh. The tower that hosts Saudi Arabia's state-owned oil major, in the King Abdullah Financial District, was hit by shrapnel.
+EMMA: We don't have any detail on oil prices from today's inputs, so I don't want to put a number on it.
+MICHAEL: No, and we shouldn't. But the direction of risk is clear. Attacks reaching the heart of Saudi Arabia's financial district are a reminder that the energy situation in the region is still fragile.
+EMMA: So what does that mean for a US manufacturer?
+MICHAEL: Energy costs feed through to everything. Freight, logistics, the cost of running factories, and the price of inputs like metals and plastics. If energy prices spike again, that could squeeze margins at exactly the time when companies are trying to push through price increases.
+EMMA: And from a treasury perspective, commodity and energy exposure tends to be managed elsewhere in the business. But the cash forecast should reflect the possibility of higher input costs. And if there are any commodity hedges, it's worth knowing how they'd behave in a spike.
+MICHAEL: There's also an inflation link back to the central banks. If energy prices rise again, that keeps inflation higher, which keeps both the Fed and the E-C-B leaning towards hikes.
+EMMA: Everything connects. Fourth big story, and this is the one I think is underrated for Carrier.
+MICHAEL: CoreWeave. CNBC reports that CoreWeave's bond yield has topped sixteen percent. CoreWeave is closely tied to the A-I buildout, and the report frames those yields as a sign of stress in A-I debt markets, with investors worried about a slowdown in data centre building.
+EMMA: Sixteen percent is a striking number.
+MICHAEL: It is. That's the kind of yield you'd normally associate with a company the market thinks is quite risky. And it's not an isolated signal. The Financial Times has a piece on how Wall Street's all-in bet on A-I blew up, saying the US midterm elections sparked an exodus of hedge funds and retail investors from a trade that had taken over equity markets.
+EMMA: And the Nasdaq?
+MICHAEL: CNBC notes the Nasdaq has dropped into correction territory. There's also an FT piece under the headline "Data centres rebuked", with the line "Capex, meet the electorate". The picture is a political and market backlash against the data centre boom.
+EMMA: So why does this matter for an HVAC company?
+MICHAEL: This is analysis, not something in the reporting. But data centres need a lot of cooling. Commercial HVAC demand has been supported in part by the data centre buildout. If financing for those projects gets more expensive, or political pressure slows them down, that could soften one source of demand.
+EMMA: So it's a planning assumption to watch.
+MICHAEL: I'd frame it that way. If the forecast assumes data centre demand keeps growing at its recent pace, it's worth stress-testing that. What happens to the revenue outlook, and to working capital, if those orders slow or get pushed out?
+EMMA: And there's a counterparty angle for us. If some customers in that space are under financial stress, it's worth watching receivables and credit terms with them.
+MICHAEL: Good point. When a sector's borrowing costs spike, payment behaviour can change.
+EMMA: Let's do a quicker round of treasury, payments and banking news.
+MICHAEL: Go for it.
+EMMA: First, Huntington National Bank has launched a new treasury management platform called Intelligent Treasury. It's designed to help commercial clients simplify treasury operations, improve cash visibility and manage liquidity more effectively across multiple banking relationships.
+MICHAEL: Multi-bank visibility is the holy grail, isn't it?
+EMMA: It's the thing everyone wants. Huntington isn't one of Carrier's relationship banks, so this isn't directly relevant. But it's a signal of where bank platforms are heading. Banks are trying to become the window onto all your cash, not just the cash they hold.
+MICHAEL: Which is a competitive threat to standalone treasury management systems.
+EMMA: Potentially. It's worth knowing your own banks may pitch something similar. The question to ask is whether a bank-owned multi-bank portal really is neutral, or whether it nudges you towards that bank's products.
+MICHAEL: Next.
+EMMA: B2B payments fintech Pliant has raised eighty million dollars in a Series C round, led by Seaya Nova and Speedinvest. It describes itself as specialising in highly modular B2B payment solutions. Investors are still putting serious money into corporate payments.
+MICHAEL: And Visa?
+EMMA: Visa has set up six global capability hubs at a new Solution Center in Singapore. They cover A-I, cybersecurity, quantum computing and next-generation payments, and the technology is meant for deployment across Visa's global network. A long-term story, but cybersecurity keeps coming up today.
+MICHAEL: It does. J-P Morgan, Visa, and then fraud.
+EMMA: On fraud, there's a striking story from the Financial Times. Courts in India and Singapore have frozen the assets of a telecoms entrepreneur accused of orchestrating what's described as a breathtaking private credit fraud before fleeing the US.
+MICHAEL: That fits with the CoreWeave story in a way. Stress in credit markets tends to expose problems.
+EMMA: It does. And on the theme of liquidity, there's a Bloomberg report that a rates blow-up has triggered a rush for cash at Austrian property funds.
+MICHAEL: That's a classic liquidity mismatch.
+EMMA: It's a reminder that any investment vehicle offering liquidity on top of illiquid assets can come under strain when rates move sharply. For a corporate treasury, it reinforces why short-term investment policy should prioritise liquidity and capital preservation over yield.
+MICHAEL: Good rule.
+EMMA: One more from Sibos.
+MICHAEL: Go on.
+EMMA: Mastercard's Marc Pettican spoke about how advanced data analytics and A-I can unlock working capital and early payment discounts. That's right in supply chain finance territory. Better data on buyers and suppliers can make early payment programmes more targeted.
+MICHAEL: Which is worth thinking about if Carrier is reviewing supplier terms.
+EMMA: Indeed.
+MICHAEL: And Wall Street's view on the new Congress?
+EMMA: Fortune reports that Wall Street banks are bracing for what they call political theater as Democrats return to power. But few expect major change any time soon.
+MICHAEL: Which is probably the right instinct. Hearings and headlines, but slower movement on actual legislation.
+MICHAEL: Okay. My turn. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to pull together a cluster of manufacturing stories, because there's a theme. Start with Lear. Lear is opening an automated factory in Michigan that it describes as a blueprint for its global network.
+EMMA: What's in it?
+MICHAEL: It's expected to go live next year, with a host of automation tools, including two separate automated storage and retrieval systems. The interesting word is blueprint. Lear isn't just building one smart factory. It's designing a template it plans to roll out more widely.
+EMMA: And that's relevant to Carrier how?
+MICHAEL: Every large manufacturer is weighing the same question. How much do you invest in automation, and where? A blueprint approach means heavy upfront capital spending, but potentially lower operating costs and more flexibility on where you produce. For an F-P-and-A person, that's a capital allocation and payback question.
+EMMA: What else is in the cluster?
+MICHAEL: Several US manufacturing investments in one week. Pfizer is building a six hundred and fifty million dollar manufacturing technology centre in Connecticut. Lonza plans to acquire five contract manufacturing sites in the US. Hydro has broken ground on a new indirect extrusion press line in Pennsylvania, five thousand nine hundred metric tons.
+EMMA: Any metals angle?
+MICHAEL: Yes, aluminium. Century Aluminum's chief executive, Gary Jesse, says its Oklahoma project is on track despite community concerns. It would be the largest primary aluminium smelter in the US. Financing, a power contract and engineering talks are all in progress.
+EMMA: And aluminium matters for HVAC.
+MICHAEL: My analysis here, not the reporting: aluminium is a meaningful input for HVAC equipment. More domestic primary capacity could, over time, change supply dynamics for US manufacturers. But that's a long way off, and the project still needs financing and power.
+EMMA: So the pattern is investment in US manufacturing capacity.
+MICHAEL: That's the pattern. Companies are putting money into US production, whether that's automation, new sites or acquisitions. For a treasury team, that means more capital expenditure to fund, and potentially more domestic supply chains to finance.
+EMMA: Anything on capital allocation more broadly?
+MICHAEL: Two quick ones. Berkshire Hathaway stepped up share buybacks to nine point six billion dollars in the third quarter, more than double, even as quarterly operating income fell five point eight percent year on year. Interesting when a company known for discipline accelerates buybacks while profits slip.
+EMMA: And the other?
+MICHAEL: In Europe, a Dutch start-up called Onodrim, founded by Palantir alumni, has raised three hundred million dollars at a one point three billion dollar valuation. The plan is to buy and scale up smaller companies to build production capacity in European defence. A roll-up strategy in an industrial sector.
+EMMA: And there's a policy angle in Europe too.
+MICHAEL: There is. Ahead of the UN climate summit in Turkey, EU leaders are lowering their ambitions, but aiming for an easier win on electrification, while holding fire on further climate financing.
+EMMA: Electrification is interesting for an HVAC company.
+MICHAEL: My take, and this is analysis: electrification of buildings is a theme that heat pumps and modern HVAC systems benefit from. If the EU makes electrification its focus at the summit, that's at least directionally supportive for the sector. But it's a headline, not a policy change, so I wouldn't build it into a forecast yet.
+EMMA: Fair. Let's do the calendar.
+MICHAEL: Nothing high-impact on today's calendar, so this morning is about digesting Friday and positioning for the week.
+EMMA: And the week has some important data.
+MICHAEL: It does. Tomorrow, Tuesday, at half past one Dublin time, we get US consumer prices. Headline CPI is forecast to rise point three percent on the month, after point six percent last time. Core CPI, excluding food and energy, is forecast at point two percent, after point three.
+EMMA: So the forecast is for inflation to cool.
+MICHAEL: That's the forecast. If it comes in as expected, it eases some pressure. But given the strong jobs report and the Fed rhetoric, a hot number would firm up a December hike and probably push short-term rates and the dollar higher.
+EMMA: Then Thursday?
+MICHAEL: Thursday at seven in the morning Dublin time, UK monthly GDP. Forecast is flat, zero point zero percent, after point one percent last time. Relevant for sterling and for how the Bank of England thinks about the outlook.
+EMMA: And Friday.
+MICHAEL: Friday at half past one Dublin time, US producer prices. PPI forecast up point four percent, after a big one point three percent last time. Core PPI forecast point three percent, after point seven.
+EMMA: Those previous numbers are big.
+MICHAEL: They are. That's partly why everyone is watching inflation so closely. Producer prices are an early signal of cost pressures that can feed through to consumer prices. And for a manufacturer, they're a read on input costs.
+EMMA: So what's the thing to watch?
+MICHAEL: Tuesday's CPI is the big one. It'll either confirm the picture from the jobs report, or soften it. Either way, it sets the tone for rates for the rest of the month.
+EMMA: Let's close with a question to take into the office.
+MICHAEL: Go on.
+EMMA: Here's the tension. Both the Fed and the E-C-B are leaning towards tightening. But US long-term yields are actually lower on the week. The ten-year is down eight basis points even after Friday's jobs bounce.
+MICHAEL: So there's a window.
+EMMA: Potentially a narrow one. The question I'd raise with the team is this. Should we move some surplus dollar cash further out the curve, or lock in some term funding, before Tuesday's CPI decides the question?
+MICHAEL: Because if CPI is hot, that window could close quickly.
+EMMA: Exactly. And if it's soft, you've given up a little flexibility, but you've locked in yields that are still attractive. It's not a call we can make on the podcast. But it's the right question for a Monday morning.
+MICHAEL: And check live F-X rates before you do anything today, given the gaps in our data.
+EMMA: Good reminder. That's it for today. Thanks for listening, and have a good week.
+MICHAEL: See you tomorrow.
