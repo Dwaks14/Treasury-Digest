@@ -1,0 +1,156 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Tuesday, the tenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. UniCredit is closing in on Commerzbank, with record profits behind it. Canada's long-delayed real-time payments system has finally gone live. And France has accused Iran of hacking supermarket refrigerators, which is a story any cooling company should read twice.
+MICHAEL: And it's US inflation day, so we'll spend some time on what this afternoon's numbers could mean.
+EMMA: Let's start with the watchlist. And UniCredit dominates it.
+MICHAEL: It really does. UniCredit has reported record profit. And a whole cluster of reports says it's moving fast on Commerzbank. The Financial Times says UniCredit is set to seal the takeover this month. The Wall Street Journal says it's signalled it's ready to bring the merger forward.
+EMMA: And the regulatory side?
+MICHAEL: Reuters, citing sources, says UniCredit is set to win unconditional E-U approval for the deal. Reuters also reports it's preparing to call a Commerzbank shareholder vote. And UniCredit says a reshuffle of the Commerzbank board is coming in early twenty twenty-seven.
+EMMA: So this is no longer a question of if. It's a question of when, and what it looks like afterwards.
+MICHAEL: That's right. Bloomberg describes the chief executive, Orcel, as plotting a governance overhaul at Commerzbank. And he told CNBC that UniCredit seeks a constructive relationship with the German government.
+EMMA: Which matters, because Berlin's attitude has been one of the big questions hanging over this deal.
+MICHAEL: Indeed. Orcel also told CNBC he thinks the European banking sector is incredibly undervalued. So you can read the whole thing as a chief executive who believes he's buying cheap, and wants to move before the price goes up.
+EMMA: So what does it mean for a treasury team at Carrier? UniCredit is one of the relationship banks. If you also have any business with Commerzbank, you need to start thinking about the combined entity now.
+MICHAEL: In what way?
+EMMA: Three ways. First, counterparty limits. If your policy caps exposure to any one bank, two banks becoming one could put you over that cap without you doing anything. Worth checking deposit balances, derivative exposures and credit lines across both today.
+MICHAEL: Second?
+EMMA: Coverage. After a merger, relationship teams get reorganised. You might find your contact changes, or that the combined bank wants to rationalise its corporate book. It's worth getting ahead of that conversation rather than waiting for it.
+MICHAEL: And third?
+EMMA: Wallet. Banks look at the overall share of business they get from a client. A combined UniCredit and Commerzbank might expect more from Carrier, or might want to cut a facility it sees as duplicated. That affects how you think about your bank group overall.
+MICHAEL: And the record profit is relevant too. A very profitable bank with a big appetite for growth is, if anything, a good counterparty to have. The risk is more about integration disruption than credit quality.
+EMMA: Agreed. Next, Carrier itself.
+MICHAEL: Carrier and Universal Electronics have introduced a smart thermostat featuring InteliSense technology. The release says it's designed to advance comfort and service.
+EMMA: That's product news, not a treasury story on its own. But I want to flag it, because it connects to one of our big stories later. Every connected device a company sells is part of its digital footprint, and that comes with cyber risk.
+MICHAEL: We'll come back to that.
+EMMA: Then Barclays. Bloomberg and the Telegraph report that Barclays has opened an office in Saudi Arabia, even as Houthi attacks ramp up.
+MICHAEL: That's a statement of intent about the Gulf.
+EMMA: It is. If Carrier has business or growth plans in the region, it's useful to know a relationship bank is investing in a local presence. It could mean better coverage for local accounts, payments and trade finance. Equally, the security backdrop is a reminder that operating in the region carries real risk.
+MICHAEL: There's one more Barclays item, more on the consumer side. Payments Dive has a piece on how Barclays has launched a card integrated into Samsung's digital wallet, building on more than twenty years of card co-brands. Not one for the treasury team, but it shows where the bank is investing.
+EMMA: And a couple of J-P Morgan items, briefly. Bloomberg reports J-P Morgan is weighing a big discount to lure lenders for software debt.
+MICHAEL: That's interesting in light of the tech sell-off. If a bank has to offer a big discount to place debt, that's a sign of where investor appetite is.
+EMMA: Right. And separately, H-S-B-C and Citi have turned bullish on Indian stocks as they draw record inflows. That's a market view, not a business move, so I'll leave it there.
+MICHAEL: And Johnson Controls shares outperformed their peers on a strong trading day. No news behind that in our inputs.
+EMMA: Okay. Rates and F-X. Michael.
+MICHAEL: Let's start with the biggest single move in the snapshot, which is sterling. SONIA, the sterling overnight rate, jumped twenty-five basis points in a day, to three point nine eight two four percent. That reading is as of last Thursday, the fifth.
+EMMA: That's a full quarter-point step.
+MICHAEL: It is. A move like that in an overnight benchmark tells you the policy rate has moved. For a treasury team, the practical point is that anything priced off SONIA reprices straight away.
+EMMA: So sterling deposits should be earning more today than last week. And any sterling borrowing linked to SONIA costs more.
+MICHAEL: Exactly. And it's worth checking that your cash sweeps and interest-bearing accounts are actually passing that through. Sometimes bank account rates lag the benchmark, and that's money left on the table.
+EMMA: Good point. That's a five-minute check with the banks. Now dollars.
+MICHAEL: SOFR has eased to three point eight nine percent, as of last Friday. That's down three basis points on the day and six on the week. Effective Fed funds is steady at three point eight eight percent.
+EMMA: And Treasuries?
+MICHAEL: Yields rose yesterday. The Wall Street Journal says US and euro-zone bond yields rose ahead of inflation data and the rates outlook. The two-year Treasury is at four point five six percent, up five basis points. The ten-year is at four point eight eight percent, up two. On the week, both are down three.
+EMMA: So the market is bracing for this afternoon.
+MICHAEL: That's the read. There was a calming data point too. A New York Fed survey shows a steady inflation outlook among consumers, with mixed views on jobs.
+EMMA: The euro short-term rate is unchanged at two point four four three percent. So nothing new in euro money markets.
+MICHAEL: Currencies.
+EMMA: Euro-dollar is at one point one one nine three. Up a quarter of a percent on the day, but down about two tenths of a percent on the week. So the euro has given back a little ground over the week.
+MICHAEL: And the peso?
+EMMA: Dollar-Mexican peso fell nearly half a percent to eighteen point six one. Down a bit over half a percent on the week. So the peso has firmed again. For Carrier, that means Mexican operating costs are a little more expensive in dollar terms. Worth checking that the peso hedge programme is covering what it should.
+MICHAEL: The renminbi.
+EMMA: Dollar-renminbi is at six point six seven two eight, basically flat on the day, but up about four tenths of a percent on the week. So a slightly weaker renminbi. That marginally helps the dollar cost of anything sourced in China, and marginally hurts the dollar value of Chinese earnings.
+MICHAEL: And euro-sterling?
+EMMA: Flat at nought point eight three four three. Down about two tenths of a percent on the week. We don't have dollar-yen or sterling-dollar in today's data, so check live rates on those before you trade.
+MICHAEL: Now, the big one. US consumer prices at half past one Dublin time.
+EMMA: Remind us of the numbers.
+MICHAEL: Headline CPI is forecast to rise point three percent on the month, after point six percent last time. Core, excluding food and energy, is forecast at point two percent, after point three.
+EMMA: So the forecast is for a cooler month.
+MICHAEL: It is. If it lands there, markets might relax a little. If it comes in hot, it would firm up expectations for a Fed hike in December, and probably push the dollar and short-term dollar rates higher.
+EMMA: For a treasury team, there's a simple tactical question. If you have a large dollar hedge or a big deposit placement to do today, is it worth waiting until after the release? You don't want to lock something in at one thirty and see the market move sharply at one thirty-one.
+MICHAEL: Fair. Let's move to the big stories.
+EMMA: Let's start with payments, because it's a big moment. Canada's Real-Time Rail payments system has finally launched. Finextra notes it comes after years of delays.
+MICHAEL: Years is right. This has been a long time coming.
+EMMA: It has. And American Banker has a piece on how Canada's real-time rail challenges bank innovation, which suggests banks will have to work out how to build services on top of it.
+MICHAEL: Why does it matter for Carrier?
+EMMA: Carrier has Canadian operations and Canadian suppliers. A real-time rail means payments that settle instantly, around the clock. That can help with things like urgent supplier payments, intercompany funding, and getting cash where it needs to be faster.
+MICHAEL: But launched doesn't mean ready for corporates.
+EMMA: Exactly. Analysis, not reporting, but the first wave of a new real-time system often focuses on retail or smaller payments. Corporate access, higher value limits and rich remittance data can come later. So the practical step is to ask your Canadian banks a few direct questions.
+MICHAEL: Such as?
+EMMA: When will corporate clients be able to send and receive on it? What are the value limits? And what payment data comes with it? If the messages carry structured data in the I-S-O twenty-oh-twenty-two style, that makes reconciliation much easier.
+MICHAEL: There's another Canada payments item that fits here.
+EMMA: There is. PhotonPay's Canadian entity is now registered with the Bank of Canada as a payment service provider, under Canada's Retail Payment Activities Act. More competition in Canadian payments, alongside the new rail.
+MICHAEL: Second big story.
+EMMA: Cash investment. Tradeweb has announced a strategic collaboration with B-N-Y's LiquidityDirect to expand the investment options on Tradeweb's ICD Portal.
+MICHAEL: Explain ICD for anyone who doesn't live in this world.
+EMMA: ICD Portal is a multi-fund platform. Corporate treasury clients use it to access and trade money market funds and other short-term investments. Think of it as one screen where you can see and invest in lots of different funds from different managers.
+MICHAEL: And this deal widens the menu.
+EMMA: It does. Why it matters: most large corporates use one or more of these portals to manage short-term cash. When a platform adds options, it's a prompt to benchmark. Is your current portal giving you the fund range, the pricing and the reporting you need?
+MICHAEL: And with rates moving the way they are, getting the cash investment right is worth more than it was a few years ago.
+EMMA: Exactly. When sterling overnight rates jump a quarter point in a day, the difference between a good and a mediocre investment setup adds up quickly.
+MICHAEL: Third big story. This is the one you flagged at the top.
+EMMA: Yes. The Financial Times reports that France has accused Iran of cyber attacks on supermarket refrigerators. The incidents destroyed food and triggered fires. Iran's Islamic Revolutionary Guard Corps has been named in a prosecution.
+MICHAEL: That's an extraordinary story.
+EMMA: It is. And for a company in the cooling business, I don't think it's a stretch to say it's directly relevant. Connected cooling and refrigeration equipment is now, apparently, a target for state-level cyber attacks.
+MICHAEL: Let me be careful. We don't know whose equipment was involved, and nothing in the reporting mentions Carrier.
+EMMA: Absolutely right. We don't know, and we shouldn't speculate. The point is broader. If connected cooling equipment can be hacked to destroy stock and start fires, that has implications for product security, liability and insurance.
+MICHAEL: So for the treasury team?
+EMMA: Treasury often owns the insurance programme, or works closely with risk management. It's worth asking whether cyber risk to connected products is properly covered. Is it in the risk register? Does the product liability cover respond if a cyber attack on a device causes physical damage? Those are good questions for the next insurance renewal.
+MICHAEL: And it links back to the smart thermostat news.
+EMMA: It does. Every new connected product adds value for customers, but it also adds to the attack surface. That's not a reason not to do it, it's a reason to be sure the risk is managed and financed properly.
+MICHAEL: Fourth big story, and it's about markets more broadly. Nvidia.
+EMMA: Go on.
+MICHAEL: Nvidia's shares fell after its board opened an investigation into an alleged Chinese spy scandal, after chief executive Jensen Huang admitted to an affair. The FT calls Nvidia the company that has become the bank of A-I, and says the boardroom crisis raises questions about its future.
+EMMA: Do markets think he'll go?
+MICHAEL: CNBC reports that prediction markets price relatively low odds of Huang departing in the near term. But the wider market reaction is the bigger story. The FT reports investors piling into defensive stocks, consumer staples and healthcare, on fears the A-I bull market may be over.
+EMMA: And there are winners from that.
+MICHAEL: There are. Fund manager Nick Train had his best month since two thousand on the back of the A-I sell-off. And SoftBank's huge A-I bet is under pressure as the value of its holdings falls ahead of its earnings.
+EMMA: Is there a counterpoint?
+MICHAEL: Yes. Goldman Sachs chief executive David Solomon says investor appetite to finance A-I infrastructure remains strong, despite the reset in A-I stocks and political uncertainty around data centres. And President Trump has signalled openness to A-I guardrails after what CFO Dive calls the blue tsunami in the midterms.
+EMMA: So why should a treasury team at an HVAC company care?
+MICHAEL: Two reasons. First, my analysis: data centres are a meaningful source of cooling demand. If A-I investment slows, that could affect one part of the order book. Goldman says financing is still strong, so it's a mixed signal, but it's worth watching.
+EMMA: And second?
+MICHAEL: Market sentiment affects funding. When investors get nervous about tech, they tend to demand more for risk across the board. The J-P Morgan software debt story is an example. For a well-rated industrial company, this kind of rotation into defensives can actually be helpful. But it's a reminder that credit conditions can change quickly.
+EMMA: Let's do a quicker round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: First, P-N-C Bank is working with Coinbase to make incoming stablecoin payments available to corporate and institutional clients.
+MICHAEL: That's a mainstream bank putting stablecoin receipts into a corporate offering.
+EMMA: It is. And relatedly, Coinbase has secured an unconditional trust charter from the Office of the Comptroller of the Currency. Not something Carrier needs today, but if customers or partners ever want to pay in stablecoins, banks are starting to build the plumbing.
+MICHAEL: Next.
+EMMA: European bank consolidation. Crédit Agricole has proposed merging its Italian operations with Banco BPM. That would create Italy's third-largest banking group.
+MICHAEL: Together with UniCredit and Commerzbank, that's quite a week for European bank M-and-A.
+EMMA: It is. The general point is that consolidation reduces the number of banks you can spread your business across. It's worth keeping an eye on concentration in the bank group over time.
+MICHAEL: And Italy again?
+EMMA: Yes. The FT reports a Bank of Italy crackdown that appears aimed at hobbling BFF, a debt collector working with the public sector. The regulatory pressure has weighed on its share price and left it vulnerable to opportunistic investors.
+MICHAEL: And the E-C-B leadership race.
+EMMA: Bloomberg says the first E-U talks on the next E-C-B chief are looming, as Klaas Knot and De Cos speak out. Knot told the FT he'd be ready to invent new crisis-fighting tools if required. That matters for the long-term direction of euro policy.
+MICHAEL: There's a nice HBR piece that fits here too.
+EMMA: There is. Harvard Business Review notes that the US and France have both seen interest rates top five percent, but their underlying economies are very different. Its theme is when rising rates signal economic strength, and when they signal risk.
+MICHAEL: Useful framing for a board conversation.
+EMMA: Very. A few more quick ones. Global Payments faces industry pricing pressure, though it's still trying to raise prices. Morgan Stanley is buying Vinyl Equity, which gives it an in-house transfer agent for share transfers around I-P-Os. And embedded finance platform Synctera has raised twenty-four and a half million dollars.
+MICHAEL: And regulation?
+EMMA: The P-C-A-O-B has scrapped the registrations of ninety-seven audit firms it deemed delinquent, as S-E-C chairman Paul Atkins seeks to narrow its focus. And in the UK, an FT comment piece argues the Financial Services and Markets Bill shows the pendulum swinging towards deregulation.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to start with a striking number from Manufacturing Dive. US manufacturing investment has tripled since twenty twenty. But capacity has grown just one and a half percent.
+EMMA: That's a big gap.
+MICHAEL: It's huge. And the piece asks why. We don't have the full explanation in our inputs, so I won't put words in their mouth. But the F-P-and-A question writes itself. When you approve a capital project, how much of it actually adds output, and how much just replaces or upgrades what's there?
+EMMA: That's a question every capex committee should be asking.
+MICHAEL: It is. And it matters for cash planning. If a big investment programme doesn't add much capacity, the payback has to come from somewhere else: lower costs, better quality, or more flexibility. Those are real benefits, but they're harder to measure than extra units.
+EMMA: What about the HVAC sector specifically?
+MICHAEL: Good news from Watsco, the HVAC distributor. ACHR News reports record revenue in an upbeat quarterly report. Distributors sit between manufacturers and contractors, so strong distributor revenue suggests healthy demand in the US channel.
+EMMA: Which is supportive for Carrier.
+MICHAEL: It's a positive read. For the treasury and working capital teams, the flip side is to watch distributor inventory and receivables. Strong sell-in is good, but you want to know it's matched by sell-through.
+EMMA: Anything on policy?
+MICHAEL: Manufacturing Dive has a list of manufacturing bills to watch for the rest of this Congress. Several may pass before the end of the year, including a permitting bill and the National Defense Authorization Act. Others relate to robotics, chips and chemicals.
+EMMA: Permitting matters for anyone building plants.
+MICHAEL: It does. Faster permitting could shorten the time from capex approval to production, which ties back to that investment-capacity gap.
+EMMA: A couple of global strategy stories.
+MICHAEL: Yes. Volkswagen is changing its strategy in China. The FT reports it wants to sell China-made cars to the world, as it struggles with a sharp downturn in the world's largest car market. That's a big multinational rethinking China as an export base, not just a market.
+EMMA: And energy?
+MICHAEL: ExxonMobil is exploring a return to Venezuela, after previously calling the country uninvestable. It says it has signed a memorandum of understanding with Caracas. A reminder that geopolitics can reopen markets as well as close them.
+EMMA: And a cautionary tale on M-and-A.
+MICHAEL: The FT has a piece arguing that the CVS break-up shows an M-and-A-first strategy isn't the healthiest option. Despite touting better customer outcomes and financial benefits, its stock price has underperformed. Worth remembering when deals are pitched as transformational.
+EMMA: Let's do the calendar.
+MICHAEL: Today, the big one is US CPI at half past one Dublin time. Headline forecast point three percent, core point two percent.
+EMMA: And the rest of the week?
+MICHAEL: Thursday at seven in the morning, UK monthly GDP. The forecast is flat, after point one percent growth last time. Given the jump in sterling rates, a weak number would raise questions about how much the UK economy can take.
+EMMA: And Friday.
+MICHAEL: Friday at half past one, US producer prices. Headline PPI forecast at point four percent, after a big one point three percent last time. Core PPI forecast at point three percent, after point seven.
+EMMA: Those previous PPI numbers were large.
+MICHAEL: Very. For a manufacturer, producer prices are a direct read on input costs. If Friday's number stays hot, that's a margin pressure signal as well as an inflation signal.
+EMMA: Let's close with a question for the office.
+MICHAEL: Go on.
+EMMA: With UniCredit about to absorb Commerzbank, and Crédit Agricole moving on Banco BPM, Europe's bank landscape is consolidating. So here's the question. If our relationship banks keep merging, are we still diversified enough? And is it time to look again at the bank group and the counterparty limits, before the next deal forces our hand?
+MICHAEL: A good one for a Tuesday.
+EMMA: That's it for today. Keep an eye on the screens at half past one. Thanks for listening.
+MICHAEL: See you tomorrow.
