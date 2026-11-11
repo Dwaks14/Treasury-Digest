@@ -1,0 +1,154 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Wednesday, the eleventh of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. US inflation came in hot, and the Treasury market had its sharpest move in a long time. The Fed's Christopher Waller is now openly talking about a December hike, maybe even a half-point. And the E-C-B looks ready to hike in December too.
+MICHAEL: Plus a story about big banks running out of room to lend to A-I, which matters more for a corporate borrower than it sounds.
+EMMA: Let's start there, on the watchlist. Three of our relationship banks are in it.
+MICHAEL: Right. The Financial Times reports that banks are turning to credit insurance as they hit limits on lending to the A-I boom. Barclays, H-S-B-C and J-P Morgan Chase are among the lenders named as exploring or using the product to free up capacity.
+EMMA: Explain the mechanics for a second.
+MICHAEL: Banks have internal limits on how much they can lend to any one sector or borrower. If they've lent heavily to A-I infrastructure, they bump into those limits. Credit insurance lets them pass some of the risk to an insurer, which frees up room on the balance sheet to keep lending.
+EMMA: So why should a treasury team at Carrier care?
+MICHAEL: This is analysis, but balance sheet capacity is finite. If a bank's capital and limits are being used up by A-I lending, that's capacity it isn't using elsewhere. When it comes to renewing a revolving credit facility, or adding a new line, you want to know your banks are still keen.
+EMMA: I'd frame it as a question for the next relationship review. Is A-I exposure affecting your appetite for corporate facilities? And will pricing on our lines change because of it?
+MICHAEL: That's the right question. It's not a reason to worry, just a reason to ask.
+EMMA: There's a related J-P Morgan item. Bloomberg reports J-P Morgan is weighing a big discount to lure lenders for software debt.
+MICHAEL: Which fits the same picture. If a bank has to offer a big discount to sell a loan, investor appetite for that risk is cooling.
+EMMA: Next, UniCredit. As its takeover of Commerzbank nears, the Wall Street Journal reports Commerzbank is flagging higher competition for deposits.
+MICHAEL: That's interesting from a corporate cash point of view.
+EMMA: It is. When banks compete harder for deposits, the rate they offer tends to go up. So if you hold euro balances with German banks, this could be a moment to push for better pricing. It's worth testing it at the next placement rather than accepting the standard rate.
+MICHAEL: And there's a strategic angle with the merger itself. As two banks come together, you'll want to look at your combined exposure.
+EMMA: Exactly. Then J-P Morgan in Australia. Bloomberg says J-P Morgan is growing its corporate banking team in Australia to cover A-I and mining clients.
+MICHAEL: A signal of where the bank sees growth and where it's putting coverage resources.
+EMMA: Right. And H-S-B-C. Finextra reports that Stripe and H-S-B-C are pushing contactless payments for UK small businesses. H-S-B-C UK research with five hundred and ninety-four small business owners found that a third had lost a sale because they couldn't accept a customer's preferred payment method.
+MICHAEL: Retail and small business, rather than corporate treasury.
+EMMA: Yes. Not directly relevant to Carrier, but it shows H-S-B-C investing in merchant payments. Reuters also reports H-S-B-C will open its new London headquarters in March or April of twenty twenty-seven.
+MICHAEL: And B-N-P Paribas?
+EMMA: A local one for us in Dublin. The Irish Times reports B-N-P Paribas Real Estate Ireland has appointed a new chief executive. That's the property arm, not the corporate bank, so not material for treasury.
+MICHAEL: Okay. Rates and F-X. Let's start with the big move.
+EMMA: Go on.
+MICHAEL: The US curve repriced sharply after the inflation data. The two-year Treasury yield is at four point seven three percent, up seventeen basis points in a day. The ten-year is at four point nine eight percent, up ten.
+EMMA: Seventeen basis points on the two-year is a lot.
+MICHAEL: It's a big move. The Financial Times says two-year yields soared the most since twenty twenty-four. Bloomberg says bond yields spiked the most since the tariff meltdown, on bets the Fed will hike. On the week, the two-year is now up twelve basis points and the ten-year up three.
+EMMA: And the overnight rates?
+MICHAEL: They haven't moved yet, because the Fed hasn't moved. SOFR is at three point eight eight percent, as of Monday. That's down one basis point on the day and seven on the week. Effective Fed funds is at three point eight eight too.
+EMMA: So the market is pricing what it thinks comes next, while today's overnight rates stay put.
+MICHAEL: Exactly. And for a treasury team, that has two effects. Anything you borrow for a fixed term just got more expensive. The ten-year near five percent is a meaningful level. And floating-rate debt tied to SOFR will reprice when the Fed actually moves.
+EMMA: And the cash side benefits.
+MICHAEL: It does. If you're investing dollar cash for a term, yields are now higher. The trade-off is whether you lock in now or wait for the Fed to move first.
+EMMA: Sterling. SONIA is at three point nine eight five two percent. That's as of last Friday, and up twenty-five basis points on the week, so that big step is now baked in. Sterling cash earns more, and sterling borrowing costs more, than a fortnight ago.
+MICHAEL: Euro?
+EMMA: The euro short-term rate is unchanged at two point four four two percent. So euro money markets haven't moved yet, but as we'll hear, the E-C-B is signalling a hike.
+MICHAEL: Currencies.
+EMMA: Euro-sterling rose to nought point eight three five five, up about a seventh of a percent on the day and a bit over two tenths on the week. A slightly softer pound against the euro.
+MICHAEL: And the peso?
+EMMA: Dollar-Mexican peso fell about a third of a percent to eighteen point five five. Down about a quarter of a percent on the week. So the peso has firmed again. It's worth checking that peso hedges cover the Mexican cost base, because a firmer peso raises those costs in dollar terms.
+MICHAEL: Yen.
+EMMA: Dollar-yen at one hundred and fifty-eight point one eight, up about a seventh of a percent on the day, roughly flat on the week. The yen is still near weak levels. For any yen exposure, cheap carry, but the risk of a sharp move is always there.
+MICHAEL: And renminbi.
+EMMA: Dollar-renminbi at six point six seven oh three, essentially unchanged. Steady.
+MICHAEL: And euro-dollar?
+EMMA: Not in today's snapshot. So, as we've said before, check live rates before you hedge.
+MICHAEL: Okay. Big stories. Let's go deeper on the inflation number.
+EMMA: Please.
+MICHAEL: CFO Dive reports inflation rose faster than expected, boosting the odds of a Fed rate hike. And the FT says October consumer price growth topped forecasts.
+EMMA: And the Fed's reaction?
+MICHAEL: Fed Governor Christopher Waller was very direct. He said, quote, I am particularly concerned about the breadth of price increases. And he called for higher borrowing costs.
+EMMA: Breadth is the key word there.
+MICHAEL: It is. One price going up, say energy, is something central banks can sometimes look through. When price increases are broad across the economy, that's harder to dismiss. It suggests inflation is becoming embedded.
+EMMA: And Waller went further on the size of the move.
+MICHAEL: He did. CNBC reports Waller said he is leaning toward a rate increase in December, and could support a half-point hike, depending on inflation data.
+EMMA: A half-point would be a big step.
+MICHAEL: It would. And a Reuters poll of economists expects the Fed to raise rates once more in December, as inflation risks stay high. There's a range of views on how far it goes. J-P Morgan's Stephen Parker told CNBC he thinks the Fed will likely hike two more times this cycle.
+EMMA: Was there any good news on inflation?
+MICHAEL: A little. Bloomberg reports lower oil prices are easing inflation worries. And CNBC reports US gas prices have fallen below four dollars a gallon for the first time since July. So energy is moving the right way, even if the broader picture isn't.
+EMMA: So what does this mean for Carrier's treasury team?
+MICHAEL: Let me take the funding side. If the Fed hikes by a half-point, SOFR-linked debt reprices quickly. That includes commercial paper, revolver drawings and any floating-rate notes. And intercompany loans priced off SOFR move too.
+EMMA: So the action is a sensitivity check.
+MICHAEL: Exactly. Run the interest forecast with a quarter-point hike and a half-point hike in December. See what it does to interest expense, and to the cash position of entities that borrow intercompany. Then you can tell finance leadership what each scenario looks like.
+EMMA: And on cash, I'd say it argues for keeping some flexibility. If you think rates are going up by more than the market expects, you don't want to lock all your dollar cash into long deposits today.
+MICHAEL: Agreed. Let's go to Europe.
+EMMA: The E-C-B is heading the same way. The E-C-B's Nagel told Bloomberg a December rate hike is looking, quote, rather obvious.
+MICHAEL: That's strong language for a central banker.
+EMMA: It is. And the E-C-B's Philip Lane said a December hike would be prudent if the data don't shift. Reuters reports Lane saying the E-C-B's rate path hinges on how far inflation spreads.
+MICHAEL: So the same theme as the Fed. Breadth.
+EMMA: Exactly the same theme. And there's a slightly softer note. The E-C-B's Kazaks says the judgments around rate hikes are getting more nuanced. So not everyone is equally certain.
+MICHAEL: And the bond market in Europe?
+EMMA: The FT reports France and Belgium have fallen foul of what it calls the euro-zone bond market's new divide. The global sell-off during the Iran war has prompted investors to zero in on a new group of euro-zone countries facing debt challenges.
+MICHAEL: That's worth watching for counterparty and sovereign risk.
+EMMA: It is. If you hold any money market fund or short-term investments with exposure to French or Belgian paper, it's worth knowing how much.
+MICHAEL: And the "so what" on the E-C-B?
+EMMA: For a Dublin-based team with a lot of euro activity, euro deposit and borrowing rates look set to rise. On the cash side, my analysis: it argues for keeping euro cash on shorter tenors until the hike happens, so you can reinvest at higher rates. On the borrowing side, any euro floating-rate debt will get more expensive.
+MICHAEL: And for hedging?
+EMMA: Both central banks hiking means the interest rate differential that drives forward points could shift. It depends on which one moves more. Worth getting fresh pricing rather than relying on old assumptions.
+MICHAEL: Third big story. Payments.
+EMMA: Bottomline, the business payments company, has completed cross-border stablecoin payments through its Global Payments Hub and Cash Management platform, using U-S-D-C. That's the dollar stablecoin issued through regulated entities of Circle.
+MICHAEL: So this is stablecoins inside a corporate payments platform.
+EMMA: That's what makes it notable. Bottomline is a mainstream business payments provider. Seeing stablecoin payments run through its payments hub and cash management platform means the technology is moving into the tools that corporate treasuries actually use.
+MICHAEL: And there's a bank angle too.
+EMMA: Yes. Banking Dive reports P-N-C has launched a pilot that lets corporate clients receive U-S-D-C payments, through its partnership with Coinbase. Boosting stablecoin capabilities has been an area of focus for the bank.
+MICHAEL: So two pieces of plumbing in one week.
+EMMA: Right. So what does it mean for Carrier? Not that Carrier needs stablecoins today. But it's worth asking your treasury management system and payments vendors where they stand. If a customer or a supplier ever asks to settle in stablecoins, you want to know whether your platform can handle it, and what the controls look like.
+MICHAEL: And what the accounting and treasury policy implications are.
+EMMA: Exactly. Investment policy, counterparty limits, how it shows up in cash visibility. Those are questions to answer before the first request, not after.
+MICHAEL: Fourth big story, and it ties a lot of today together.
+EMMA: Go on.
+MICHAEL: The FT has a piece headlined "The end of cheap money is coming for corporate America". The argument is that borrowing costs are rising, and that's hurting some companies more than others.
+EMMA: And Harvard Business Review has a related one.
+MICHAEL: It does. H-B-R argues that capital is more expensive for companies outside the A-I boom, and says that affects the economics of their strategies in three ways. We don't have the detail of those three ways, so I won't guess at them.
+EMMA: But the headline point is clear.
+MICHAEL: It is. My analysis: for a well-established industrial company like Carrier, the cost of capital matters for every investment decision. If borrowing costs are rising, hurdle rates on capital projects might need to rise too. And the value of a strong balance sheet goes up.
+EMMA: So from a treasury point of view, it's about timing and structure of funding.
+MICHAEL: Exactly. When do you refinance? How much do you term out? What's the mix of fixed and floating? Those decisions matter more when rates are moving like this.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: Nexi, the Italian payments group, has agreed to sell German fintech Ratepay to buy now, pay later player Affirm. Financial terms weren't disclosed.
+MICHAEL: Consolidation in European payments.
+EMMA: Ecommpay is partnering with Getnet for a direct connection to Bizum, the Spanish payment method, as part of its alternative payment methods for merchants in Southern Europe.
+MICHAEL: And card authentication?
+EMMA: Global Payments has expanded its Adaptive Authentication platform with Visa's Intelligent Data Exchange A-P-I. The aim is to help clients in the US and Canada improve authorisation rates and reduce unnecessary customer challenges.
+MICHAEL: What about bank technology?
+EMMA: Oracle has launched new analytics applications for financial institutions and insurers, including one focused on treasury analytics, which combine curated financial services data with A-I-assisted exploration. And a McKinsey report says A-I could cut the banking industry's cost base by twenty percent or more. But so far most firms have only used it to boost individual employees' productivity, with negligible impact on the bottom line.
+MICHAEL: That fits a pattern we've seen.
+EMMA: It does. On the standard-setting side, the Bank for International Settlements has appointed Bank of Korea Governor Hyun Song Shin as chair of its Committee on Payments and Market Infrastructures, for a three-year term from the first of November. That's the global body that sets payment standards.
+MICHAEL: Relevant for cross-border payments over the long term.
+EMMA: Very. And Bank of Canada Governor Tiff Macklem has had his term as chair of the B-I-S Consultative Council for the Americas extended to March twenty twenty-seven.
+MICHAEL: Anything on US regulation?
+EMMA: A couple. Payments Dive reports more than thirty interchange relief bills have been introduced in state legislatures this year, despite legal challenges to the Illinois Interchange Fee Prohibition Act. And Block says it will turn over documents the Federal Trade Commission sought in January, in a probe of complaints about Square.
+MICHAEL: And Europe?
+EMMA: E-C-B board member Piero Cipollone gave a speech titled "Cash and the digital euro: two sides of the same coin". And in the UK, the Governor of the Bank of England and the Chancellor have exchanged letters on the Asset Purchase Facility.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's talk about manufacturing location, because there are a few stories that fit together. First, Honda is investing three billion dollars in a new hybrid vehicle plant in Ohio. It'll create two thousand jobs, and Manufacturing Dive notes Honda is keeping close to its existing US footprint.
+EMMA: Big commitment.
+MICHAEL: It is. Then there's a cautionary tale from the Wall Street Journal. The headline is "An American furniture maker tried to bring jobs back home. It didn't work."
+EMMA: Reshoring is harder than it looks.
+MICHAEL: That's the takeaway. We don't have the details of why it didn't work. But it's a reminder that bringing production home involves costs and risks that don't always show up in the business case.
+EMMA: And trade?
+MICHAEL: Reuters reports that Indian garment makers are rethinking their reliance on the US after a tariff shock. And the FT reports that Europe's struggle to compete with China is ramping up. Some companies are thriving, but many are protesting against what they call dumping.
+EMMA: So supply chains are being rewired in several directions at once.
+MICHAEL: They are. For an F-P-and-A person, the question is how resilient the supply chain assumptions in the plan are. If tariffs shift, or trading partners change their own strategies, what moves?
+EMMA: What about M-and-A?
+MICHAEL: SoftBank and A-B-B have re-entered talks after China blocked SoftBank's acquisition of A-B-B's robotics unit. Manufacturing Dive says the outcome could be a carve-out of the five point four billion dollar deal, a new buyer, or a potential spin-off.
+EMMA: So the regulatory block doesn't necessarily kill the deal, it just reshapes it.
+MICHAEL: That's the lesson. When a deal hits a regulatory wall, structure becomes the answer. Carve-outs and spin-offs are tools to get around it.
+EMMA: Anything HVAC-specific?
+MICHAEL: A couple. ACHR News has a piece on how dual-fuel systems put thermostats in charge of more than just temperature. And the BBC reports new regulation for the heating oil market, but no price controls.
+EMMA: Heating policy is always relevant for the sector.
+MICHAEL: It is. And there's a Ferguson Enterprises quarterly earnings call transcript out, though we don't have the details in today's inputs.
+EMMA: And the A-I world?
+MICHAEL: Briefly. The FT reports bankers for Anthropic are preparing to raise its I-P-O valuation to one point five trillion dollars or more, after strong investor demand. And CFO Dive reports Nvidia's chief financial officer, Colette Kress, has emerged as a possible interim C-E-O, although no leadership change has been announced.
+EMMA: A CFO as a stabilising choice.
+MICHAEL: That's how the search expert quoted framed it. Interesting for any finance professional.
+EMMA: Let's do the calendar.
+MICHAEL: Nothing high-impact today. So today is about digesting the inflation data and the move in yields.
+EMMA: And the rest of the week?
+MICHAEL: Tomorrow, Thursday, at seven in the morning Dublin time, UK monthly GDP. The forecast is flat, after point one percent growth last time. Given the jump in sterling rates, a weak number could raise questions about how much the UK economy can take.
+EMMA: And Friday.
+MICHAEL: Friday at half past one Dublin time, US producer prices. Headline PPI is forecast at point four percent, after a big one point three percent last time. Core is forecast at point three percent, after point seven.
+EMMA: After yesterday, Friday matters more.
+MICHAEL: It does. Another hot producer price number would add to pressure for a December hike, and possibly a bigger one. For a manufacturer, it's also a read on input costs.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: Rates are rising on both sides of the Atlantic, and the Fed is openly discussing a half-point hike. So here's the question. How much of our twenty twenty-seven plan rests on today's rates? Floating debt, refinancing, the yield on cash. Would it be worth running the forecast with rates fifty to a hundred basis points higher, to see what the exposure really looks like?
+MICHAEL: That's a good conversation to start before the Fed starts it for you.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
