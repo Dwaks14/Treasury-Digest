@@ -1,0 +1,146 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Thursday, the twelfth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. The dollar has rallied hard, as Fed officials sound the alarm on inflation. Europe and the UK are set to delay a tariff on electric cars, which says a lot about where trade policy is heading. And H-S-B-C is rethinking how it balances Singapore and China.
+MICHAEL: Plus Irish banks passing on higher deposit rates, which should be music to a Dublin treasurer's ears.
+EMMA: It should. Let's start with the watchlist. H-S-B-C first.
+MICHAEL: Bloomberg reports H-S-B-C is exploring bolstering its Singapore business to balance its reliance on China. Reuters, citing Bloomberg News, says the bank is weighing giving Singapore greater autonomy, to lessen that China reliance.
+EMMA: That's a big strategic question for one of the biggest banks in Asia.
+MICHAEL: It is. We don't have details on what greater autonomy would mean in practice. But the direction is clear. H-S-B-C wants Singapore to carry more weight in its Asian franchise, relative to China and Hong Kong.
+EMMA: So why does that matter to Carrier's treasury team?
+MICHAEL: H-S-B-C is a core relationship bank, and Asia is where a lot of cash management and pooling happens. If the bank restructures its Asian business, that could affect which legal entity you contract with, where accounts are booked, how cash pools are structured, and who your coverage team is.
+EMMA: I'd turn that into a few direct questions. If Singapore gets more autonomy, does anything change for our accounts and our cash pooling across China and Southeast Asia? Would credit lines move between entities? And would the service model change?
+MICHAEL: And there's a wider theme. Multinationals have been thinking about China-plus-one for their supply chains. Here's a bank doing something similar with its own structure.
+EMMA: Good point. Next, J-P Morgan. Bloomberg reports J-P Morgan is growing its corporate banking team in Australia to cover A-I and mining clients.
+MICHAEL: That tells you where the bank sees growth in Asia-Pacific. A-I infrastructure and mining.
+EMMA: Not directly relevant to Carrier, but it shows where the bank is putting its coverage resources. There are also several J-P Morgan analyst views in the news, on G-E Vernova, a defence tech company and an aerospace stock. Those are research calls rather than bank news, so I'll leave them for Michael's strategy corner if they're useful.
+MICHAEL: And the others on our list?
+EMMA: Johnson Controls shares outperformed their peers on a strong trading day, though there's no news behind that in our inputs. And B-N-P Paribas Real Estate Ireland has appointed a new chief executive. That's the property business, not the corporate bank, so not material for treasury.
+MICHAEL: Okay. Rates and F-X. And there's a lot to talk about.
+EMMA: There is. The dollar had a big day. Let's go currency by currency.
+MICHAEL: Start with the euro.
+EMMA: Euro-dollar fell about eight tenths of a percent to one point one one two seven. On the week, it's down about one and a quarter percent. That's a meaningful move.
+MICHAEL: What does it mean for Carrier?
+EMMA: A stronger dollar reduces the dollar value of European earnings and euro cash. If you've hedged European receivables by selling euros forward, those hedges are probably moving in your favour now. It's worth checking the mark-to-market, and whether hedge ratios still make sense at these levels.
+MICHAEL: Sterling.
+EMMA: Sterling-dollar fell about nine tenths of a percent to one point three three oh seven. Down about one and a half percent on the week. That's the bigger move of the two. Euro-sterling is up a touch, at nought point eight three six two, so sterling is a little softer against the euro too.
+MICHAEL: Yen.
+EMMA: Dollar-yen rose about two thirds of a percent to one hundred and fifty-nine point two three. Up a similar amount on the week. The yen is weakening further. For any yen exposures, that's worth watching. The level is very weak by historical standards, and sharp reversals are always a risk.
+MICHAEL: And the peso?
+EMMA: Dollar-Mexican peso rose a bit over half a percent to eighteen point six six. So the peso weakened on the day, though it's roughly flat on the week. That marginally helps the dollar cost of Mexican operations.
+MICHAEL: Renminbi.
+EMMA: Dollar-renminbi is flat at six point six seven oh seven. Steady as ever.
+MICHAEL: And interest rates. The Treasury curve held onto its big jump. The two-year Treasury yield is at four point seven three percent, after a seventeen basis point rise. The ten-year is at four point nine eight percent, up ten. Those readings are as of Tuesday.
+EMMA: And overnight rates haven't moved yet.
+MICHAEL: Right. SOFR is at three point eight eight percent, and effective Fed funds is also three point eight eight. The market is pricing future hikes, but today's overnight funding is unchanged.
+EMMA: Sterling. SONIA is at three point nine eight four two percent. That's up twenty-five basis points on the week, as earlier increases flow through. And the euro short-term rate is at two point four four two percent, unchanged.
+MICHAEL: So the short version is a strong dollar, higher term yields in dollars, and sterling and euro short rates waiting for their central banks.
+EMMA: That's it. And it's a good moment to review hedging, because big currency moves can change the economics quickly.
+MICHAEL: Is there anything specific you'd look at?
+EMMA: Three things. First, the intercompany netting cycle. When currencies move this much in a week, the size of net settlements between entities can change a lot, so it's worth checking funding needs ahead of the next netting date. Second, any balance sheet hedges on intercompany loans. A move of over one percent in euro-dollar shows up quickly in revaluation. And third, the cash forecast. If European cash is converted to dollars for central use, the dollar amount you get is now smaller.
+MICHAEL: And the flip side for the US entities?
+EMMA: The flip side is that anything bought in euros or sterling is now cheaper in dollar terms. So for US entities paying European suppliers, it's a small tailwind.
+MICHAEL: Big stories. Let's start with the Fed.
+EMMA: Please.
+MICHAEL: The Fed's Goolsbee called the inflation report borderline disturbing. CNBC says the consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.
+EMMA: That's a striking phrase from a Fed official.
+MICHAEL: It is. And Wall Street is adjusting. Reuters reports Goldman Sachs has added another rate hike to its Fed outlook after the hot inflation data. MarketWatch has a piece explaining why Goldman is changing its forecast.
+EMMA: And there's a Waller angle.
+MICHAEL: There's an FT newsletter that describes Chris Waller as an inflation hawk. So the picture is several Fed voices now leaning firmly towards tightening.
+EMMA: So what does it mean for a treasury team?
+MICHAEL: My analysis: plan for more than one rise in dollar funding costs. If Goldman is adding hikes, it's reasonable to stress-test against a path where rates go up a few times, not just once.
+EMMA: Which affects what, exactly?
+MICHAEL: Anything floating. Commercial paper, revolver drawings, floating-rate notes. And intercompany loans priced off SOFR. If US entities lend to overseas subsidiaries at a floating rate, those subsidiaries pay more. That can matter for cash flow and for transfer pricing.
+EMMA: And on the cash side?
+MICHAEL: Yields on dollar money market funds and deposits will rise as the Fed moves. That's good for surplus cash. The question is how much duration to take. If you expect several hikes, keeping cash shorter lets you reinvest at higher rates.
+EMMA: Second big story. Trade.
+MICHAEL: The Financial Times reports the E-U and UK are set to delay a ten percent tariff on electric cars. European carmakers had warned the levy would make them more vulnerable to Chinese competition.
+EMMA: So industry lobbying worked.
+MICHAEL: It seems that way. And there's a related FT story. Chinese carmakers are offering a lifeline to Europe's struggling steel industry. The chief of Voestalpine, a major auto supplier, says B-Y-D and others will boost the sector, even as factories close.
+EMMA: That's an interesting twist. Chinese competition is both a threat and a source of demand.
+MICHAEL: Exactly. And it shows how complicated trade policy is. You might want to protect your carmakers, but your steel industry might depend on the very companies you're protecting against.
+EMMA: What's the "so what" for Carrier?
+MICHAEL: The general point is that trade measures can still bend to industry pressure. That cuts both ways. It means announced tariffs aren't always final, and it means tariff assumptions in a plan need regular review. For a manufacturer with global supply chains, that's a planning challenge.
+EMMA: And there's a US angle on tariffs too.
+MICHAEL: There is. Manufacturing Dive reports manufacturing advocates are making the case for tariffs following the midterm results. A report from the Alliance for American Manufacturing says rolling back trade enforcement would be a serious mistake, even though polls show the public is tired of import taxes.
+EMMA: So the debate is live.
+MICHAEL: Very live. And the FT-Nikkei Investing in America report says the US has received only a fraction of the investment from Asian partners promised in deals to lower tariffs. At the same time, overseas companies are pouring money into US manufacturing.
+EMMA: Those two points seem to pull in different directions.
+MICHAEL: They do, a bit. The promised headline investment hasn't fully arrived, but there's still a lot of foreign money going into US factories. The FT also reports Japanese investment in the US is set to power ahead. Japan has been the top investor in the US for seven years in a row, and bankers say that trend is unlikely to halt or slow.
+EMMA: Third big story, and this one is close to home for Dublin.
+MICHAEL: Go on.
+EMMA: The Business Post reports P-T-S-B has increased its deposit rate after the E-C-B hike.
+MICHAEL: So Irish banks are passing on higher rates.
+EMMA: That's the signal. P-T-S-B is mainly a retail bank, so this is a retail deposit story. But for a corporate treasury with euro balances in Ireland, it's a useful prompt.
+MICHAEL: In what way?
+EMMA: When rates go up, banks are often quicker to raise loan rates than deposit rates. So it's worth checking that Carrier's euro balances, wherever they sit, are getting a matching uplift. If your bank's corporate deposit rate hasn't moved, ask why.
+MICHAEL: It's the kind of thing that's easy to miss.
+EMMA: It is. And over a large balance, even a small gap adds up. It's also a good moment to look at whether the money market fund options you use are passing through rate rises promptly.
+MICHAEL: Fourth big story. A-I in banking.
+EMMA: Deutsche Bank and Ant Digital Technologies have released a research report setting out a roadmap for integrating agentic A-I into wholesale banking. It highlights the potential across institutional treasury, cross-border payments and trade finance.
+MICHAEL: Agentic A-I meaning systems that can take actions, not just answer questions.
+EMMA: Right. And the fact that institutional treasury is named specifically is interesting. It suggests banks see A-I agents doing things like managing liquidity, routing payments or processing trade documents.
+MICHAEL: Is there evidence it's working?
+EMMA: Some. Banking Dive reports Northern Trust used an onboarding agent, built with Microsoft engineers, that cut analysts' data preparation time by eighty-three percent. But McKinsey has a more sobering view. It says A-I could cut the banking industry's cost base by twenty percent or more, but most firms have so far only used it to boost individual employees' productivity, with negligible impact on the bottom line.
+MICHAEL: And there's an H-B-R piece on the risks.
+EMMA: There is. Harvard Business Review has a piece on the hidden costs of delegating to A-I, drawing lessons from accounting firms on why faster execution doesn't automatically improve organisational performance.
+MICHAEL: So what's the takeaway for Carrier?
+EMMA: My view: expect your relationship banks to start pitching A-I-driven treasury services. Before you adopt anything, be clear on the controls. Who approves what an agent does? How is it audited? What happens when it gets something wrong? Those questions matter even more in treasury, where mistakes move real money.
+MICHAEL: Let's do a quicker round of treasury, payments and banking.
+EMMA: First, back to bank capacity. The FT reports banks are turning to credit insurance to stretch their limits on A-I lending.
+MICHAEL: Which matters for corporate borrowers.
+EMMA: It might. If banks are using up capacity on A-I lending, that could affect their appetite for corporate facilities. Worth keeping in mind for the next revolver renewal.
+MICHAEL: Next.
+EMMA: Western Union has pulled out of its five hundred million dollar acquisition of Intermex, after failing to secure what it called an acceptable approval from regulators. Payments Dive says a fight over the deal has followed, after California regulators weighed in.
+MICHAEL: A reminder that regulatory approval can sink even mid-sized payments deals.
+EMMA: Indeed. Fiserv's chief executive says it's shifting customers to one of its debit networks, ahead of selling or shutting a second one.
+MICHAEL: Treasury technology?
+EMMA: A couple. Teciem, which provides front-to-back treasury and capital markets software, has appointed Alla Whitston, chief information officer for the Americas at M-U-F-G, as a non-executive director. And Swipesum has launched a payments command centre that brings a company's entire payments function into one place.
+MICHAEL: Single view of payments. Always the dream.
+EMMA: Always. On financing, Zilch has expanded its securitisation and corporate debt facilities by a hundred and sixty-five million pounds, taking the total to three hundred and ninety-five million, in a round led by Deutsche Bank.
+MICHAEL: And fraud?
+EMMA: A Biocatch survey of a hundred fraud and compliance leaders at banks in Indonesia found social engineering scams are the single biggest concern, with most originating on social media and messaging apps. Relevant for anyone running payments in the region.
+MICHAEL: Anything else on payments infrastructure?
+EMMA: Two quick ones. WasabiCard, a stablecoin-powered payments infrastructure provider, has launched local card issuing across more than a hundred markets. And travel-tech platform Duffel and Katanox are combining hotel bookings, payments and financing into a single flow, citing one and a half billion dollars lost every year to broken travel payments processes.
+MICHAEL: And in US banking?
+EMMA: Shareholders of M-and-F, a Black-owned bank, voted about ninety-eight point six percent in favour of a tie-up with fellow Black-owned Optus Bank, despite counterproposals. The deal still needs regulatory sign-off. And the FT has a long read on how Switzerland's rescue of a Russian bank went spectacularly wrong, a four-year saga of unpaid debts, feuding owners and legal battles.
+MICHAEL: And a big governance story from Turkey.
+EMMA: Yes. The FT reports Turkey's chief banking regulator, Şahap Kavcıoğlu, who previously ran the central bank, has offered to resign over a twenty billion dollar fraud scandal, to prevent any further damage to the regulator.
+MICHAEL: That's significant for anyone with Turkish banking exposure.
+EMMA: It is. And one more on European sovereign risk. The FT reports France and Belgium have fallen foul of a new divide in the euro-zone bond market. The global sell-off during the Iran war has prompted investors to focus on a new group of euro-zone countries facing debt challenges.
+MICHAEL: Worth checking exposures in money market funds.
+EMMA: Exactly.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with capital allocation. Mars, the maker of M-and-Ms, will invest one point four billion dollars in US manufacturing and operations in twenty twenty-seven. That's the largest investment it has made in a single year, and it follows its thirty-six billion dollar acquisition of Kellanova.
+EMMA: So a big acquisition, followed by a big investment to grow it.
+MICHAEL: Exactly. That's a classic pattern. You buy a business, and then you invest to integrate and grow it. For an F-P-and-A person, it's a reminder that the cash cost of an acquisition doesn't stop at the purchase price.
+EMMA: What about reshoring?
+MICHAEL: There's a cautionary tale from the Wall Street Journal. An American furniture maker tried to bring jobs back home, and it didn't work. We don't have the details of why. But it's a useful counterweight to the headlines about foreign money pouring into US manufacturing.
+EMMA: And trade, from the other side.
+MICHAEL: Reuters reports Indian garment makers are rethinking their reliance on the US after a tariff shock. So supply chains are adjusting on both sides.
+EMMA: What about energy?
+MICHAEL: Two stories. ExxonMobil has launched a legal challenge to E-U carbon capture rules. It's invoking an investment treaty to challenge Brussels' green regulations and seek a suspension of the timing requirements.
+EMMA: That's an unusual tool.
+MICHAEL: It is. And second, the FT reports Russian diesel exports have doubled after President Trump lifted sanctions, but the US gets none of it. The boost is expected to be short-lived, after Ukraine resumed attacks on refineries.
+EMMA: Energy markets are still very volatile.
+MICHAEL: Very. And there's an FT newsletter piece suggesting oil traders are betting on peace, while asking whether they should be.
+EMMA: Anything HVAC-specific?
+MICHAEL: A small one. ACHR News reports HARDI is moving to a new headquarters as the organisation grows.
+EMMA: And the J-P Morgan research views?
+MICHAEL: One worth noting. Barron's reports J-P Morgan analysts say G-E Vernova could withstand a slowing A-I spending boom. That's interesting for industrial companies that have benefited from data centre demand. It suggests some analysts think the electrification story has legs beyond A-I.
+EMMA: Which is relevant for the whole equipment sector.
+MICHAEL: It is. And quickly on A-I markets, the FT reports Nvidia's board is weighing Jensen Huang's future as the scandal deepens. And bankers for Anthropic are preparing to raise its I-P-O valuation to one and a half trillion dollars or more, after strong demand. Alibaba also announced plans to list T-Head, its chip business that rivals Nvidia, in Hong Kong.
+EMMA: Let's do the calendar.
+MICHAEL: Today, UK monthly GDP came out at seven this morning, Dublin time. The forecast was a flat month, after point one percent growth last time. We don't have the result yet in our inputs.
+EMMA: So check it when you get in.
+MICHAEL: Exactly. A contraction would weigh further on sterling, which has already had a tough week against the dollar.
+EMMA: And tomorrow?
+MICHAEL: Friday at half past one Dublin time, US producer prices. Headline PPI is forecast at point four percent, after one point three percent last time. Core PPI is forecast at point three percent, after point seven.
+EMMA: After this week's inflation data, that matters.
+MICHAEL: It does. Another hot producer price number would add to the case for Fed hikes, and probably support the dollar further. And for a manufacturer, it's a direct read on input costs.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: The dollar has jumped, euro-dollar is down about one and a quarter percent on the week, and the Fed may be heading for several hikes. So here's the question. Are our hedge ratios on European and UK exposures still the right ones at these levels? And is now a good time to add cover, or should we wait for Friday's data?
+MICHAEL: A good conversation to have before the next big move.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
