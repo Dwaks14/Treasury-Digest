@@ -1,0 +1,142 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Friday, the thirteenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning, and happy Friday the thirteenth.
+EMMA: Fitting, perhaps, for the week we've had. Three big things today. The US ten-year Treasury yield has broken above five percent. Nvidia's chief executive, Jensen Huang, has resigned in a scandal, with the chief financial officer stepping in. And H-S-B-C is reshaping its Asian business, with real implications for its corporate clients.
+MICHAEL: And US producer prices land this afternoon, which could decide whether this bond sell-off keeps going.
+EMMA: Let's start with the watchlist, and it's all H-S-B-C today.
+MICHAEL: It's a busy one. Reuters reports H-S-B-C plans to merge its Singapore operations to simplify its regional structure. And Bloomberg reports the bank is exploring bolstering Singapore to balance its reliance on China.
+EMMA: So two pieces of the same picture. Simplify Singapore, and give it more weight.
+MICHAEL: That's how I'd read it. We don't have the detail of exactly which entities are merging, so I won't guess. But when a bank merges operations in a country, that usually means changes to legal entities and where business is booked.
+EMMA: And that's where it matters for Carrier. If you bank with H-S-B-C in Singapore or across the region, a merger of operations could change which entity holds your accounts. That can mean new account mandates, updated signatories, possibly new account numbers, and changes to how cash pools are set up.
+MICHAEL: Those are the things that cause headaches if they come as a surprise.
+EMMA: Exactly. So the practical step is to ask your coverage team early. What's merging, when, and what do we need to do? And will our pooling structures and credit lines carry over cleanly?
+MICHAEL: There's a second H-S-B-C story that's quite technical, but important.
+EMMA: Go on.
+MICHAEL: Bloomberg reports H-S-B-C plans significant risk transfers, often called S-R-Ts, tied to seven billion dollars of US and Asian corporate loans.
+EMMA: Explain what that means.
+MICHAEL: In a significant risk transfer, a bank keeps the loans on its books but passes some of the credit risk to investors. That lets it hold less capital against those loans, which frees up room to lend more.
+EMMA: So for a corporate borrower, it's mostly good news.
+MICHAEL: Mostly. More capital capacity means the bank can keep supporting corporate credit lines. The question a treasurer might ask is whether any of their own facilities are in the pool. It doesn't change your loan terms, but it's good to know who ultimately bears the risk.
+EMMA: There's also an H-S-B-C research view worth a mention. Bloomberg reports H-S-B-C says the yuan could double its share of global payments as usage climbs.
+MICHAEL: That's a forecast, not a business move.
+EMMA: Right, but it's relevant for a treasury team with Chinese operations. If more trade gets settled in renminbi, it's worth thinking about whether invoicing and settlement in renminbi makes sense for some flows. We'll leave it there.
+MICHAEL: And H-S-B-C will open its new London headquarters in March or April twenty twenty-seven, according to Reuters.
+EMMA: Not material for treasury. And one peer item. ACHR News reports Trane has invested one million dollars in Goodwill skilled trades training.
+MICHAEL: Workforce is a real constraint in HVAC, so it's a sensible investment, but not a treasury story.
+EMMA: Agreed. On to rates and F-X. Michael, it's been quite a week.
+MICHAEL: It really has. Let's start with the headline number. The ten-year Treasury yield is now at five point one percent. That's up twelve basis points on the day, and twenty-six on the week.
+EMMA: Above five percent.
+MICHAEL: Above five. And the two-year is at four point eight six percent, up thirteen on the day, and a remarkable forty basis points on the week.
+EMMA: Forty basis points in a week on the two-year is a huge move.
+MICHAEL: It is. That's the market repricing the Fed after the hot inflation data. The front end moved most because that's where Fed expectations live. But the long end is moving too, which tells you investors are demanding more to lend for longer.
+EMMA: And overnight rates?
+MICHAEL: Still steady. SOFR is at three point eight nine percent, as of Tuesday, up one basis point on the day. Effective Fed funds is three point eight eight. The Fed hasn't moved, so overnight funding hasn't moved.
+EMMA: What does a ten-year above five percent mean for a treasury team?
+MICHAEL: A few things. First, term borrowing now costs over five percent before credit spread. If there's a bond refinancing on the horizon, the cost has gone up meaningfully this week. Second, the fixed versus floating question is live again. If you think rates will keep rising, locking in fixed rates has appeal. If you think this is an overshoot, you might wait.
+EMMA: And on the cash side?
+MICHAEL: Longer-dated investments are more attractive than they've been in a while. But the mark-to-market risk is real, as this week shows. Investment policy usually keeps operating cash short for exactly that reason.
+EMMA: Sterling and euro.
+MICHAEL: SONIA is at three point nine eight three seven percent, up twenty-five basis points on the week, as earlier moves flow through. The euro short-term rate is at two point four three nine percent, unchanged.
+EMMA: Now currencies. The dollar keeps climbing. Euro-dollar fell about four tenths of a percent to one point one oh eight one. On the week, it's down about one and a quarter percent.
+MICHAEL: That's two days in a row of big dollar strength.
+EMMA: It is. For Carrier, the dollar value of European earnings is being squeezed. If there are fourth-quarter conversions of euro cash into dollars, it's worth checking how much is hedged. And if you've sold euros forward, those hedges are working for you.
+MICHAEL: Sterling?
+EMMA: Sterling-dollar fell about four tenths of a percent to one point three two five six. Down about one and a half percent on the week. Euro-sterling is essentially flat at nought point eight three five nine.
+MICHAEL: Yen.
+EMMA: Dollar-yen rose about three tenths of a percent to one hundred and fifty-nine point seven. Up about eight tenths on the week. The yen is close to one hundred and sixty against the dollar, which is very weak by historical standards.
+MICHAEL: The peso.
+EMMA: Dollar-Mexican peso is at eighteen point six nine, up a bit under two tenths of a percent on the day, and about half a percent on the week. A slightly weaker peso, which marginally helps the dollar cost of Mexican operations.
+MICHAEL: And renminbi.
+EMMA: Flat at six point six six eight three. The one currency that hasn't moved this week.
+MICHAEL: Okay, big stories. Let's start with Nvidia.
+EMMA: Go on.
+MICHAEL: Nvidia's chief executive Jensen Huang has resigned with immediate effect amid a scandal. Nvidia announced on Thursday that its long-time chief financial officer, Colette Kress, has been named interim chief executive until a permanent successor is found.
+EMMA: And the market reaction?
+MICHAEL: The FT reports Nvidia shares fell as much as fourteen percent, before recovering to trade about five percent down on Thursday. Another FT report says the shares largely recovered by the close, as shareholders bought the dip and looked to the group's future without Huang. Investors told the FT the A-I boom will still lift Nvidia after his exit.
+EMMA: So a sharp shock, then a partial recovery.
+MICHAEL: That's the pattern. And CFO Dive notes that a two-hundred-plus word message from Huang preceded his resignation. And there's a geopolitical dimension. CNBC reports the affair involved an alleged spy for China's Ministry of State Security, and says the political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.
+EMMA: Barclays had a view on it.
+MICHAEL: Yes. Bloomberg reports Barclays' Lafargue says the Nvidia turmoil doesn't derail the A-I trade, and that the semiconductor outlook holds despite the risks. That's an analyst view, but it's in line with what investors told the FT.
+EMMA: So why should a treasury team at an HVAC company care?
+MICHAEL: Two reasons. First, A-I has been a big driver of markets and of credit. When the most important A-I company has a leadership crisis, it can affect risk appetite more broadly. That can show up in funding spreads, even for companies with nothing to do with A-I.
+EMMA: And second?
+MICHAEL: The US-China angle. My analysis: if this changes the tone of next week's summit, it could affect the trade relationship. For any company with Chinese supply chains or Chinese revenue, that's something to watch.
+EMMA: And there's a CFO angle, too.
+MICHAEL: There is. A CFO stepping up to interim CEO is a reminder of how central the finance chief is in a crisis. HubSpot also made news, bringing back its former CEO of sixteen years and naming an Adobe finance leader as CFO, as part of what it calls a re-founding.
+EMMA: Second big story. The E-C-B.
+MICHAEL: A Reuters poll of economists expects the E-C-B to make its last rate hike in December, but says inflation risks keep the door open for one more.
+EMMA: So the market view is that we're near the peak in euro rates.
+MICHAEL: That's the consensus. One more hike, maybe two. Then a pause.
+EMMA: For a Dublin-based treasury team, that's a useful framing. If euro rates are close to peaking, there's a question about when to lock in longer euro deposits.
+MICHAEL: Explain the logic.
+EMMA: While rates are rising, you keep cash short so you can reinvest at higher rates. But once you think the peak is close, locking in longer tenors captures those higher yields for longer. So the decision might be to stay short through December, and then consider extending once the hike is done.
+MICHAEL: Assuming the poll is right.
+EMMA: Assuming the poll is right. And it's worth saying there's real uncertainty. The FT has a piece asking whether markets are kidding themselves about inflation. So I'd treat the peak as a working assumption, not a certainty.
+MICHAEL: Third big story. Tariffs.
+EMMA: Manufacturing Dive reports there's a possible bipartisan push to curb President Trump's tariffs. Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy.
+MICHAEL: That's after the midterms.
+EMMA: Yes. The new political landscape seems to be opening up a debate about who controls tariffs.
+MICHAEL: What does it mean for Carrier?
+EMMA: My analysis: if presidential tariff power were curbed, tariff risk would likely become more predictable. Changes would need to go through Congress, which is slower and more visible. For a manufacturer planning sourcing and pricing, predictability is valuable, even if the level of tariffs stays the same.
+MICHAEL: But it's early days.
+EMMA: Very early. These are bills, not laws. The practical step is to make sure the twenty twenty-seven plan has more than one tariff scenario, and that the team knows how quickly sourcing and pricing could adjust.
+MICHAEL: And there's a European trade twist that fits here.
+EMMA: There is. The FT reports Chinese carmakers are offering a lifeline to Europe's struggling steel industry. The chief of Voestalpine, a major auto supplier, says B-Y-D and others will boost the sector, even as factories close.
+MICHAEL: Chinese competition as both threat and customer.
+EMMA: Exactly.
+MICHAEL: Fourth big story. Oil and geopolitics.
+EMMA: CNBC reports oil prices rose after President Trump said no Iran deal is needed, saying, quote, we've got their Strait. Oil prices were mixed on Thursday, as his comments raised worries that an end to the US-Iran war is not in sight.
+MICHAEL: That's a reversal of the peace hopes we'd seen earlier.
+EMMA: It is. And the FT reports Russian diesel exports have doubled after President Trump lifted sanctions, though the US gets none of it, and the boost is expected to be short-lived after Ukraine resumed attacks on refineries.
+MICHAEL: So energy markets are being pulled in different directions.
+EMMA: They are. For a manufacturer, energy feeds into freight, logistics and input costs. And for treasury, higher energy prices feed back into inflation, which feeds back into rates. It's all connected to that bond sell-off.
+MICHAEL: Let's do a quick round of treasury, payments and banking.
+EMMA: First, the Fed has announced its pricing for the payment services Federal Reserve Banks provide to banks and credit unions, effective the first of January twenty twenty-seven, along with changes to streamline its check services.
+MICHAEL: Relevant indirectly, since banks pass costs on.
+EMMA: Exactly. And there's a governance change. CNBC reports the Fed says its October twenty twenty-seven meeting won't include a vote on interest rates. There'll be seven voting meetings next year, with October set up as extra time for policy deliberation, without a formal vote or a post-meeting statement.
+MICHAEL: Worth noting for anyone planning around Fed decisions next year.
+EMMA: Indeed. On payments, Forbes reports Canada switched on real-time payments this week, and that fintechs can move money instantly while the big banks wait.
+MICHAEL: So the big banks aren't there yet.
+EMMA: That's the suggestion. For Carrier's Canadian operations, it's a reminder to ask your banks when corporate access will come.
+MICHAEL: And tokenisation?
+EMMA: Two pieces. A Finextra community article looks at how tokenisation is unlocking liquidity in trade finance receivables. And an FT comment piece warns not to scoff at the dangers of tokenisation, arguing for better cyber defences and central bank safety nets for hyper-liquid, high-speed shocks.
+MICHAEL: Good balance.
+EMMA: Yes. On fraud and A-I, Feedzai has expanded its Digital Trust product to help banks detect A-I agents accessing customer accounts. And the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.
+MICHAEL: And A-I costs.
+EMMA: A Capgemini survey found that at organisations with A-I overruns in the past year, spending averaged twenty-four percent above expectations. CFO Dive frames this as CFOs confronting cash-flow risks as A-I costs rise. And Axway has launched a platform aimed at helping banks control A-I costs and data.
+MICHAEL: That's relevant for anyone building an A-I budget.
+EMMA: Very. A few banking items. Hancock Whitney is buying Trustmark in a three point two billion dollar deal, creating a lender with fifty-eight billion dollars of assets and about three hundred and seventy branches across six south-eastern states. The FT says Metro Bank's sale process shows its dog days are over. And Bank of America is settling a lawsuit over fake accounts allegedly opened between twenty twelve and twenty twenty-three.
+MICHAEL: Any fintech moves worth a mention?
+EMMA: A handful. U-K banking-as-a-service bank Griffin has raised twenty million pounds in a Series B round, valuing it at over a hundred million pounds, to add cards and stablecoin capabilities. Sparkasse Bank Malta has launched regulated digital asset trading for institutional and corporate clients. And Revolut, which says it has over eighty million customers and eight hundred and fifty thousand business clients, has expanded its partnership with Uber to add Revolut Pay.
+MICHAEL: And voice payments?
+EMMA: Starling is launching an A-I feature that lets retail customers set up payments by speaking to the app. Retail for now, but it shows how fast A-I is moving into payment initiation, which is exactly why fraud controls matter.
+MICHAEL: And regulation on card fees?
+EMMA: Payments Dive reports merchant trade groups have sued bank and credit union regulators over a preemption of the Illinois law that bans swipe fees on taxes and tips. And in trading technology, smartTrade has acquired Celoxica, a provider of ultra-low latency execution infrastructure.
+MICHAEL: And the Western Union saga?
+EMMA: Intermex says it rejects Western Union's decision to abandon the five hundred million dollar deal, and is demanding Western Union take all actions necessary to complete the merger. So that fight continues.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to start with a clean portfolio move. CNH, the heavy machinery maker, plans to sell a seventy percent stake in its construction equipment business to Kobelco for seven hundred million dollars. CNH will then focus solely on its agriculture business.
+EMMA: A big strategic choice.
+MICHAEL: It is. It's a classic example of narrowing a portfolio to a core franchise. And with funding costs above five percent, that kind of discipline matters more. Every business in a portfolio has to earn its cost of capital.
+EMMA: So the F-P-and-A question writes itself.
+MICHAEL: It does. Which parts of the portfolio earn their cost of capital at today's rates? And which might be worth more to another owner? Those aren't comfortable questions, but they're the right ones when money gets expensive.
+EMMA: What about A-I in manufacturing?
+MICHAEL: Two interesting ones. Manufacturing Dive reports Anthropic has launched Claude for Manufacturing, a plugin with seventeen skills and four connectors. It helps manufacturers draft quotes, quality reports and supplier requests from the systems they already run.
+EMMA: That's practical.
+MICHAEL: Very practical. And separately, Reuters reports J-P Morgan analysts say US humanoid robot production could hit four hundred thousand by twenty thirty as deployment ramps. That's a forecast, but it's a striking one for anyone thinking about factory automation.
+EMMA: And reshoring?
+MICHAEL: The Wall Street Journal has a story about an American furniture maker that tried to bring jobs back home, and it didn't work. It's a useful counterweight to the automation optimism. Bringing production home is harder than it looks.
+EMMA: Anything for HVAC?
+MICHAEL: A bit of history from ACHR News, looking back at the Department of Energy's first regional HVAC efficiency standards in the twenty-tens. And the FT has a comment piece arguing that a COP thirty-one pledge to expand electric power ought to have a green target attached. Electrification policy matters for heat pumps and the wider sector.
+EMMA: Let's do the calendar.
+MICHAEL: Today is the big one for the week. US producer prices at half past one Dublin time. Headline PPI is forecast to rise point four percent on the month, after one point three percent last time. Core PPI is forecast at point three percent, after point seven.
+EMMA: And what would a hot number do?
+MICHAEL: After this week, a hot number could push the ten-year further above five percent and extend the dollar rally. A soft number might give bonds a breather. For a manufacturer, it's also a direct read on input costs.
+EMMA: And looking ahead?
+MICHAEL: There's nothing else on our calendar for today. But the Nvidia coverage points to a Trump-Xi summit next week. That's one to watch for anyone with China exposure.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: The ten-year Treasury is above five percent, the two-year is up forty basis points in a week, and the dollar is surging. So here's the question for a Friday. If we had to refinance or raise term debt in the next six months, what would we do differently now than a week ago? And should we be locking anything in before this afternoon's producer prices?
+MICHAEL: A good one to settle before the weekend.
+EMMA: That's it for this week. Thanks for listening, and have a good weekend.
+MICHAEL: See you Monday.
