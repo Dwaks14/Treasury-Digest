@@ -1,0 +1,148 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Monday, the sixteenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things to start the week. US Treasuries just had their worst week since the "liberation day" tariff shock, with the ten-year now above five point one percent. Producer prices are surging, and Fed officials are all but promising a hike. And China's economy slowed more than expected in October.
+MICHAEL: Plus, Fed Chairman Warsh speaks this evening. That could set the tone for the whole week.
+EMMA: Let's start with the watchlist, and it's a short one.
+MICHAEL: Carrier itself is in the news. ACHR News reports an enhanced Carrier building automation system, designed to simplify building operations.
+EMMA: Product news, but worth noting. Building automation sits on the controls and services side of the business.
+MICHAEL: My analysis here: controls and services businesses tend to come with longer customer relationships and more recurring revenue than one-off equipment sales. For F-P-and-A, that kind of revenue is usually more predictable, which helps with cash forecasting.
+EMMA: And for treasury, more predictable cash flows make planning easier. Next, J-P Morgan. Bloomberg reports J-P Morgan's card chief, Allison Beer, is leaving for what it calls an external opportunity.
+MICHAEL: That's the consumer card business.
+EMMA: Right. It's a senior leadership change at a relationship bank, but in consumer cards, so I wouldn't expect any direct impact on corporate treasury coverage.
+MICHAEL: And H-S-B-C?
+EMMA: The FT has a piece on H-S-B-C's bet on bots, and how it could reshape the wealth management wars. That's wealth, not transaction banking, so I'll leave it there. Nothing else material on our list today.
+MICHAEL: Okay. Rates and F-X. And it was quite a week.
+EMMA: It was. Michael, take us through the bonds.
+MICHAEL: The FT reports US Treasuries recorded their worst week since Trump's liberation day. Higher than expected inflation and hawkish remarks from Fed officials stung investors who had bet the global bond rout was over.
+EMMA: And the numbers?
+MICHAEL: The ten-year Treasury yield is at five point one five percent. That's up five basis points on Friday, and twenty-nine basis points over the week. The two-year is at four point eight eight percent, up two on Friday, and thirty-seven on the week.
+EMMA: That's a very big week for both ends of the curve.
+MICHAEL: It is. And it's the long end crossing five percent that I'd focus on. When investors demand more than five percent to lend to the US government for ten years, corporate borrowing costs rise with it.
+EMMA: What does that mean in practice for a treasury team?
+MICHAEL: A few things. Term funding above five percent is starting to look like the base case, not a temporary spike. If a refinancing is coming up, the cost has gone up meaningfully. And the fixed versus floating decision is harder, because both are getting more expensive.
+EMMA: And overnight rates?
+MICHAEL: Still steady, because the Fed hasn't acted. SOFR is three point nine percent, up one basis point on the day. Effective Fed funds is three point eight eight percent.
+EMMA: Sterling and euro are quiet too. SONIA is at three point nine eight four five percent, unchanged on the day, with the twenty-five basis point step now fully in the weekly data. And the euro short-term rate is at two point four four three percent, unchanged.
+MICHAEL: Currencies.
+EMMA: The dollar strengthened again. Euro-dollar is at one point one oh five two, down about a quarter of a percent on Friday, and down about one percent on the week.
+MICHAEL: That's a big weekly move for the euro.
+EMMA: It is. For Carrier, it reduces the dollar value of European earnings and cash. If euro cash is due to be converted to dollars before year end, it's worth checking how much is hedged.
+MICHAEL: Sterling?
+EMMA: Sterling-dollar is at one point three two two seven, down about two tenths of a percent on Friday, and about one point two percent on the week. Euro-sterling is essentially flat at nought point eight three five six.
+MICHAEL: And the yen.
+EMMA: Dollar-yen is right at one hundred and sixty. Up about two tenths of a percent on Friday, and just over one percent on the week. One hundred and sixty is a very weak level for the yen. My analysis: at levels like that, there's always a risk of sharp moves, so if there are yen exposures, it's worth knowing how they're hedged.
+MICHAEL: The peso.
+EMMA: Dollar-Mexican peso fell about half a percent on Friday to eighteen point five nine, and is down about six tenths of a percent on the week. So the peso firmed. That makes Mexican costs a bit more expensive in dollar terms.
+MICHAEL: And renminbi.
+EMMA: Dollar-renminbi is at six point six seven one nine, barely moved. Steady again, despite the weak Chinese data we'll talk about.
+MICHAEL: And there's one more currency story, from Bloomberg. Analysts say Indonesia faces an uphill battle to stem the rupiah's slide.
+EMMA: Worth knowing if there's any Indonesian exposure. Emerging market currencies tend to come under pressure when the dollar and US yields rise together.
+MICHAEL: And a bit of perspective from the South China Morning Post. A column argues the dollar's reign endures not by merit but by default.
+EMMA: Which is a nice way of saying there's still no real alternative when markets get nervous.
+MICHAEL: Okay. Big stories. Let's start with inflation.
+EMMA: Go on.
+MICHAEL: CFO Dive reports producer prices are surging at a six point five percent annual pace, as Fed officials signal a hike. San Francisco Fed President Mary Daly said, quote, we're going to need to, in all likelihood, raise rates. That was during a webcast interview.
+EMMA: In all likelihood. That's pretty clear.
+MICHAEL: It is. And the Chicago Fed's Goolsbee told CNBC the central bank has definitely got work to do on inflation. He expressed concern about the latest data, and said the Fed will likely need to take action.
+EMMA: So the message from the Fed is consistent.
+MICHAEL: Very consistent. Producer prices are surging, consumer prices came in hot, and Fed officials are lining up to say a hike is coming.
+EMMA: Why do producer prices matter so much to a manufacturer?
+MICHAEL: Producer prices are, in effect, what businesses pay for inputs. A six point five percent annual pace is a big number. My analysis: that's a direct pressure on margins unless companies can pass costs on. And it often feeds through into consumer prices with a lag, which keeps the Fed hawkish.
+EMMA: So for Carrier's treasury team, what's the takeaway?
+MICHAEL: Plan for higher dollar floating costs. If the Fed hikes in December, SOFR goes up, and so does the cost of commercial paper, revolver drawings and floating-rate intercompany loans. And I'd keep dollar cash relatively short until the path is clearer, so you can reinvest at higher rates.
+EMMA: And for F-P-and-A, input cost assumptions in the twenty twenty-seven budget might need a second look.
+MICHAEL: Exactly.
+EMMA: Second big story. The E-C-B.
+MICHAEL: The Irish Times reports markets are still pricing in two more E-C-B rate hikes.
+EMMA: So the euro rate story isn't over either.
+MICHAEL: Not according to markets. And E-C-B board member Isabel Schnabel gave a speech titled "Made in Europe". We don't have the content, so I won't characterise it.
+EMMA: For a Dublin-based team, two more hikes means euro deposit yields should keep rising for a while. My analysis: that argues for staggering euro placements, rather than locking everything into long tenors now. A ladder of maturities lets you capture rising rates as each deposit rolls.
+MICHAEL: And the borrowing side?
+EMMA: Any euro floating debt, or euro-denominated intercompany funding, will get more expensive. And when both the Fed and the E-C-B are hiking, the effect on F-X forward points depends on which moves more. So hedging costs need fresh pricing.
+MICHAEL: Third big story. China.
+EMMA: CNBC reports China's slowdown deepened in October. Industrial output, retail sales and investment all missed estimates. Analysts say a deepening reliance on external demand leaves China more exposed to shocks abroad, as domestic momentum fades.
+MICHAEL: That's a significant combination. Factories, consumers and investment all weaker than expected.
+EMMA: It is. So what does it mean for Carrier?
+MICHAEL: Two angles. First, revenue in China. If domestic demand is fading, local sales and order books could come under pressure. Second, receivables. When an economy slows, customers sometimes stretch payment terms. It's worth keeping an eye on days sales outstanding in Chinese entities.
+EMMA: And cash in China?
+MICHAEL: My analysis: if growth is weak, there's a question about whether Chinese policymakers ease further. That's relevant to renminbi interest rates and the currency. And on the calendar, China's loan prime rates come out early on Friday morning, Dublin time. The forecast is no change, at three percent for the one-year and three point five percent for the five-year.
+EMMA: So a surprise cut would be a signal.
+MICHAEL: It would. And for a company with intercompany funding into or out of China, that matters.
+EMMA: Fourth big story. Nvidia, and its political fallout.
+MICHAEL: Briefly, for anyone who missed it: Nvidia's chief executive Jensen Huang resigned, and the company named its long-time chief financial officer, Colette Kress, as interim chief executive until a permanent successor is found.
+EMMA: And it's now become a political story.
+MICHAEL: It has. The FT reports US Treasury Secretary Bessent says Nvidia needs a shake-up with an external C-E-O, and is demanding to know whether the chipmaker is complying with restrictions on exports to China.
+EMMA: That's unusual, a Treasury Secretary weighing in on a company's leadership.
+MICHAEL: It is. And CNBC reports Commerce Secretary Howard Lutnick faces renewed scrutiny over his family's financial ties to the chipmaker, through his sons' firm.
+EMMA: Why does this matter for a treasury team at an HVAC company?
+MICHAEL: Two reasons, as analysis. First, export controls and China. If Washington tightens scrutiny of tech exports to China, that can spill into the wider trade relationship. Second, market sentiment. CNBC reports E-T-F experts think the Nvidia turmoil and a Democratic Congress could shift A-I demand to other big tech companies and rival chipmakers. So the A-I trade is being reshuffled, and that can affect risk appetite and credit spreads.
+EMMA: And data centre demand?
+MICHAEL: That's worth watching. If A-I spending shifts between companies rather than shrinking, cooling demand might hold up. But uncertainty is higher.
+EMMA: One more angle on the dollar before we move on. With euro-dollar down one percent and sterling down more than that in a week, what should the netting team be thinking about?
+MICHAEL: The obvious one is timing. If the next intercompany netting cycle settles large euro or sterling positions into dollars, the dollar amounts will look different from what entities planned a fortnight ago. It's worth checking funding needs ahead of the settlement date, so nobody is surprised by a shortfall.
+EMMA: And revaluation.
+MICHAEL: Yes. Intercompany loans in foreign currency get revalued, and a move of this size will show up in the books. If those loans aren't hedged, the controllers will want a heads-up before month end.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: First, a cross-border F-X project. The Bank of England, the Monetary Authority of Singapore and the Bank of Thailand have issued a joint release on Project Meridian F-X A-P-A-C.
+MICHAEL: Do we know what it does?
+EMMA: The details in our input are thin, so I won't guess. But central banks working together on F-X infrastructure in Asia-Pacific is worth tracking for how intercompany flows in the region could be settled in future.
+MICHAEL: Banking regulation.
+EMMA: Two European items. The FT reports European banks' boom in risk transfers is raising their exposure to what an S-and-P report calls forced deleveraging. Banks are increasingly relying on significant risk transfers to boost returns and lending capacity.
+MICHAEL: So the tool that frees up capital could also create a new risk.
+EMMA: Exactly. If that market dried up, banks might have to shrink their balance sheets quickly. For a corporate borrower, that's a reason to keep an eye on how dependent your banks are on these structures.
+MICHAEL: And the deposit insurance story?
+EMMA: The FT reports the E-U's banking watchdog is veering away from a single deposit insurance scheme. The chair of the European Banking Authority is working on alternative ways to free up more cross-border lending. That matters for the long-term shape of European banking union.
+MICHAEL: US regulation?
+EMMA: US agencies have extended the comment period for proposed third-party risk management guidance. And the S-E-C has proposed making executive and director pay disclosure more principles-based and materiality-driven. The FT says only C-E-Os and C-F-Os would be required to disclose pay packages under the proposal.
+MICHAEL: And appointments.
+EMMA: Banking Dive reports President Trump has nominated two Democrats as S-E-C and C-F-T-C commissioners. They're the first opposing-party nominees he's proposed for those regulators in his second term.
+MICHAEL: Bank expansion?
+EMMA: U-S Bank is adding sixty middle-market roles, as part of its national business banking ambitions. Some of the roles are in Florida and Texas, where the bank doesn't have branches.
+MICHAEL: And payments companies.
+EMMA: Two. Payments Dive explains why PayPal wants a bank. It would use a bank subsidiary to lend to its merchants, and also to diversify its sources of capital. And Stripe sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.
+MICHAEL: And climate risk.
+EMMA: The FT reports pension funds are raising the alarm about systemic risk from climate events. Asset managers, insurers and central bankers are meeting at COP thirty-one to discuss financial stability concerns.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with US manufacturing. An FT piece argues US manufacturing is back, and better. It says resiliency enabled by technology is driving an uptick in factory output and jobs.
+EMMA: And there's data behind it.
+MICHAEL: There is. Manufacturing Dive reports monthly manufacturing technology orders have reached one billion dollars. G-E Vernova is expanding, and companies including Honda, Kopin and A-T-P Adhesive announced openings or expansion projects. And separately, automakers are using A-I and advanced technology to cut waste and costs and boost flexibility.
+EMMA: And a big chemicals investment.
+MICHAEL: Yes. BASF has opened a one billion dollar production facility for M-D-I in Geismar, Louisiana. It's the German company's largest single investment in the US to date, and makes the site its most significant M-D-I producer in North America.
+EMMA: That ties to a theme we've seen all month. Foreign companies putting real money into US production.
+MICHAEL: It does. And there's a nice H-B-R piece that frames it. It argues the market is mispricing resilience, calling it an increasingly important and underpriced growth asset.
+EMMA: That's relevant for treasury too.
+MICHAEL: Very. My analysis: liquidity buffers, hedging programmes and supply chain finance are often treated purely as costs. But they're part of a company's resilience. If investors are starting to value resilience more, it's worth asking whether capital allocation reflects that.
+EMMA: What about M-and-A?
+MICHAEL: A few deals. The FT reports Diamondback is nearing a five billion dollar deal to expand drilling in the Permian Basin, amid volatile energy prices caused by the Iran war. Johnson and Johnson is looking to buy eye disease biotech Ollin Biosciences for up to three point four billion dollars. And in Hong Kong, developer New World's shares tumbled forty-seven percent on a three point two billion dollar rights issue at an eighty percent discount, as it moves to slash debt.
+EMMA: That last one is a stark reminder of what happens when a company has to raise equity under pressure.
+MICHAEL: Exactly. A rights issue at an eighty percent discount is a painful way to fix a balance sheet. It's the opposite of resilience.
+EMMA: And a cautionary tale on governance.
+MICHAEL: Yes. CNBC reports that Foundation Future Industries, a robot soldier start-up backed by Eric Trump, has run low on cash and missed payroll. Its chief executive, Sankaet Pathak, faces scrutiny over a four point six million dollar loan from the company that he used to buy a home.
+EMMA: That's a textbook control failure. Treasury teams exist partly to stop exactly that kind of thing.
+MICHAEL: Exactly. And H-B-R has an excerpt from its Board Member's Handbook on how boards detect and prevent internal misconduct. Timely, given the Nvidia story too.
+EMMA: Any more on capital markets?
+MICHAEL: In Europe, London-based Plural has raised a one billion euro fund to back European tech start-ups, one of the region's biggest-ever venture capital fundings. And the FT has a piece on what Europe's rising public debt means for investors, as hard-up governments look for spending cuts and tax raids.
+EMMA: That ties back to the sovereign risk theme in European bond markets.
+MICHAEL: It does. Higher public debt and higher rates together put pressure on budgets, which can mean tax changes that affect corporates too. Worth keeping on the tax team's radar.
+EMMA: And finance leadership?
+MICHAEL: CFO Dive reports QXO has appointed Novelis C-F-O Dev Ahuja to its finance seat, with a four and a half million dollar sign-on stock bonus. It's promoted Ihsan Essaid to an M-and-A-focused role. Both take effect in January.
+EMMA: And close to home.
+MICHAEL: Yes. The Irish Independent reports the government's climate plan for more than seven hundred thousand homes faces a clash with the fuel industry over delays and low ambition. Home heating policy in Ireland is directly relevant for the HVAC sector.
+EMMA: Let's do the calendar.
+MICHAEL: Today, Fed Chairman Warsh speaks at five p-m Dublin time. Reuters reports gold is holding steady as investors wait for his remarks for rate signals.
+EMMA: And the rest of the week?
+MICHAEL: Tuesday at half past one, US retail sales. Headline forecast at point two percent, after point eight percent. Core forecast at point four percent, after point nine.
+EMMA: Then Wednesday is busy.
+MICHAEL: Very. At seven in the morning, UK consumer prices. Annual CPI is forecast at three point six percent, up from three point five. At three in the afternoon, Bank of England Governor Bailey speaks. And at seven in the evening, Dublin time, the minutes of the last Fed meeting.
+EMMA: And Friday?
+MICHAEL: China's loan prime rates at one in the morning, Dublin time, forecast unchanged at three percent and three point five percent.
+EMMA: What's the one to watch?
+MICHAEL: Warsh tonight. After a week like the last one, markets will be listening closely for any hint on the size and timing of a December hike. A hawkish message would likely support the dollar and push yields higher.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: Ten-year Treasuries above five percent, producer prices running at six and a half percent a year, and the Fed signalling a hike. So here's the question for Monday morning. If term funding above five percent is the new normal, does our capital allocation still make sense? And are we valuing liquidity and hedging as resilience, or only as costs?
+MICHAEL: A good one to start the week with.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
