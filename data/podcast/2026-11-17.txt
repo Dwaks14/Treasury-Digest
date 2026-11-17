@@ -1,0 +1,141 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Tuesday, the seventeenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. UniCredit has won the final approvals it needed to buy Commerzbank. UK two-year borrowing costs have broken above five percent for the first time in three years. And J-P Morgan had a software bug that disrupted transactions, which is a useful reminder about bank concentration.
+MICHAEL: Plus a sharp sell-off in tech ahead of Nvidia's results, and oil falling to eighty-five dollars a barrel.
+EMMA: Let's start with the watchlist. UniCredit first.
+MICHAEL: Reuters reports UniCredit has won both E-U and US approval for its acquisition of Commerzbank. Bloomberg says Brussels backed the takeover in what it calls a boost for cross-border bank deals.
+EMMA: So the regulatory hurdles are cleared.
+MICHAEL: They are. And that's significant beyond this one deal. European banking has been fragmented along national lines for a long time. A big cross-border merger getting a clean approval could encourage more.
+EMMA: What does it mean for Carrier's treasury team?
+MICHAEL: UniCredit is a relationship bank. If Carrier also does any business with Commerzbank, the two will become one counterparty. That affects counterparty limits, the share of wallet each bank gets, and possibly who your coverage team is.
+EMMA: I'd add two practical points. First, check total exposure across both banks now: deposits, derivatives, credit lines. If your policy caps exposure per bank, a merger can push you over without you doing anything. Second, think about operational continuity. Integrations can mean account migrations, new payment formats, changes to cash management platforms. It's better to ask early what's planned.
+MICHAEL: And timing?
+EMMA: We don't have a closing date in our inputs. But with approvals in hand, it's sensible to start those conversations now.
+MICHAEL: Next, J-P Morgan, and there's quite a lot.
+EMMA: There is. Let's start with the one that's most directly useful. CFO Dive reports J-P Morgan has updated its accounts receivable platform to help clients free up working capital. The bank has been in the receivables business for decades, and J-P Morgan's Michelle Conklin said it has recently taken steps to modernise the platform.
+MICHAEL: Receivables is a big working capital lever.
+EMMA: It is. For a manufacturer like Carrier, faster cash application and better matching of payments to invoices can bring days sales outstanding down. Even if you don't plan to switch, it's worth a demo as a benchmark. What does the bank's tool do that the current setup doesn't?
+MICHAEL: Now the less welcome J-P Morgan news.
+EMMA: Yes. J-P Morgan Chase had a technical issue that disrupted transactions. CNBC reports the bank called it a temporary software bug affecting consumer banking. AP reports the technical issue triggered online banking delays for major US banks.
+MICHAEL: Was it a cyber attack?
+EMMA: CNBC reports a source saying there was no indication that bad actors were involved, and no indication the bug was affecting multiple banks at the same time. And the New York Times reports Chase has resumed normal operations after the software bug disrupted transactions.
+MICHAEL: So a technical failure, now fixed.
+EMMA: That's what the reporting says. But it's still a useful moment for a treasury team. Two questions. First, were any of Carrier's own payments or bank reporting affected? Check with the operations team. Second, what's the contingency plan if a major bank goes down for a few hours on a payment day? Can urgent payments be routed through a second bank?
+MICHAEL: Bank concentration risk, in other words.
+EMMA: Exactly. It's easy to centralise everything on one bank for efficiency. Days like this remind you why some redundancy is worth paying for.
+MICHAEL: A couple more J-P Morgan items.
+EMMA: Banking Dive reports J-P Morgan is hiring to win more business advising on smaller M-and-A deals, so smaller clients don't go elsewhere for advisory services. And Payments Dive confirms Allison Beer, chief executive of card and connected commerce, is leaving for an external opportunity, according to a company memo.
+MICHAEL: Neither directly relevant to corporate treasury.
+EMMA: No. And Johnson Controls shares outperformed competitors even though they fell on the day, according to MarketWatch. Nothing behind that in our inputs.
+MICHAEL: Okay. Rates and F-X. Let's start with the UK, because that's the eye-catching number.
+EMMA: Go on.
+MICHAEL: The Financial Times reports UK short-term borrowing costs have hit a three-year high. The two-year gilt yield has broken above five percent, on strong economic data and hawkish messaging from the Bank of England.
+EMMA: Above five percent on two-year gilts.
+MICHAEL: Yes. For context, US two-year Treasuries are at four point eight three percent. So UK short-term government borrowing now costs more than the US equivalent.
+EMMA: For a treasury team, what does that mean?
+MICHAEL: Sterling borrowing is getting more expensive. If there are sterling facilities or sterling intercompany loans priced off market rates, those costs are rising. On the other side, sterling cash can earn more if you place it at term.
+EMMA: SONIA itself is at three point nine eight four six percent, unchanged. So the overnight rate hasn't moved, but markets are pricing more hikes ahead.
+MICHAEL: Exactly. The two-year is telling you what the market expects the Bank of England to do.
+EMMA: And the US?
+MICHAEL: Treasuries steadied a little. The two-year is at four point eight three percent, down five basis points on the day, but still up twenty-seven on the week. The ten-year is at five point one two percent, down three on the day, up twenty-four on the week. SOFR is at three point nine percent, and effective Fed funds three point eight eight.
+EMMA: So a pause, not a reversal.
+MICHAEL: That's how I'd read it. Ten-year yields above five percent are still the backdrop.
+EMMA: And the euro.
+MICHAEL: Reuters reports euro-zone yields edged up as traders bet on three E-C-B rate hikes by late twenty twenty-seven. And the E-C-B's Vujcic told Bloomberg that bets on an E-C-B hike in twenty twenty-seven don't seem unreasonable.
+EMMA: So the market sees a longer tightening cycle in Europe.
+MICHAEL: That's the read. And the euro short-term rate itself is at two point four three seven percent, down a fraction of a basis point.
+EMMA: For a Dublin team, that's quite significant. If three hikes are priced out to late twenty twenty-seven, euro deposit yields could keep rising for a long time. My analysis: that argues for a rolling ladder of euro deposits, rather than locking everything into one long tenor. Each maturity lets you reinvest at whatever the new rate is.
+MICHAEL: Currencies.
+EMMA: The dollar keeps climbing. Euro-dollar fell about a third of a percent to one point one oh one four. On the week, it's down one point six percent.
+MICHAEL: That's getting close to one point one oh.
+EMMA: It is. And sterling-dollar fell about a fifth of a percent to one point three one nine eight, also down about one point six percent on the week. Euro-sterling is at nought point eight three four five, essentially flat on the week.
+MICHAEL: And what does that mean for Carrier?
+EMMA: The dollar value of European and UK earnings keeps shrinking. If fourth-quarter conversions are planned, it's worth checking hedge cover. And the netting team should check whether settlement amounts have shifted materially.
+MICHAEL: Yen.
+EMMA: Dollar-yen eased about a quarter of a percent to one hundred and fifty-nine point six. Still up about one percent on the week, close to one hundred and sixty.
+MICHAEL: Peso.
+EMMA: Dollar-Mexican peso eased slightly to eighteen point five six, so a touch firmer peso. And dollar-renminbi is at six point six six six five, a bit lower on the day and the week. Steady.
+MICHAEL: And gold tells you something about the dollar.
+EMMA: It does. Reuters reports gold has dropped to a more-than-one-year low as the US dollar marches higher.
+MICHAEL: Okay. Big stories. Beyond the UniCredit story we've covered, let's go deeper on a few.
+EMMA: Let's start with the A-I debt story, because it connects to HVAC demand.
+MICHAEL: Go on.
+EMMA: The FT reports banks are seeking to curb their exposure to A-I debt as a backlash mounts. Lenders are offloading debt tied to data centres and chips, as public opposition threatens to derail mega projects.
+MICHAEL: So banks are getting nervous about data centre lending.
+EMMA: That's the reporting. And there's a related FT story about European banks. A report from S-and-P says European banks are increasingly relying on significant risk transfers to boost returns and lending capacity, and that raises their exposure to what it calls forced deleveraging.
+MICHAEL: Why does that matter for Carrier?
+EMMA: Two angles, both analysis. First, demand. Data centres need a lot of cooling. If banks pull back from financing them, some projects could slow or be cancelled. That's worth watching in the order pipeline. Second, bank capacity. If banks are stretched and relying on risk transfers, their appetite for other lending could change. That's worth keeping in mind at the next facility renewal.
+MICHAEL: And the market backdrop fits.
+EMMA: It does. The FT reports the Nasdaq one hundred sank two point seven percent in a gloomy start to a pivotal week for the A-I trade, as US chip stocks fell and Nvidia came under fresh selling pressure. Another FT report says the tech sell-off deepened as Nvidia results loom, with investors worried about tighter US chip export controls and a potential slowdown in the A-I data centre build-out.
+MICHAEL: And Nvidia's interim C-E-O is about to face the market.
+EMMA: Yes. The FT reports interim chief executive Colette Kress will make her debut at Nvidia's first earnings since Jensen Huang's departure, and will have to ease investors' anxiety about the chipmaker's future. CFO Dive reports Treasury Secretary Bessent has called for a shake-up, urging Nvidia to appoint an outside C-E-O, and questioning whether potentially illicit chip sales to China were used to, quote, goose earnings.
+MICHAEL: That's a lot of pressure on a first earnings call.
+EMMA: It is. Second big story. Oil.
+MICHAEL: CNBC reports US crude oil has declined to eighty-five dollars a barrel, on recovering Middle East exports. Oil prices are falling as forecasts project a surplus in the fourth quarter.
+EMMA: That's a relief after recent weeks.
+MICHAEL: It is. My analysis: lower oil helps on freight, logistics and some input costs. For a manufacturer, that's a modest offset to rising interest costs. It also feeds into inflation. If energy prices keep falling, that could take a little pressure off central banks.
+EMMA: Although the producer price data suggests inflation is broader than energy.
+MICHAEL: That's fair. Lower oil helps, but it doesn't solve the inflation problem on its own.
+EMMA: And there's an energy M-and-A story too.
+MICHAEL: Yes. The FT reports Diamondback has struck a five billion dollar deal to expand drilling in the Permian Basin. It's the latest deal in the heartland of the US shale boom, amid volatile energy prices caused by the Iran war.
+EMMA: Third big story. The new Fed chairman on A-I.
+MICHAEL: CNBC reports Fed Chairman Kevin Warsh stressed the importance of A-I to the economy, but said it could disappoint. CFO Dive reports Warsh said the Fed is examining whether A-I will boost or jolt the US economy. He also asked, quote, will adversaries race to deploy S-I, intending to do harm to our economy? He was referring to super intelligence.
+EMMA: That's an unusual thing for a Fed chairman to talk about.
+MICHAEL: It is. But it makes sense. If A-I boosts productivity, that could help with inflation. If it disappoints, or causes disruption, that's a risk to growth. And the Fed has to think about both.
+EMMA: And for a treasury team?
+MICHAEL: The practical point is about the rate outlook. We didn't get a clear signal on the size or timing of a December hike from these reports. So the key data this week, retail sales today and the Fed minutes tomorrow, matter more.
+EMMA: There's an E-C-B angle on A-I too.
+MICHAEL: There is. Bloomberg reports the E-C-B's Vujcic warns that A-I and high debt threaten financial stability. And Vujcic gave a speech on risks and resilience in the euro area financial system.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: First, A-I in payments. Payments Dive reports OpenAI has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express. And Mastercard is piloting A-I travel purchases, using its technology to validate consumers' agentic transactions and hide their payment details.
+MICHAEL: Agents making purchases on behalf of people.
+EMMA: Right. Consumer for now, but agentic payments will eventually reach the corporate world. And there's a fraud angle. Payments Dive has a piece arguing that checkouts are built for speed, and fraudsters are thankful. As friction drops, fraud may get easier.
+MICHAEL: Embedded payments?
+EMMA: Two items. New research says sixty-five percent of US small and medium-sized businesses use embedded payments, and that faster cash flow is what sells them. And another Payments Dive piece says merchants want simpler embedded finance.
+MICHAEL: And A-I in finance teams.
+EMMA: A few CFO Dive pieces. One argues CFOs need a portfolio strategy for A-I models, matching the model to the task to control cost. Another offers four ways CFOs can ensure predictable economics as A-I agents scale. And new Salesforce research says nearly seventy-five percent of finance leaders face expanded roles as more sales channels and revenue models drive complexity, and they're turning to A-I to manage it.
+MICHAEL: That's a lot of A-I.
+EMMA: It is. The common thread is cost control and predictability.
+MICHAEL: Banking?
+EMMA: The FT reports the UK government is set to limit banks' retreat from the high street. Larger current account providers will have to ensure reasonable access to essential in-person banking services. And Ameris Bancorp is buying Bank of Central Florida for a hundred and eighty million dollars, which would give it the number five deposit position among community and regional banks in Florida.
+MICHAEL: Point of sale?
+EMMA: Payments Dive reports Shift4's chief financial officer says point-of-sale providers face less intense competition as venture-funded start-ups drop away.
+MICHAEL: And E-C-B supervision.
+EMMA: Frank Elderson of the E-C-B gave a speech on smart supervision for small banks.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to start with something very relevant to an HVAC company. Manufacturing Dive has a piece on how to prepare for the most severe El Niño on record. Experts say manufacturers should audit their systems for failure risks and take other protective measures as this year's severe weather approaches.
+EMMA: That's a big one for Carrier.
+MICHAEL: It is, and it cuts both ways. My analysis: extreme weather can drive HVAC demand, as people need heating or cooling. But it can also disrupt plants, supply chains and logistics.
+EMMA: So the treasury and F-P-and-A question is about both sides at once.
+MICHAEL: Exactly. If demand spikes at the same time as supply is disrupted, what happens to working capital? Inventory might need to build. Receivables might grow with sales. And if a plant goes down, cash flow could take a hit. Is the liquidity plan sized for that combination?
+EMMA: And insurance?
+MICHAEL: Worth checking that property and business interruption cover reflects the risk. Treasury often owns or co-owns that conversation.
+EMMA: What else?
+MICHAEL: European defence. The FT reports changing battlefield tactics are hitting Europe's ammunition makers, with evidence that selling weapons and shells isn't as profitable as expected. And a Swiss defence group is pushing to expand in the US as drone demand soars. The US market keeps attracting European companies, even as Europe's governments rearm.
+EMMA: Another example of foreign companies investing in the US.
+MICHAEL: It is. And in Europe, the FT reports Greece has become an unlikely haven for European investors, and Rothschild and Co is putting Italy at the heart of its European growth plan, targeting more than two hundred billion euros in wealth and asset management assets by twenty thirty.
+EMMA: Capital allocation?
+MICHAEL: CNBC reports Berkshire Hathaway raised its stake in Delta in the third quarter, and trimmed a key bank holding, Bank of America. And the FT reports a Jay-Z-backed music rights firm has raised nearly seven hundred million dollars, backed by a securitisation of music royalties, as investors look for steady yields outside traditional markets.
+EMMA: Searching for steady yield.
+MICHAEL: Exactly. And one more on leadership. H-B-R has a column on why C-E-Os wait too long to shake up leadership, and regret it. It uses Netflix's decision to replace its longtime content chief as an example.
+EMMA: Timely, given the Nvidia story.
+MICHAEL: Very. And a manufacturing workforce story. Manufacturing Dive interviews Drew Crowe, founder of New American Manufacturing Renaissance, who argues the skills gap is overstated and manufacturers need to be more open-minded about who they hire.
+EMMA: And a geopolitical note before the calendar.
+MICHAEL: Yes. The FT reports Finland's President Alexander Stubb is urging European leaders to talk to Putin directly, saying Europe outsourcing negotiations to the US was irresponsible. Any shift in how the war in Ukraine is negotiated matters for European energy, defence spending and the wider economy, so it's one to keep an eye on.
+EMMA: And for treasury, geopolitical shifts like that tend to show up first in currencies and energy prices, so it's another reason to keep hedge programmes under review rather than on autopilot.
+EMMA: Let's do the calendar.
+MICHAEL: Today at half past one Dublin time, US retail sales. The headline is forecast at point one percent, after point eight percent last time. Core retail sales are forecast at point four percent, after point nine.
+EMMA: And tomorrow is busy.
+MICHAEL: Very. At seven in the morning, UK consumer prices. Annual CPI is forecast at three point six percent, up from three point five. At three in the afternoon, Bank of England Governor Bailey speaks. And at seven in the evening, Dublin time, the minutes of the last Fed meeting.
+EMMA: And later in the week?
+MICHAEL: China's loan prime rates at one in the morning on Friday, Dublin time. Both forecast unchanged, at three percent for one year and three point five percent for five years.
+EMMA: What's the one to watch?
+MICHAEL: For sterling, tomorrow's UK CPI. With two-year gilts already above five percent, a strong inflation number could push sterling borrowing costs higher still. For the dollar, the Fed minutes, for any hint on the size of a December hike.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: J-P Morgan's bug disrupted transactions, UniCredit is absorbing Commerzbank, and banks are trimming A-I exposure. So here's the question. If one of our main banks went down for half a day on a payment run, could we still pay the people who matter most? And is our bank group still diversified enough as the banks consolidate?
+MICHAEL: A good one to answer before you need to.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
