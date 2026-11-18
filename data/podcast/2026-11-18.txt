@@ -1,0 +1,150 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Wednesday, the eighteenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. The dollar rally has wiped out all of its liberation day losses, and euro-dollar has dropped below one point one oh. A wave of outages hit banks, airlines and big tech this week, which is a real test of operational resilience. And Trump, Xi and Putin are meeting in Shenzhen.
+MICHAEL: Plus a new chief financial officer at J-P Morgan, and Carrier pushing ahead with its controls technology.
+EMMA: Let's start there, with the watchlist. Carrier first.
+MICHAEL: Carrier says it is accelerating the integration of 75F technology across its HVAC portfolio. That's from a Carrier press release.
+EMMA: What does that mean in practical terms?
+MICHAEL: We don't have detail on the technology itself in our inputs, so I'll keep it general. The direction is clear, though. Carrier is pushing a technology it owns across more of its product range, faster.
+EMMA: And for treasury and F-P-and-A?
+MICHAEL: Two things, as analysis. In the near term, integration usually means spending: engineering time, systems work, maybe some capital investment. Worth making sure that's in the capex and opex forecasts. Over time, the aim is presumably a broader digital and controls offering, which tends to bring more recurring service revenue. That kind of revenue is helpful for cash forecasting, because it's more predictable.
+EMMA: Next, J-P Morgan, and there's a lot.
+MICHAEL: The biggest headline is leadership. CFO Dive, Reuters, the Wall Street Journal and others report J-P Morgan has named Bregje de Best, who is forty-three, as its next chief financial officer. She'll take over from Jeremy Barnum in April. Barnum, who has been finance chief for six years, will stay at the company as a vice chairman through early twenty twenty-eight.
+EMMA: A long handover.
+MICHAEL: Very long. That usually signals an orderly transition rather than a surprise. For Carrier, it shouldn't change the relationship in the near term. But a new C-F-O at your biggest relationship bank is someone worth meeting when the opportunity comes.
+EMMA: And there's J-P Morgan treasury-services news too.
+MICHAEL: Yes. Banking Dive reports J-P Morgan has updated its accounts receivable platform to help free up working capital. J-P Morgan's Michelle Conklin said the bank, which has been in receivables for decades, has recently modernised the platform.
+EMMA: Worth a look for Carrier's order-to-cash team, even just as a benchmark.
+MICHAEL: Agreed. And CNBC reports J-P Morgan is working on A-I agent transactions that don't involve humans. It's working with Hyundai Card to expand the use of A-I agents in financial transactions.
+EMMA: That's a big idea. Payments initiated and completed by software agents.
+MICHAEL: It is. My analysis: for corporate treasury, the question will be controls. Who authorises an agent to pay? What limits apply? How do you audit it? It's worth starting to think about that before a bank pitches it.
+EMMA: And J-P Morgan was part of this week's outages story.
+MICHAEL: Yes. Banking Dive reports J-P Morgan Chase fixed a technical issue that caused delays in transactions, and a spike in errors reported to Downdetector, including among users of other large banks. And Bloomberg reports President Trump downplayed the J-P Morgan and Microsoft outages, saying, quote, it's life.
+EMMA: Not the reaction a treasurer would have.
+MICHAEL: No. We'll come back to outages in the big stories.
+EMMA: A couple of J-P Morgan research views. Bloomberg reports J-P Morgan warns leveraged loan defaults are set to double in twenty twenty-seven. And separately, J-P Morgan cut borrowing costs on a two point eight five billion dollar triple-C rated debt deal.
+MICHAEL: That default forecast is worth noting. If defaults in leveraged loans double, it suggests stress in the riskier end of corporate credit. For a well-rated company like Carrier that's not a direct risk, but it matters for any customers or suppliers that are highly leveraged.
+EMMA: Good point. Counterparty risk in the supply chain. And CNBC reports J-P Morgan says the US is set for its strongest two-year holiday spending in a decade, but on China's luxury market, J-P Morgan says, quote, we're not seeing signals things are getting any better.
+MICHAEL: Mixed signals for the consumer, depending on where you look.
+EMMA: Then H-S-B-C. American Banker reports H-S-B-C and Associated Bank sites were briefly affected by a cyberattack.
+MICHAEL: Briefly is the key word.
+EMMA: It is. But for a treasury team, it's worth confirming that no corporate channels were affected, and that fallback arrangements are in place if the bank's online platform is unavailable during a payment run.
+MICHAEL: And UniCredit.
+EMMA: Bloomberg and Reuters report UniCredit sees up to two billion euros of value from its cooperation with Generali. A strategic partnership story. And Barclays: Bloomberg reports Barclays sees twenty twenty-seven municipal bond supply reaching up to six hundred billion dollars, and a Barclays strategist, Rajadhayaksha, says market angst over Nvidia is overdone. Both research views.
+MICHAEL: Okay. Rates and F-X. And the dollar is the headline.
+EMMA: It is. The Financial Times reports the US dollar rally has erased its liberation day losses, as rate expectations rise. The dollar has risen to levels last seen in April twenty twenty-five, helped by what the FT calls a perfect storm of dollar-positive factors.
+MICHAEL: And the numbers?
+EMMA: Euro-dollar has broken below one point one oh. It's at one point oh nine eight nine, down about a quarter of a percent on the day, and down about two percent on the week.
+MICHAEL: Two percent in a week on euro-dollar is a big move.
+EMMA: It is. For Carrier, the dollar value of European earnings and euro cash keeps falling. My analysis: this is a good moment to review hedge ratios on European exposures. If you're under-hedged, adding cover on any bounce in the euro might make sense. If you're well hedged, those forwards are working for you.
+MICHAEL: Sterling?
+EMMA: Sterling-dollar is at one point three one nine one, almost unchanged on the day, but down about one point seven percent on the week. Euro-sterling eased to nought point eight three three, so sterling is a touch firmer against the euro.
+MICHAEL: Yen.
+EMMA: This one has an interesting twist. The FT says A-I might be a reason why the yen is back on intervention watch. A surge in buying of Japanese stocks is creating demand for currency hedging. Dollar-yen is at one hundred and fifty-nine point three, down about two tenths on the day, but up seven tenths on the week.
+MICHAEL: So foreign investors buying Japanese stocks and hedging the yen, which pushes the yen weaker.
+EMMA: That's the mechanism the FT describes. And intervention watch means the market is wondering whether Japanese authorities will step in. My analysis: if they did, the yen could move sharply stronger very quickly. For any yen exposures, keeping hedges tight is sensible.
+MICHAEL: The peso.
+EMMA: Dollar-Mexican peso fell about half a percent to eighteen point four six. The peso has firmed, down about half a percent on the week as well. Interesting that the peso is holding up while the euro and sterling weaken.
+MICHAEL: Renminbi.
+EMMA: Dollar-renminbi at six point six six six one, essentially unchanged. Very stable.
+MICHAEL: And gold.
+EMMA: Reuters reports gold slid to more than a one-year low on the firm dollar and the US rate outlook.
+MICHAEL: Now rates. The two-year Treasury is at four point eight percent, down three basis points on the day, up seven on the week. The ten-year is at five point one percent, down two on the day, up twelve on the week.
+EMMA: So still above five percent on the ten-year.
+MICHAEL: Still above five. SOFR has ticked up three basis points to three point nine three percent. Effective Fed funds is three point eight eight.
+EMMA: And Europe and the UK.
+MICHAEL: The euro short-term rate is at two point four four percent. SONIA is at three point nine eight three two percent. Both unchanged.
+EMMA: Michael, the FT has a piece on central bank communication.
+MICHAEL: It does. It's headlined "How to guide interest rate expectations when the outlook is misty". And the E-C-B's Philip Lane gave a speech on the practice and science of monetary policy communication. The theme is that central banks find it hard to give clear guidance when the outlook is this uncertain.
+EMMA: Which is exactly why the minutes tonight matter.
+MICHAEL: Exactly.
+EMMA: Big stories. Let's start with the outages.
+MICHAEL: CNBC reports widespread outages hit banks, air travel, the N-S-A and Apple, disrupting seemingly everything.
+EMMA: That's quite a list.
+MICHAEL: It is. And CFO Dive has a piece on a Microsoft three-six-five outage that it says underscores enterprise resiliency issues. Its advice is that companies should rely on a diversity of providers and bolster incident response, as strain on computing capacity threatens future disruptions.
+EMMA: And there's a cyber angle too.
+MICHAEL: There is. The FT reports the US cybersecurity agency has warned about a vulnerability in Oracle's Java, telling companies to update systems running on the programming language, which is widely used by corporates, banks and government agencies.
+EMMA: So what does this mean for a treasury team?
+MICHAEL: This is the clearest operational-risk story we've had in a while. My view: it's a prompt to test payment contingency plans now, not after the next outage. A few questions. If your main bank's platform goes down on a payment day, can you release urgent payments through a second bank? Do you have manual release procedures that people actually know how to use? If your treasury management system is unavailable, can you still see cash positions?
+EMMA: And the vendor side.
+MICHAEL: Yes. If your treasury systems or bank connectivity rely on a single cloud provider or a single piece of software, that's a concentration risk. And on Java specifically, it's worth asking IT whether any treasury systems run on it and have been patched.
+EMMA: Second big story. Geopolitics.
+MICHAEL: CNBC reports US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen, alongside an APEC leaders' meeting.
+EMMA: That's a remarkable combination.
+MICHAEL: It is. And ahead of it, CNBC reports Putin said the E-U is losing industry and falling behind the competition. He used the speech to stress Russia's economic resilience despite US sanctions, and played up opportunities for APEC members in Russia.
+EMMA: And the business angle?
+MICHAEL: CNBC also has a piece saying US companies from Nvidia to Apple face a growing China dilemma, and that the stakes have just got higher for businesses navigating the US and China markets.
+EMMA: So for Carrier?
+MICHAEL: My analysis: the outcome of this meeting could reset tariffs and the trade relationship. For a company with Chinese sourcing and Chinese revenue, it's worth being ready to update assumptions quickly. That includes the cost of goods from China, renminbi exposures, and any intercompany funding into or out of China.
+EMMA: And there's a Canada angle on trade.
+MICHAEL: Yes. The BBC reports Carney is looking to China as Trump's tariffs squeeze Canada's car industry.
+EMMA: Which shows US trading partners looking elsewhere.
+MICHAEL: Exactly.
+EMMA: Third big story. Export controls.
+MICHAEL: Manufacturing Dive reports the US Department of Commerce has issued a final rule placing export controls on chips and related equipment. The rule aims to stop companies from getting around existing restrictions through remote computing arrangements involving data centres in third countries.
+EMMA: So it closes a loophole.
+MICHAEL: That's the aim. My analysis: for a manufacturer, tighter export controls add compliance work. If Carrier sources electronics or controls components across borders, or sells into markets affected by the rules, it's worth checking with trade compliance.
+EMMA: And it ties back to Nvidia.
+MICHAEL: It does. Let's do a quick Nvidia update. The FT reports Nvidia raised next year's financial forecasts during its earnings report, after doubling revenue last quarter. And the board insists Jensen Huang won't return as C-E-O.
+EMMA: And the interim C-E-O?
+MICHAEL: CFO Dive reports Colette Kress, in her first earnings call as interim C-E-O, sought to reassure investors that Nvidia's customers and partners are still, quote, one hundred percent up behind us.
+EMMA: So strong numbers, despite the turmoil.
+MICHAEL: Strong numbers. And the FT has a piece saying Nvidia's crisis creates an opportunity for newer chipmakers, many of them European.
+EMMA: Fourth big story. Earnings.
+MICHAEL: The FT reports Wall Street expects corporate earnings growth to halve next year. Analysts forecast global profit growth will dip to sixteen percent, from thirty-three and a half percent, as the pace of A-I capital spending slows.
+EMMA: That's a big slowdown.
+MICHAEL: It is. And it fits with the FT report that banks are seeking to curb their exposure to A-I debt, offloading debt tied to data centres and chips, as public opposition threatens to derail mega projects.
+EMMA: Why does it matter for Carrier?
+MICHAEL: My analysis: data centres need cooling. If A-I capital spending slows, that could soften one source of commercial HVAC demand. It's worth stress-testing the data centre part of the twenty twenty-seven plan. What happens to orders, revenue and working capital if that growth halves too?
+EMMA: And the consumer mood?
+MICHAEL: CFO Dive reports Gallup says economic optimism has plunged to its lowest level since the Great Recession. Gallup says public perception of the economy has become increasingly detached from G-D-P since twenty twenty-two, after the spike in inflation and slower wage growth.
+EMMA: That's a striking disconnect.
+MICHAEL: It is. Strong spending forecasts from J-P Morgan on one side, very low optimism from Gallup on the other.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: First, the Fed. Payments Dive reports the Federal Reserve will boost its payment service fees, and introduce a new access fee that it says will create a more streamlined experience for its bank clients.
+MICHAEL: Banks usually pass those costs on.
+EMMA: Usually. Worth watching bank fee schedules next year. Then KeyBank. Banking Dive reports KeyBank has added a commercial tool to compete with fintechs. It looked at twenty-three companies over two years before choosing the payments and expense management platform Zact.
+MICHAEL: Banks partnering with fintechs rather than building.
+EMMA: Exactly. And on A-I in finance, a Zapier survey finds finance teams are ramping up agentic A-I adoption, to forty-one percent in twenty twenty-six, up from twenty-four percent in twenty twenty-five. Data privacy and regulatory compliance remain hurdles. And the South China Morning Post reports A-I-powered treasury is gaining ground, as businesses put trust and governance at the centre.
+MICHAEL: Trust and governance again.
+EMMA: Always. Card fees. Payments Dive reports Visa and Mastercard face a possible trial. A federal judge said that if the court rejects final approval of a card-fee settlement over swipe fees, the case will go to trial.
+MICHAEL: And fintech charters.
+EMMA: Dave has applied for a national bank charter. Its proposed bank president, Anthony Sharett, says a charter would help it offer products to level the playing field for everyday Americans.
+MICHAEL: Deals?
+EMMA: The FT reports private equity firm T-P-G is nearing a take-private deal for payments group Bill Holdings. The payment automation firm put itself up for sale after its market value plunged more than eighty percent from its peak. And UK supermarket Asda is exploring acquisitions as supermarkets prepare for a wave of mergers.
+MICHAEL: And a legal story.
+EMMA: The FT reports Julius Baer faces a renewed legal battle after a former banker's fraud conviction, with the dismissal of his appeal paving the way for a civil case against the Swiss private bank to conclude.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to talk about C-F-Os, because there's a theme this week. We've had Colette Kress moving from C-F-O to interim C-E-O at Nvidia. And CFO Dive reports Home Depot's longtime finance chief Richard McPhail will take the company's top job on the twenty-third of November, as the housing market sags.
+EMMA: Two big companies putting their C-F-Os in charge.
+MICHAEL: And the reasons differ. At Nvidia, it's a crisis. At Home Depot, it's a planned succession in a tough market. But both show how central the finance function has become to leadership.
+EMMA: And there's a darker side.
+MICHAEL: There is. CFO Dive reports Intel shareholders are suing C-E-O Lip-Bu Tan and C-F-O David Zinsner after a stock rout. Shareholders claim they failed to properly disclose the full impact of waning P-C demand on revenue and profitability.
+EMMA: Disclosure risk.
+MICHAEL: Exactly. And H-B-R has a timely piece arguing that a long-term succession plan won't save you in a crisis. Boards also need an emergency succession plan with clarity on decision rights, candidate qualifications, talent retention and more.
+EMMA: Nvidia is the case study for that.
+MICHAEL: It is. There's also an H-B-R piece on whether a company is ready for decentralisation, with three growing pains to watch when shifting to a business unit model.
+EMMA: What about the industrial and climate angle?
+MICHAEL: The FT reports Saudi Arabia has stepped up what it calls orchestrated disruption of UN climate talks, leading the Arab group of nations with blocking tactics, bolstered by fractured geopolitics and security concerns.
+EMMA: That matters for climate policy, and so for heat pumps and efficiency standards.
+MICHAEL: It does, indirectly. If global climate negotiations stall, the push for electrification may depend more on national and regional policies than on global agreements.
+EMMA: Any defence manufacturing?
+MICHAEL: Manufacturing Dive reports engineering firm Burns and McDonnell is under contract with the Army Corps of Engineers to help design an energetics facility at Lake City for the Department of Defense.
+EMMA: And finally, something lighter from our sector.
+MICHAEL: Yes. ACHR News reports an HVAC industry podcaster has reached the quarterfinals of a national competition. Good luck to them.
+EMMA: Let's do the calendar.
+MICHAEL: Today is busy. UK consumer prices came out at seven this morning, Dublin time. The forecast was three point six percent annual inflation, up from three point five. We don't have the result in our inputs, so check it when you get in.
+EMMA: And then?
+MICHAEL: Bank of England Governor Bailey speaks at three this afternoon. And at seven this evening, Dublin time, we get the minutes of the last Fed meeting.
+EMMA: And later in the week?
+MICHAEL: China's loan prime rates at one in the morning on Friday, Dublin time. Both forecast unchanged, at three percent for the one-year and three point five percent for the five-year.
+EMMA: What should we watch for?
+MICHAEL: For sterling, the CPI number and Bailey's tone. A hot inflation print would push gilts and sterling funding costs higher. For the dollar, the Fed minutes. Hawkish minutes would likely extend the dollar rally, and with euro-dollar already below one point one oh, that matters for European conversions.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: This week we've seen outages at banks and big tech, a brief cyberattack on H-S-B-C, and a Java vulnerability warning. So here's the question. If our main bank and our treasury system both went down on the same payment day, what would actually happen? Who would release the urgent payments, through which bank, and how would we know our cash position?
+MICHAEL: A question that's much better answered on a quiet Wednesday than in a crisis.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
