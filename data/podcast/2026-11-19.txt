@@ -1,0 +1,144 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Thursday, the nineteenth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. The Fed minutes show officials expect more rate hikes, and Governor Waller is talking about a half-point move to "shock people". Euro-zone inflation has hit four percent, and the E-C-B is reportedly weighing a rise in banks' reserve requirements. And Trump, Xi and Putin are expected to meet today in China.
+MICHAEL: Plus we now know what caused this week's bank outages, and it's a J-P Morgan story.
+EMMA: Let's start there, on the watchlist.
+MICHAEL: Finextra reports the service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Experts have also suggested that the rash of outages in recent days, including at Microsoft, may have been caused by firms rushing to patch issues identified by A-I.
+EMMA: That's an interesting twist. A-I finding vulnerabilities faster than companies can safely fix them.
+MICHAEL: It is. And it ties to an FT report that UK regulators have told City firms to tighten their cyber defences as A-I exposes vulnerabilities. Regulators published new directions after a surge in hacking attempts and the six billion dollar theft from crypto exchange Binance.
+EMMA: For Carrier's treasury team, two practical steps. First, make sure any payments delayed by the J-P Morgan outage were caught and reconciled. Second, use this as the trigger to test a second-bank contingency. If your main bank's platform is down on a payment day, can you still release urgent payments elsewhere?
+MICHAEL: And on the patching point, it's worth asking IT how treasury systems are being updated. Rushed patches can cause their own problems.
+EMMA: Good point. Next J-P Morgan item.
+MICHAEL: The FT reports J-P Morgan is trying to revive a stalled software debt sale with steep price cuts. Banks are turning to the high-yield bond market to clear two billion dollars of what's called hung debt, at a double-digit yield.
+EMMA: Explain hung debt.
+MICHAEL: When banks agree to finance a deal, often a leveraged buyout, they plan to sell the debt on to investors. If investors won't buy at the expected price, the banks are stuck holding it. That's hung debt. To clear it, they cut the price, which pushes the yield up.
+EMMA: And a double-digit yield on software debt tells you something.
+MICHAEL: It tells you investor appetite for leveraged tech credit is weak. My analysis: that's a sign of tighter credit conditions at the riskier end of the market. It doesn't directly affect a well-rated company like Carrier, but it's part of the broader picture of a tougher credit environment.
+EMMA: And J-P Morgan's new chief financial officer.
+MICHAEL: Fortune reports J-P Morgan has tapped twenty-year company veteran Bregje de Best as its next C-F-O. An insider, with a long transition.
+EMMA: Then UniCredit, and this is significant.
+MICHAEL: Reuters reports, as an exclusive, that UniCredit and Germany have reached broad agreement on the Commerzbank takeover.
+EMMA: That's been the big political question all along.
+MICHAEL: It has. With E-U and US approvals already in hand, broad agreement with Berlin removes what looked like the last big hurdle. And separately, Reuters reports Generali's chief executive says Generali shares UniCredit's view on the value that can be created from their partnership.
+EMMA: For Carrier, I'd now treat UniCredit and Commerzbank as effectively one counterparty in planning. That means finalising combined counterparty limits, and asking about timing for any account or platform migrations. Integrations can bring changes to payment formats, cut-off times and cash management tools.
+MICHAEL: B-N-P Paribas?
+EMMA: Reuters reports B-N-P's Italian bank, B-N-L, will cut branches and target wealthier clients. That's a retail strategy move, so no direct impact on corporate cash management.
+MICHAEL: And H-S-B-C.
+EMMA: The South China Morning Post reports two people were arrested after allegedly using a fake statement for two hundred billion Hong Kong dollars at H-S-B-C's headquarters. An alleged fraud attempt, not a bank failure. But it's a reminder that fake bank documents are a real fraud vector.
+MICHAEL: A few more J-P Morgan items, briefly.
+EMMA: Yes. Bloomberg reports J-P Morgan has added a Dallas hub for its private bank unit that caters to funds. Reuters reports a US judge rejected J-P Morgan's bid to dismiss a sexual harassment case. The Wall Street Journal reports H-P-E has added a former J-P Morgan executive to its board and amended its agreement with Elliott. And Bloomberg reports Wells Fargo has poached J-P Morgan's credit-card boss as its new chief operating officer.
+MICHAEL: Busy week for J-P Morgan.
+EMMA: Very. And CNBC reports J-P Morgan is working on A-I agent transactions that don't involve humans, with Hyundai Card. Plus a J-P Morgan research note says developed-market fiscal deficits will hit their highest since World War Two, outside of recessions.
+MICHAEL: That last one is worth remembering for the rates discussion.
+EMMA: It is. Johnson Controls shares underperformed competitors on Wednesday despite daily gains, according to MarketWatch. Nothing behind that in our inputs.
+MICHAEL: Okay. Rates and F-X.
+EMMA: Let's start with the dollar, because it's still climbing. Euro-dollar is at one point oh nine six eight, down about two tenths of a percent on the day, and down about one and a half percent on the week.
+MICHAEL: Below one point one oh and still falling.
+EMMA: Yes. And Bloomberg reports Barclays and Deutsche Bank see the A-I boom extending dollar strength. So the banks are not calling the top yet.
+MICHAEL: What does that mean for Carrier?
+EMMA: My analysis: if the dollar stays strong, the dollar value of European earnings keeps falling. A practical approach is to layer in more hedge cover gradually, rather than trying to time the bottom for the euro. And for the netting team, larger moves mean settlement amounts can shift a lot between cycles.
+MICHAEL: Sterling.
+EMMA: Sterling-dollar is at one point three one six eight, down about two tenths on the day and one percent on the week. Euro-sterling is at nought point eight three two nine, down about four tenths on the week, so sterling is firmer against the euro.
+MICHAEL: Yen.
+EMMA: Dollar-yen is at one hundred and fifty-nine point four two, barely moved. The FT reports the yen is on intervention watch, partly because a surge in buying of Japanese stocks is creating demand for currency hedging. Any intervention could move the yen sharply.
+MICHAEL: Peso.
+EMMA: Dollar-Mexican peso rose about six tenths of a percent to eighteen point five eight. So the peso weakened on the day, though it's still a bit firmer on the week.
+MICHAEL: And renminbi.
+EMMA: Six point six seven, basically unchanged. Very stable, ahead of the loan prime rate decision early tomorrow.
+MICHAEL: Now rates. The two-year Treasury is at four point eight percent, unchanged on the day, up seven basis points on the week. The ten-year is at five point oh seven percent, down three on the day, up nine on the week.
+EMMA: So the ten-year is still above five.
+MICHAEL: Still above five. SOFR is at three point nine two percent, and effective Fed funds three point eight eight. The euro short-term rate is at two point four four one percent, and SONIA at three point nine eight three three percent. All steady.
+EMMA: And gold.
+MICHAEL: Reuters reports gold dropped to a fourteen-month low as the dollar and yields rose on hawkish Fed rhetoric. CNBC later reported gold recovering from that low. And the FT has a piece saying gold has lost its lustre for investors, because it hasn't offered protection during the recent tech stock fall.
+EMMA: Which matters for anyone thinking of gold as a hedge.
+MICHAEL: Exactly.
+EMMA: Big stories. The Fed first.
+MICHAEL: CNBC reports the Fed's minutes from its October meeting show officials expect more rate hikes, and are worried about A-I's impact on inflation. At that meeting, the Fed voted to hold its benchmark rate in a range of three point seven five to four percent. MarketWatch says the minutes show growing unease about the outlook for inflation.
+EMMA: And Waller went further.
+MICHAEL: He did. CNBC reports Fed Governor Waller said the central bank may need to, quote, shock people, with a half-point rate hike. CNBC says continued inflation above the Fed's two percent target is pushing officials into a more aggressive stance.
+EMMA: A half-point hike would be a big step.
+MICHAEL: It would. My analysis: if the Fed raises by fifty basis points in December, SOFR would move up by roughly that much quickly. So the practical step is to model a fifty basis point move for all SOFR-linked debt and intercompany loans, and see what it does to interest expense and to the cash position of the borrowing entities.
+EMMA: And for cash?
+MICHAEL: Dollar cash yields would rise too. If you expect a big hike, keeping dollar investments short lets you capture it.
+EMMA: Second big story. Europe.
+MICHAEL: The Irish Times reports euro-zone inflation has hit four percent, paving the way for more E-C-B interest rate hikes. And Bloomberg reports the E-C-B's Vujcic says a rate hike is likely next month, and more may follow.
+EMMA: And the reserve requirement story.
+MICHAEL: Yes, and this is the one I'd flag for a treasury team. Reuters reports, citing sources, that the E-C-B will discuss raising banks' reserve requirement next week.
+EMMA: Explain why that matters.
+MICHAEL: Banks have to hold a certain amount of reserves at the central bank. If that requirement goes up, banks have to park more money there. My analysis: that could tighten euro liquidity in the banking system, and it could affect how much banks are willing to pay on corporate deposits. It depends on how the reserves are remunerated, which we don't know from the reporting.
+EMMA: So the practical step is to watch deposit pricing from euro-zone banks after next week's meeting.
+MICHAEL: Exactly. And there's a stability angle. The E-C-B's Financial Stability Review says risks from A-I valuations, fiscal imbalances and geoeconomic tensions weigh on the financial stability outlook.
+EMMA: For the Dublin team, what does it add up to?
+MICHAEL: Euro rates are heading higher, and the E-C-B is looking at other tools too. Keep euro surplus cash on short, rolling tenors to capture increases, and keep an eye on bank deposit pricing.
+EMMA: Third big story. Geopolitics.
+MICHAEL: CNBC reports US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday, alongside an APEC leaders' meeting in Shenzhen.
+EMMA: And ahead of it, Putin was talking up Russia.
+MICHAEL: Yes. CNBC reports Putin said the E-U is losing industry and falling behind the competition. He stressed Russia's economic resilience despite US sanctions, and played up opportunities for APEC members in Russia.
+EMMA: And the Canada angle.
+MICHAEL: The BBC explains why Carney is looking to China as Canada's car industry comes under US pressure.
+EMMA: So what's the "so what"?
+MICHAEL: My analysis: any shift on tariffs or sanctions from this meeting could move the renminbi, energy prices and supply-chain costs quickly. For Carrier, it's worth being ready to refresh assumptions on China sourcing and on energy costs.
+EMMA: And on energy, there's a relevant IEA comment.
+MICHAEL: Yes. The FT reports the International Energy Agency says energy markets can manage without the Strait of Hormuz. It says it's possible to rebalance oil markets without restoring flows through the strait, but it will take investment.
+EMMA: That's a notable statement.
+MICHAEL: It is. And there's a commodity note too. The FT says palm oil's rise will boost producers' earnings in the coming year, and be a drag for large consumer goods companies.
+EMMA: Fourth big story. Nvidia and A-I markets.
+MICHAEL: Manufacturing Dive reports A-I and data centre demand drove Nvidia's revenue to one hundred and fifteen point eight billion dollars in the third quarter. Nvidia announced new supply partnerships on its earnings call. And Board Chairman Harvey Jones said former C-E-O Jensen Huang will not be reinstated.
+EMMA: And CFO Dive on the C-E-O search.
+MICHAEL: CFO Dive has a piece on why embattled boards hire what it calls SHREK firms to fill big C-suite roles. After Huang resigned, Nvidia followed a familiar script and hired Heidrick and Struggles to find its next chief executive.
+EMMA: And the earnings outlook?
+MICHAEL: The FT reports Wall Street expects corporate earnings growth to halve next year, with global profit growth dipping to sixteen percent from thirty-three and a half percent, as the pace of A-I capex expansion slows.
+EMMA: Why does that matter for Carrier?
+MICHAEL: My analysis: strong Nvidia numbers suggest data centre demand is still very healthy right now. But if A-I capex growth slows next year, data centre cooling demand might grow more slowly too. That's worth stress-testing in the plan.
+EMMA: And there's a big A-I listing.
+MICHAEL: Yes. The FT says Anthropic will become the newest trillion-dollar company on US public markets with its I-P-O. The FT also reports retail investors face a squeeze in the offering, and that Anthropic's A-I advances have triggered new safety fears on the eve of the listing, after it disclosed it had activated part of its responsible scaling policy.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: Stablecoins first. The World Bank Group is working with Citi and Circle, the U-S-D-C issuer, to explore how stablecoins could modernise payments and free up resources for development work. And Anchorage Digital has partnered with Fomo Pay, a Singapore-headquartered payment institution, to connect US stablecoin minting and redemption with payment and settlement use cases across Asia and the Middle East.
+MICHAEL: Stablecoins keep creeping towards the mainstream.
+EMMA: They do. On agentic payments, Visa has expanded its Agentic Ready programme to the merchant acceptance side, signing up Fiserv, PayPal and Stripe. Klarna has launched an A-I concierge. And Singapore has set three national A-I missions for financial services: crime prevention, better access to financing for businesses, and enabling agents to transact safely.
+MICHAEL: That last one is interesting for corporates.
+EMMA: Very. Better access to business financing through A-I could matter for supply chain finance in Asia over time.
+MICHAEL: Fintech funding?
+EMMA: Goldman Sachs has led a two hundred and eighty million dollar Series C for European fintech Payhawk, at a two billion dollar valuation. And London-based Model ML has raised two hundred and fifty million dollars at a one and a half billion dollar valuation, to give bankers, consultants and investors their own personal A-I agents.
+MICHAEL: And A-I in banking more broadly.
+EMMA: A McKinsey report says nearly three in four consumers who use A-I for banking tasks choose ChatGPT, Claude or Gemini, almost double those using a bank's own chatbot. And ANZ has migrated one of its largest data platforms to Amazon Web Services.
+MICHAEL: Fraud?
+EMMA: New Zealand's top banks are backing a fraud and scams intelligence-sharing network using BioCatch technology. And Mastercard's Linda Kirkpatrick discusses how trust shapes the A-I conversation in payments.
+MICHAEL: Commercial cards?
+EMMA: Miden and Visa are collaborating on commercial card issuing for mid to large African businesses. And ACI Worldwide's chief executive, Thomas Warsop, is leaving the payments software company, with insiders taking over until he's replaced.
+MICHAEL: Regulation and banking.
+EMMA: Several. The Basel Committee met on the eighteenth of November to discuss risks and vulnerabilities in the global banking system. The US Supreme Court denied Custodia's petition to access Federal Reserve payment rails, leaving a barrier to entry in place. OneMain got F-D-I-C approval for an industrial loan company charter, despite opposition. And in Florida, a credit union is buying a bank, the tenth proposed bank acquisition by a credit union this year.
+MICHAEL: And a big one from Europe.
+EMMA: Yes. The FT reports Deutsche Bank's Italian unit hid up to eight hundred million euros of mortgage lending losses, and the bank didn't publicly disclose the scandal or the findings of an internal probe codenamed Project Aetos.
+MICHAEL: That's a governance story worth watching for anyone banking with Deutsche.
+EMMA: Agreed.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with automation. The FT reports US companies are turning to robots to ease a labour shortage crisis. Some say the speed of automation still isn't fast enough to make the country internationally competitive, as manufacturing struggles.
+EMMA: That's a big theme for a manufacturer.
+MICHAEL: It is. My analysis: automation means more capital spending up front, in exchange for lower labour dependence. For F-P-and-A, the business case has to weigh capex, payback and flexibility, and treasury needs to plan the funding.
+EMMA: And there's an HVAC-specific story.
+MICHAEL: There is. ACHR News reports winter grid headroom could change how contractors sell heat pumps. We don't have the detail, but the headline suggests grid capacity is becoming part of the heat pump sales conversation.
+EMMA: Which matters for Carrier's product mix.
+MICHAEL: It does. If grid constraints shape where heat pumps can be installed, that could affect demand by region and season. Worth watching.
+EMMA: Defence manufacturing?
+MICHAEL: Manufacturing Dive reports defence start-up Hadrian has acquired steel caster Kutztown Foundry and Machine, and plans a three hundred million dollar upgrade and expansion of the Pennsylvania site to support the US Navy's submarine programme.
+EMMA: And Europe.
+MICHAEL: The FT has a piece on a Nordic plot to raise European competitiveness. Frustrated by the slow pace of E-U reform, companies in the region are taking matters into their own hands. And another FT piece argues private equity's liquidity cure, the fast-growing secondary market, needs a better formula, because many firms in it aren't designed to look closely at what they're buying.
+EMMA: Any mid-market data?
+MICHAEL: Yes. CFO Dive reports mid-market firms' optimism is growing despite economic uncertainty. Encouraged by stronger financial performance, they plan to ramp up investment, particularly in A-I, according to a Capital One executive.
+EMMA: And governance?
+MICHAEL: CFO Dive reports Intel shareholders are suing chief executive Lip-Bu Tan and chief financial officer David Zinsner, claiming they failed to properly disclose the full impact of waning P-C demand. And CNBC has a curious one: Mizuho says tech outages are causing people to panic-buy emergency goods, and Costco is benefiting.
+EMMA: Let's do the calendar.
+MICHAEL: Nothing high-impact today. So today is about digesting the Fed minutes, Waller, the euro-zone inflation number, and whatever comes out of the Trump, Xi and Putin meeting.
+EMMA: And tomorrow?
+MICHAEL: At one in the morning on Friday, Dublin time, China's loan prime rates. The one-year is forecast unchanged at three percent, and the five-year at three point five percent.
+EMMA: What would a surprise mean?
+MICHAEL: A cut would signal more support for China's slowing economy. For Carrier, that could matter for renminbi rates, intercompany funding into China, and demand in the Chinese market.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: The Fed is talking about a half-point hike, the E-C-B is heading the same way and looking at reserve requirements, and the dollar keeps rising. So here's the question. If the Fed hikes by fifty basis points in December and euro rates rise too, what does that do to our interest expense, our intercompany funding costs and our hedging costs next year? And do we have that scenario in the plan?
+MICHAEL: A good one to answer before December, not after.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
