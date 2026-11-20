@@ -1,0 +1,132 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Friday, the twentieth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things to end the week. UniCredit has won its final battle for Commerzbank, after striking a deal with Germany. J-P Morgan, Visa and Mastercard say customer emails were exposed in attacks on third-party vendors. And the Mexican peso has dropped to a seventeen-month low as the Fed outlook rattles emerging markets.
+MICHAEL: Plus a cautionary tale about working capital from Worldline, which every treasurer should hear.
+EMMA: Let's start with the watchlist. UniCredit first.
+MICHAEL: Several outlets report UniCredit has reached agreement with the German government on Commerzbank. The Wall Street Journal says the deal clears the path for the takeover. Bloomberg's headline is that UniCredit's Orcel has won the final Commerzbank battle after the German nod.
+EMMA: So the long fight is over.
+MICHAEL: It appears so. And Orcel is already talking about what comes next. Reuters reports he said Commerzbank job cuts will start from the top, and that H-V-B can help.
+EMMA: For Carrier, this is now an integration story, not a deal story.
+MICHAEL: Exactly. My analysis: expect changes to coverage teams, platforms and possibly credit limits as the two banks come together. If Carrier works with both, now is the time to plan the combined relationship. That means a single view of exposure, and early questions about account migrations, payment formats and any changes to cash management tools.
+EMMA: And job cuts starting at the top could mean changes in senior relationship contacts.
+MICHAEL: Right. Worth making sure the relationship doesn't depend on one or two people.
+EMMA: Next, the cyber story. Finextra and Reuters report J-P Morgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, was exposed in cyberattacks on third-party vendors.
+MICHAEL: So the banks themselves weren't breached directly.
+EMMA: That's what the reporting says. It was their vendors. The New York Times reports J-P Morgan customer data was exposed in the latest hack. Politico says customer emails and names may have been accessed. And American Banker reports the vendor attack exposed emails of J-P Morgan Reserve cardholders.
+MICHAEL: What does it mean for a corporate treasury team?
+EMMA: The practical risk is phishing. When names and emails leak, fraudsters use them to send convincing messages that look like they come from the bank. My advice: remind the treasury team to verify any change to payment instructions or bank details with a callback to a known number, never using details from the email itself. That's basic, but it's the control that stops most of these frauds.
+MICHAEL: And it's a third-party risk story too.
+EMMA: Very much. It's a reminder that your bank's security is only as good as its vendors'. And the same applies to Carrier's own suppliers.
+MICHAEL: Other J-P Morgan items?
+EMMA: A couple of research views. Reuters reports J-P Morgan sees Fed rate hikes at the next three meetings, as inflation persists. And the South China Morning Post reports J-P Morgan sees the Hong Kong I-P-O market rebounding in twenty twenty-seven despite volatility. And American Banker has a piece on how former J-P Morgan executives came to occupy Wells Fargo's top ranks.
+MICHAEL: H-S-B-C.
+EMMA: The BBC reports H-S-B-C Jersey has been fined two million pounds over failings in its financial crime controls. That's a regulatory penalty, not a credit concern, but it's worth noting as part of the bank's compliance record. And separately, the South China Morning Post reports H-S-B-C has expanded the use of its RedCoin into wealth management, with the launch of a tokenised fund.
+MICHAEL: Tokenisation creeping into mainstream banking products.
+EMMA: It is. Barclays has a market view. MarketWatch reports Barclays says if the A-I trade unwinds, other pillars holding up the US economy are, in its word, irrelevant.
+MICHAEL: That's a stark way of putting it.
+EMMA: It is. And finally, Carrier itself. A Carrier press release says it will present at the Goldman Sachs twenty twenty-six Industrials and Materials Conference.
+MICHAEL: Worth listening for any updates on guidance or capital allocation.
+EMMA: Agreed. Rates and F-X.
+MICHAEL: Let's start with the peso, because it's the big mover. Bloomberg reports the Mexican peso has hit a seventeen-month low as the Fed outlook rattles markets. Dollar-Mexican peso jumped one point eight four percent on the day to eighteen point nine two. It's up about one point two percent on the week.
+EMMA: That's a big daily move for the peso.
+MICHAEL: It is. What does it mean for Carrier?
+EMMA: A weaker peso makes Mexican costs cheaper in dollar terms. If Carrier has a Mexican cost base, wages, suppliers, operations, this is a more favourable level to hedge those costs. My analysis: it could be a good moment to add to peso cost hedges, rather than wait and risk the peso recovering.
+MICHAEL: And it's not just Mexico.
+EMMA: No. The FT reports Brazil's central bank has stepped in to stem the real's slide since Lula's re-election. The currency has slipped from five to five point nine reais to the dollar after his victory last month.
+MICHAEL: Emerging markets under pressure from a strong dollar and higher US rates.
+EMMA: Exactly. If Carrier has Latin American exposures beyond Mexico, it's worth reviewing hedge cover across the region.
+MICHAEL: The euro.
+EMMA: Euro-dollar bounced a little, up about a fifth of a percent to one point oh nine nine two. But it's still down about eight tenths of a percent on the week. Sterling-dollar is at one point three one five one, down slightly on the day, and about eight tenths on the week. Euro-sterling rose about a third of a percent to nought point eight three five eight.
+MICHAEL: Yen.
+EMMA: Dollar-yen rose about a third of a percent to one hundred and fifty-nine point nine seven. Right at one hundred and sixty. Intervention risk remains a live question.
+MICHAEL: And renminbi.
+EMMA: Six point six six six seven. Barely moved, as usual.
+MICHAEL: Now rates. US yields eased. The two-year Treasury is at four point seven six percent, down four basis points on the day and ten on the week. The ten-year is at five point oh four percent, down three on the day and six on the week.
+EMMA: So a bit of relief at the end of the week.
+MICHAEL: A bit. SOFR is at three point nine percent, down two basis points. Effective Fed funds is three point eight eight. The euro short-term rate is two point four four two percent, and SONIA is three point nine eight four percent.
+EMMA: And gold?
+MICHAEL: Reuters reports gold has hit a fourteen-month low as the strong dollar and rate bets weigh.
+EMMA: There's an interesting FT piece on oil and bonds.
+MICHAEL: Yes. The FT says oil is losing its grip on bond markets as the inflation virus spreads. The tight correlation between crude prices and borrowing costs has broken down.
+EMMA: Meaning?
+MICHAEL: My reading: for a long time, when oil went up, bond yields went up, because oil drove inflation. If that link is breaking, it suggests inflation is now coming from broader sources, not just energy. That's consistent with what Fed officials have been saying about the breadth of price increases.
+EMMA: And one more for the F-X geeks.
+MICHAEL: Yes. The FT has a tour of central bank foreign exchange reserve policy in two hundred and forty-eight charts, under the title "Central banks love US dollars". Which fits the strong dollar story.
+EMMA: Big stories. Let's start with the Fed.
+MICHAEL: Reuters reports the Fed's Paulson backs further rate hikes, and says a shared understanding beats guidance. The argument is that it's more useful for markets to understand how the Fed thinks than for the Fed to promise a path.
+EMMA: And the J-P Morgan view we mentioned, hikes at the next three meetings.
+MICHAEL: Right. Put those together, and the message is a sustained rise in dollar rates, not a one-off.
+EMMA: What does that mean for Carrier?
+MICHAEL: My analysis: plan for a sustained rise in dollar floating costs. If the Fed hikes at three meetings in a row, SOFR could be meaningfully higher by the middle of next year. That affects commercial paper, revolver drawings, floating-rate debt and intercompany loans priced off SOFR. It's worth building that path into the forecast now.
+EMMA: And Europe?
+MICHAEL: Bloomberg reports the E-C-B's Nagel says a December rate hike would send a clear signal. So both sides of the Atlantic are leaning towards tightening.
+EMMA: Second big story. Worldline.
+MICHAEL: This one is fascinating from a treasury point of view. The FT reports French fintech Worldline bolstered its cash flow through delayed payments to suppliers and early receipts from customers. It repeatedly withheld money from suppliers and sought advances from customers ahead of its results, in the years leading up to its twenty twenty-three profit warning.
+EMMA: That's working capital management turned into window dressing.
+MICHAEL: That's the concern. There's nothing wrong with managing working capital. Every treasury team does it. The problem comes when it's used to flatter reported cash flow around reporting dates, and when it isn't disclosed.
+EMMA: So what's the lesson for Carrier?
+MICHAEL: My analysis: two checks. First, make sure working capital levers, like supplier payment terms, supply chain finance and customer prepayments, are disclosed properly and used consistently. Second, check that cash flow isn't artificially strong at quarter end because of timing. Auditors and investors are increasingly alert to this.
+EMMA: And there's a supplier relationship angle.
+MICHAEL: Yes. Repeatedly delaying payments to suppliers can damage relationships and raise supply chain risk. A well-run supply chain finance programme is a better tool than simply paying late.
+EMMA: Third big story. Geopolitics.
+MICHAEL: CNBC reports President Trump praised his great relationship with Putin after meeting him, with the Ukraine war taking centre stage. Trump met individually on Thursday with Russian President Vladimir Putin and with Chinese President Xi Jinping.
+EMMA: And the "so what"?
+MICHAEL: My analysis: any shift on sanctions or the war could move energy prices and the euro. For a European treasury team, that's a reason to keep an eye on both. And for China, any trade outcome from the Xi meeting could matter for tariffs and supply chains.
+EMMA: Fourth big story. Cyber resilience more broadly.
+MICHAEL: Several stories. Payments Dive reports researchers at the University of Massachusetts have identified vulnerabilities in A-C-H that hackers could exploit in restricted bank accounts.
+MICHAEL: And UK regulators are consulting on new guidance to help financial services firms prepare for and recover from cyber incidents, along with effective practices for A-I and quantum risk. And in New York, the state financial regulator, led by Acting Superintendent Kaitlin Asrow, secured six point seven five million dollars in cybersecurity settlements with Rocket Mortgage and Mr. Cooper.
+EMMA: And the outage theme.
+MICHAEL: Yes. CNBC has a piece asking whether people should start carrying cash again after recent banking outages, with advisers weighing in.
+EMMA: For a corporate, the equivalent question is about contingency. Can you still make critical payments if a bank or a platform is down? Combined with the vendor breach, this week has been a full test of operational resilience.
+EMMA: Before we move on, let's go back to the peso for a moment, because it's the move that matters most for a lot of manufacturers this week.
+MICHAEL: Go on.
+EMMA: A move of nearly two percent in a day is the kind of thing that can catch a hedging programme off guard. If hedges are rolled on a fixed calendar, the team might be about to roll at a much better level than expected. If the programme uses layered hedging, it might be worth asking whether to bring forward some of the next layers while the peso is weak.
+MICHAEL: And the risk is that it snaps back.
+EMMA: Exactly. Emerging market currencies can recover just as fast when the mood changes. So it's a judgement call, but it's worth having the conversation today rather than next week.
+MICHAEL: And there's a Bank of England angle too. It has published minutes from its Market Participants Group meeting on the eighteenth of November, a senior forum where market participants share views with members of the Monetary Policy Committee. We don't have the content, but it's one for the sterling watchers to read.
+EMMA: And one more European policy story. The FT reports Europe's bid to make flying greener could leave passengers seeing red, because airlines refuelling in the region must use a rising share of sustainable aviation fuel, which is pricier and getting scarce. For any company with a big travel budget, that's a cost line to watch.
+MICHAEL: Let's do a quick round of treasury, payments and banking.
+EMMA: Stablecoins and tokenisation first. Circle has partnered with D-B-S, which Finextra describes as Southeast Asia's largest bank, to expand institutional access to its U-S-D-C stablecoin in the region.
+MICHAEL: That's a big bank name in Asia.
+EMMA: It is. And Alipay plus, Ant International's global wallet gateway linking more than fifty digital wallets and banking apps, is now connected to Pix, Brazil's national instant payment system.
+MICHAEL: Payments infrastructure.
+EMMA: A few. Former NatWest chief executive Dame Alison Rose has joined the board of Otoma, which provides banks with an A-I-native, no-code global payments hub. A-C-I Worldwide's Bridget Hall discusses controls for A-I-assisted payments modernisation and the progress of instant payments. Spanish fintech Devengo, a payment institution authorised by the Bank of Spain, has raised five million euros for its instant account-to-account infrastructure.
+MICHAEL: And bank technology.
+EMMA: Brazil's Banco Daycoval, which specialises in corporate lending, has chosen Temenos software on Microsoft Azure to support its expansion in the United States. A Lithuanian S-M-E bank has gone live on SaaScada's core banking platform ahead of European expansion. N-A-B is modernising more than seven hundred A-T-Ms with Diebold Nixdorf. And B-M-O claims a quantum computing breakthrough.
+MICHAEL: Wallets?
+EMMA: Payments Dive reports Google's wallet app has returned to Apple devices, giving Google an early lead among iPhone-wielding agentic shoppers and posing a rival to Stripe's Link wallet.
+MICHAEL: Regulation.
+EMMA: Banking Dive has six highlights of the O-C-C's plan under Comptroller Jonathan Gould, who wants to double down on A-I, new charters and community banks, including tailoring risk and allowing new entrants. The FT argues the rift between the US and E-U on banks is widening, and that the E-C-B should be bolder in reforms. And the S-E-C has charged eight Colorado-based entities with stealing more than thirty-seven million dollars from US investors through fake crypto trading platforms.
+MICHAEL: Any bank governance stories?
+EMMA: Two from the FT. Revolut faces increased regulatory scrutiny, in a story about how Russian money launderers and Italian mobsters put it in regulators' crosshairs, as it grows into a sprawling global bank. And a Deutsche Bank executive, Stefan Hoops, was reprimanded over the treatment of a whistleblower who exposed a mis-selling scandal.
+MICHAEL: And the human side of banking.
+EMMA: PNC is betting on hospitality training for staff to counter A-I disruption. An executive says that investment will be worth ten times as much a year from now. And M-and-T wants to simplify its credit card rewards.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: I want to start with an H-B-R piece that's directly relevant to Carrier. It's titled "Why Tariffs Aren't Bringing Factories Back to the U-S". It argues that, as the auto industry shows, the economics of reshoring still don't add up for many manufacturers.
+EMMA: That's a strong claim.
+MICHAEL: It is. And it fits with the automation stories we keep seeing. Manufacturing Dive reports US automakers are using A-I-driven technologies to stay competitive with China and lower operating costs, according to a Center for Automotive Research analyst at Rockwell's Automation Fair. And Boston Dynamics will deploy its Spot robots across GlobalFoundries' global manufacturing network and test its Atlas humanoids on site.
+EMMA: So the answer to expensive reshoring might be automation.
+MICHAEL: That's one reading. My analysis: for Carrier's capex planning, the question is whether the US footprint strategy assumes tariffs will stay in place. If tariffs are curbed, the economics of new US capacity could look very different. And if automation is part of the answer, that's more capital spending up front.
+EMMA: Any big supply deals?
+MICHAEL: Yes. Sila and Panasonic have signed a projected one billion dollar supply contract for silicon-carbon anodes. It follows Sila's one point four billion dollar conditional loan from the Department of Defense to expand its plant in Moses Lake, Washington. Government financing supporting manufacturing again.
+EMMA: And activism.
+MICHAEL: The FT reports activist hedge fund Parvus is calling for the departure of Accor's chief executive, saying he has presided over an unfocused strategy. A reminder that strategy discipline is something investors will push on.
+EMMA: And the macro backdrop?
+MICHAEL: CFO Dive reports the Conference Board says the economic outlook has dimmed on weak consumer expectations. Apollo's chief economist, Torsten Slok, says economic growth so far this year has mainly hinged on spending on A-I.
+EMMA: Which connects to the Anthropic I-P-O.
+MICHAEL: It does. The FT reports more than one hundred thousand UK retail investors rushed to buy Anthropic shares, with nearly two thirds getting their full allocation. But Asian tech stocks fell after the listing, and the FT notes that shares of some banks and private capital groups that tied their fortunes to A-I have fallen this year. And there's a provocative FT piece asking whether Nvidia can learn from A-I-G's mistakes, comparing Nvidia's role as the quasi-central bank of A-I to the insurer's position before the subprime bubble.
+EMMA: And Nvidia's interim C-E-O?
+MICHAEL: CFO Dive's quote of the week is from Colette Kress: we've got this.
+EMMA: Anything for HVAC specifically?
+MICHAEL: ACHR News has a look back at the twenty-tens, when mini-split and V-R-F technology became mainstream. And five winter heating tips contractors should share with homeowners. Seasonal, but a reminder that winter demand matters.
+EMMA: Let's do the calendar.
+MICHAEL: Today, China's loan prime rates came out at one in the morning, Dublin time. The forecast was unchanged, at three percent for the one-year and three point five percent for the five-year. We don't have the result in our inputs, so check it before making any renminbi funding decisions.
+EMMA: And the rest of today?
+MICHAEL: Nothing else high-impact on our calendar. So it's a day to digest the week. And there's the Carrier presentation at the Goldman Sachs conference to watch for.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: This week we've had bank outages, a vendor data breach at J-P Morgan, Visa and Mastercard, and now Worldline's working capital story. So here's the Friday question. Are our controls on payment instructions as strong as we think, and is our quarter-end cash flow a true picture, or does it lean on timing?
+MICHAEL: A good one to think about over the weekend.
+EMMA: That's it for this week. Thanks for listening, and have a good weekend.
+MICHAEL: See you Monday.
