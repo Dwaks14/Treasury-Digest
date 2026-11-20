@@ -11,6 +11,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <item>
+    <title>Morning Brief, Fri 20 Nov 2026</title>
+    <description>Your two-host treasury and markets briefing for 2026-11-20.</description>
+    <link>https://dwaks14.github.io/Treasury-Digest/2026-11-20/index.html</link>
+    <guid isPermaLink="false">treasury-brief-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 06:15:24 +0000</pubDate>
+    <enclosure url="https://github.com/Dwaks14/Treasury-Digest/releases/download/ep-2026-11-20/2026-11-20.mp3" length="9834742" type="audio/mpeg"/>
+    <itunes:duration>00:20:29</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Morning Brief, Thu 19 Nov 2026</title>
     <description>Your two-host treasury and markets briefing for 2026-11-19.</description>
     <link>https://dwaks14.github.io/Treasury-Digest/2026-11-19/index.html</link>
