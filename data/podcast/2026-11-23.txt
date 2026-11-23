@@ -1,0 +1,134 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Monday, the twenty-third of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things to start the week. US Treasuries rallied hard on Friday, pulling the ten-year back below five percent. Bill, the business payments company, has agreed to a six billion dollar takeover by T-P-G and Corpay. And traders are shipping US copper to China as tariff fears ease, which matters for anyone who buys a lot of copper.
+MICHAEL: Which, for an HVAC manufacturer, is very much us. Plus the peso keeps sliding, and the A-I trade has had a rough week.
+EMMA: Let's start with the watchlist, and it's a short one today.
+MICHAEL: The only item is a commentary in the Irish Times on UniCredit and Commerzbank. The headline is "Italian wile trumps German ineptitude to secure Commerzbank deal".
+EMMA: An opinion piece, not news. But it confirms the picture. The takeover is settled.
+MICHAEL: So for Carrier, the job now is planning for twenty twenty-seven. If you work with both UniCredit and Commerzbank, think about combined counterparty limits, and ask early about any changes to platforms, payment formats or coverage teams.
+EMMA: Nothing material on Carrier, the peers, or our other banks today. There's a Barclays item in the feed, but it's an investor-claims advertisement, not news. So let's move on.
+MICHAEL: Rates and F-X. And Friday was a big day for bonds.
+EMMA: Take us through it.
+MICHAEL: The two-year Treasury yield fell thirteen basis points on Friday to four point six three percent. Over the week, it's down twenty-five basis points. The ten-year fell twelve basis points to four point nine two percent, down twenty-three on the week.
+EMMA: So the ten-year is back below five percent.
+MICHAEL: It is. That's a big reversal from a week or so ago, when it was above five point one.
+EMMA: What does it mean for a treasury team?
+MICHAEL: My analysis: rallies like this can open a window. If there's term funding to raise or refinance, lower yields make it cheaper than it was a week ago. On the investment side, if you've been waiting to extend duration on surplus cash, this is a moment to think about it. But windows can close quickly, so it's worth having the conversation this week, not next month.
+EMMA: And overnight rates?
+MICHAEL: SOFR is at three point nine one percent, up a basis point. Effective Fed funds is three point eight eight. The euro short-term rate is two point four four one percent, and SONIA is three point nine eight four percent. All steady.
+EMMA: Now currencies. The headline is the peso again.
+MICHAEL: Go on.
+EMMA: Dollar-Mexican peso rose about eight tenths of a percent on Friday, to nineteen point oh six seven. Over the week, the peso has weakened two and a half percent against the dollar.
+MICHAEL: That's a big move for a week.
+EMMA: It is. For Carrier, Mexican costs are now cheaper in dollar terms. My analysis: it could be worth extending peso cost hedges at these levels, because a weak peso is a good time to lock in Mexican costs. The risk, as always, is that emerging market currencies can recover just as quickly.
+MICHAEL: The yen moved the other way.
+EMMA: It did. Dollar-yen fell about eight tenths of a percent to one hundred and fifty-eight point six four. So the yen firmed, which fits with US yields falling.
+MICHAEL: And the euro.
+EMMA: Euro-dollar is at one point oh nine nine, essentially flat on the day, down a bit over half a percent on the week. Sterling-dollar is at one point three one two five, down two tenths on the day. Euro-sterling rose to nought point eight three seven four.
+MICHAEL: And renminbi.
+EMMA: Dollar-renminbi rose a bit under two tenths of a percent, to six point six seven seven seven. A slightly weaker renminbi, but still very stable.
+MICHAEL: And a few policy voices.
+EMMA: Yes. E-C-B President Lagarde gave a speech titled "Acting in time". Bloomberg describes de Cos as awaiting Europe's call as an E-C-B nemesis to the bond vigilantes, in the race for the E-C-B's top job. And CNBC reports that Fed Chairman Warsh wants Fed officials to talk less, but they're talking more, rushing to the microphones while he stays on the sidelines.
+MICHAEL: And Australia.
+EMMA: Reuters and the Guardian report Australia's treasurer, Jim Chalmers, is warning the jobless rate will climb above five percent as rate hikes bite, and that things will get a bit harder.
+MICHAEL: A reminder that rate hikes do eventually hit the real economy.
+EMMA: Exactly. Big stories. Let's start with Bill.
+MICHAEL: Bill, the bill-pay company, has agreed to be acquired by T-P-G, the alternative asset manager, in partnership with Corpay, which describes itself as a global spend management company. The deal is worth six billion dollars. Bill says nearly five hundred thousand businesses use its platform to manage, move and maximise their money.
+EMMA: And Payments Dive frames it as consolidation.
+MICHAEL: Yes. It says the deal fuels consolidation in the business payments and receivables software industry.
+EMMA: Why does it matter for a treasury team?
+MICHAEL: My analysis: if Carrier, or any of its subsidiaries, uses Bill or Corpay for payables, receivables or corporate cards, expect changes. Private equity ownership and a merger with a partner often mean changes to product roadmaps, pricing and support. It's worth reviewing contract terms now, especially notice periods, price protections and data portability.
+EMMA: Data portability is the one people forget.
+MICHAEL: Right. If you ever need to move platforms, getting your payment history and vendor data out cleanly matters a lot.
+EMMA: And there's a related story about working capital that's still rippling.
+MICHAEL: Yes. Finextra reports Worldline's shares fell by as much as twenty percent on Friday, after the Financial Times reported the French firm delayed payments to suppliers and asked customers for cash advances ahead of its results, in the years leading up to a twenty twenty-three profit warning.
+EMMA: A twenty percent fall in a day. That's what happens when investors think cash flow was flattered.
+MICHAEL: Exactly. The lesson for any treasury team is that working capital levers need to be disclosed and used consistently. When the market feels misled, the reaction is brutal.
+EMMA: Second big story. Copper.
+MICHAEL: The FT reports traders are starting to move US copper to China as fears of Trump tariffs ease. An acute shortage in China and a high local premium have created what the FT calls a lucrative arbitrage.
+EMMA: Explain the arbitrage.
+MICHAEL: If copper is much more expensive in China than in the US, traders can buy it in the US, ship it to China and sell it at a profit. While tariff fears were high, US buyers held on to metal. Now that those fears are easing, metal is flowing out.
+EMMA: And for an HVAC company?
+MICHAEL: Copper is a key input for HVAC equipment. My analysis: if US copper starts flowing to China, US supply could tighten, and that could push up US copper prices. That's a margin risk.
+EMMA: So what should the team do?
+MICHAEL: Three things. First, check how much of next year's copper need is hedged or covered by fixed-price contracts. Second, look at supplier pricing clauses. Do suppliers have the right to pass through metal price increases, and how quickly? Third, make sure the F-P-and-A forecast has a realistic copper price assumption, not last quarter's.
+EMMA: Third big story. US-China.
+MICHAEL: CNBC reports US-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia. Analysts note few concrete outcomes from the high-profile trilateral and other meetings at APEC in Shenzhen.
+EMMA: So after all the build-up, not much changed.
+MICHAEL: That's how analysts see it. And CNBC has a separate piece on how China is using summits to expand its global influence, with Chinese President Xi Jinping coordinating another photo opportunity of global significance.
+EMMA: And Nvidia is still in the mix.
+MICHAEL: It is. The FT reports Treasury Secretary Bessent refuses to rule out Jensen Huang's return to Nvidia, saying it depends on, quote, where the buck stops, as the US president calls for the former chief's reinstatement.
+EMMA: So the president wants Huang back.
+MICHAEL: That's what the FT reports. It's an unusual situation, with politics deeply involved in a company's leadership.
+EMMA: What does it mean for Carrier?
+MICHAEL: My analysis: with few concrete outcomes from Shenzhen, it's sensible to keep tariff and China-sourcing scenarios live in the twenty twenty-seven plan, rather than assuming a deal. The renminbi is stable for now, but the trade picture isn't settled.
+EMMA: Fourth big story. Cyber attacks on ports.
+MICHAEL: The FT reports US ports face an onslaught of cyber attacks as hackers target vital trade routes. America's biggest crude oil export hub reports thousands of attempted hacks every day, and shipping companies are battling breaches.
+EMMA: That's a supply chain risk.
+MICHAEL: Very much. My analysis: if a major port is disrupted, inbound components could be delayed. For a manufacturer, that can mean production stoppages and working capital swings. It's worth checking how much inventory buffer the supply chain has, and whether there are alternate routes if a port goes down.
+EMMA: And banks are working on the same problem.
+MICHAEL: Yes. Banking Dive reports banks are racing to patch vulnerabilities, with outages mounting and attackers moving faster with A-I. Experts at a Banking Dive event said lenders should reassess vendor risk and speed up incident response.
+EMMA: And H-B-R has a timely piece.
+MICHAEL: It does. H-B-R argues we're seeing the costs of moving fast. Recent technology breakdowns suggest organisations aren't spending enough time and resources stress-testing their operations.
+EMMA: So for treasury, the question is simple. When did we last run a full drill of a bank, treasury system or payment network outage?
+MICHAEL: Exactly.
+EMMA: Let's talk about the A-I market, because it's been a rough week.
+MICHAEL: Several FT pieces. Investors have flipped the switch on the A-I trade after tech stocks tumbled. Asian markets declined, with South Korean chipmakers shedding about three percent, and Asian regulators are rushing to support sagging markets as the A-I trade falters. The FT also says Wall Street was set to rebound after the sell-off.
+EMMA: And the bubble question.
+MICHAEL: Yes. The FT has a piece on what happens when bubbles burst, saying A-I enthusiasm has turned into major investor concern that a market might be heading for a fall. And CNBC reports that on the prediction market Kalshi, the odds of the S-and-P five hundred crossing eight thousand, once above seventy percent, are now extremely low.
+EMMA: And the Anthropic I-P-O sits in the middle of this.
+MICHAEL: It does. CNBC calls it an eighty-one billion dollar I-P-O, and says it's testing demand at a time when companies are shifting from share buybacks to issuing stock, which adds supply. The FT asks whether Anthropic and its bankers got a key call wrong, after share price weakness raised questions about a hasty exercise of the greenshoe option to issue more stock. And CFO Dive reports Anthropic's chief financial officer, Krishna Rao, called the I-P-O one stop on the train, emphasising the long-term plan.
+EMMA: Why does all this matter for Carrier?
+MICHAEL: Two reasons. First, data centre demand. If A-I investment slows, cooling demand from data centres could slow too. Second, risk appetite. When equity markets wobble, credit spreads can widen, which affects funding costs. The good news is that the Treasury rally has lowered base rates at the same time.
+EMMA: And a pension angle.
+MICHAEL: The FT reports some pension fund managers say they were fired for shunning tech stocks, and that the Financial Conduct Authority will remind pension trustees not to focus solely on returns. Relevant if Carrier has pension schemes in the UK.
+EMMA: Two more from H-B-R that fit the week. One makes the case for what it calls small A-I: stop overspending on technology your organisation doesn't need. The other suggests using what it calls the Cartesian voice to encourage disciplined inquiry, scepticism and debate in the boardroom.
+MICHAEL: Both relevant for a treasury team weighing up A-I tools. Start with the problem you actually have, pick the smallest tool that solves it, and make sure someone in the room is paid to ask awkward questions.
+EMMA: And that applies to vendors too. With Bill changing hands and banks rushing out A-I features, a bit of disciplined scepticism before signing anything goes a long way.
+MICHAEL: Agreed. The flashiest demo isn't always the safest choice for a payments process that moves real money every day.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: PayPal first. PayPal has named Claire Bramley as its new chief financial officer from February. CFO Dive reports she'll receive more than thirty million dollars in stock and bonuses. Payments Dive reports the current C-F-O, Jamie Miller, who was interim C-E-O at one point, will leave, as chief executive Enrique Lores installs new managers.
+MICHAEL: A big leadership reshuffle at a payments giant.
+EMMA: Yes. Next, banking licences. UK S-M-E lender OakNorth has secured a US national banking charter, after waiting twenty months. Banking Dive says it's the first foreign digital bank to get one. And crypto firm MoonPay has applied to the O-C-C for a trust charter.
+MICHAEL: And cross-border B2B payments.
+EMMA: Storspay, a B2B cross-border payroll and vendor payment platform, has registered with FINTRAC in Canada as a money services business.
+MICHAEL: Tokenisation and digital currency.
+EMMA: Several. Maybank has completed Malaysia's first tokenised Malaysian Government Securities transaction, in a pilot with its insurance arm under Bank Negara Malaysia's Digital Asset Innovation Hub. In Italy, C-B-I, Bancomat and Nexi have teamed up to build the infrastructure for a digital euro. And Aqua Global and IntellectEU are partnering to connect banks' existing payment systems to digital asset networks.
+MICHAEL: And agentic commerce.
+EMMA: Adyen merchants can now offer Klarna when an A-I agent checks out for a shopper, through Adyen Agentic. And a Finextra community piece argues that "Know Your Agent", the identity question for A-I agents, is one banks can't avoid in twenty twenty-seven.
+MICHAEL: That's the corporate question too. If agents start paying, who verified the agent?
+EMMA: Exactly. Regulation. The S-E-C has proposed restructuring the Consolidated Audit Trail, including rescinding Rule six-thirteen. It has charged Indianapolis-based Backward Hat Capital and its co-founders with a five hundred and sixty million dollar offering fraud, obtaining a restraining order and asset freeze. And it has proposed loosening rules on executive perks, raising the disclosure threshold.
+MICHAEL: And a compliance technology item.
+EMMA: Curvestone A-I has launched financial promotions and website monitoring for regulated advice firms.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with portfolio reshaping, because there's a clear example. Manufacturing Dive reports Textron has found a private equity buyer for its industrial business, at one point two billion dollars. An affiliate of Kingswood Capital Management will take over the segment, which includes an auto supplier and specialty vehicles. Textron is shifting to become a pure-play aerospace and defence company.
+EMMA: Another conglomerate narrowing its focus.
+MICHAEL: Yes. And it's the same pattern we've seen elsewhere. Sell the businesses that don't fit, and concentrate capital where you think returns are highest. For an F-P-and-A team, it's a reminder to keep asking which parts of the portfolio earn their cost of capital.
+EMMA: And private capital's role.
+MICHAEL: The FT says private capital is betting big on mix-and-match deals. With the traditional buyout business stuck in the doldrums, firms are using hybrid capital to seal transactions and raise funds. The Bill and Textron deals are both private capital buying corporate assets.
+EMMA: Labour.
+MICHAEL: Manufacturing Dive reports US Steel and the United Steelworkers have reached a four-year labour deal, now up for a vote. It includes annual wage increases and healthcare improvements for eleven thousand two hundred employees, two weeks after Cleveland-Cliffs reached its own deal with the union.
+EMMA: Steel labour stability matters for input costs.
+MICHAEL: It does. And on US investment, Tesla has proposed a three point one billion dollar polysilicon refinery in Texas, alongside other US investment announcements from Limik Capital, Silex Microsystems and H-D-I America.
+EMMA: And Europe and China.
+MICHAEL: The FT reports BYD has been hit after a court barred one of its S-U-Vs from the E-U over a design copy of a Land Rover. That's a significant setback for its European expansion. And in India, bankers say a feud between a scion and the chair of Tata is making an I-P-O of India's biggest company difficult.
+EMMA: Any energy transition news?
+MICHAEL: Yes. The FT reports a boost for the one billion pound Acorn carbon capture scheme in the North Sea, as carbon storage company EnEarth buys a stake. It's seen as key to UK decarbonisation plans.
+EMMA: And a cautionary tale.
+MICHAEL: CNBC reports employees at Foundation, the robot start-up backed by Eric Trump, have lost their health benefits as its cash crunch deepens. The company is pursuing an emergency bridge loan and waiting for a hundred and fifty million dollar investment from South Korea's Base Group.
+EMMA: Cash is king, again.
+MICHAEL: Always. And there's a good FT piece on investing that fits the whole week. It argues investors need to unlearn the lessons of the past twenty years, because when it comes to inflation, bonds and stocks, we're in a different world from the one that followed the financial crisis.
+EMMA: That applies to treasury too. A lot of our playbooks were written in the zero-rate era.
+MICHAEL: Exactly. Cash investment policies, hedging tenors, funding mix. All worth revisiting in a world of higher and more volatile rates.
+EMMA: Let's do the calendar.
+MICHAEL: Nothing high-impact today. The big data is on Wednesday at half past one Dublin time. US core P-C-E price index, forecast to rise point three percent on the month, the same as last time. And preliminary G-D-P, forecast at three point five percent, after three point four.
+EMMA: Core P-C-E is the Fed's favourite inflation measure.
+MICHAEL: It is. After last week's hawkish Fed talk, a hot number would push yields back up and probably undo some of Friday's rally. A soft number would support the rally.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: Treasury yields have just fallen more than twenty basis points in a week, copper may be about to get dearer, and the peso has dropped two and a half percent. So here's the Monday question. Should we use this week to lock in some of these levels, on term funding, on peso cost hedges and on copper cover, before Wednesday's inflation data has its say?
+MICHAEL: Three decisions, one window.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
