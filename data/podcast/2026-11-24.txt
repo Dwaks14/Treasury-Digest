@@ -1,0 +1,135 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Tuesday, the twenty-fourth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. Nvidia has reinstated Jensen Huang as chief executive, and markets exploded, with the Nasdaq up seven percent in a day. The Mexican peso has now fallen almost four percent in a week. And there's genuinely good news for our own sector: HVAC manufacturers are reporting higher revenue, and heat pump adoption is surging in new construction.
+MICHAEL: Plus the Fed's John Williams says rates are likely to go higher over time. So a lot to get through.
+EMMA: Let's start with the watchlist.
+MICHAEL: Barclays first. Bloomberg reports UBS and Barclays are stuck with one point two billion euros of debt after the Irca deal unravelled.
+EMMA: So another hung debt story.
+MICHAEL: Yes. When a deal falls apart after the banks have committed to finance it, they can end up holding the debt themselves. That ties up balance sheet and capital.
+EMMA: Why does that matter to Carrier?
+MICHAEL: My analysis: Barclays is a relationship bank. When banks have balance sheet tied up in hung deals, it can affect how much appetite they have for new lending elsewhere. It's not a reason for concern on its own, but it's worth keeping in mind for the next facility renewal.
+EMMA: UniCredit next.
+MICHAEL: Il Sole twenty-four Ore has a piece focused on the Italian banking sector, amid Intesa's takeover bid for M-P-S and the UniCredit-Commerzbank merger.
+EMMA: So consolidation is the theme across Italian and European banking.
+MICHAEL: It is. And Bloomberg reports Morgan Stanley says European banks are set to fire up M-and-A talks.
+EMMA: For Carrier, the practical point is that the bank group could look quite different in a couple of years. Fewer, bigger counterparties. That's good for scale and service, but it reduces diversification. It's worth keeping a watch list of where your banks might be involved in deals.
+MICHAEL: J-P Morgan?
+EMMA: CNBC reports J-P Morgan is working on A-I agent transactions that don't involve humans, with Hyundai Card. The controls question for corporates will come: who authorises an agent to pay, with what limits, and how is it audited?
+MICHAEL: There are also several J-P Morgan market views today.
+EMMA: Yes, briefly. Bloomberg reports J-P Morgan's traders have dropped their bullish view on stocks after the sell-off. J-P Morgan's Yoder told CNBC to lean into higher-quality, cash-flow-generative hyperscalers. And J-P Morgan's Gabriela Santos says the market is in a turbulent transition to A-I monetisation. Research views rather than bank news.
+MICHAEL: And Johnson Controls?
+EMMA: MarketWatch says Johnson Controls shares outperformed competitors on a strong trading day. Given what happened in markets yesterday, that's not surprising. Nothing specific behind it in our inputs.
+MICHAEL: Okay. Rates and F-X. Let's start with the peso.
+EMMA: Dollar-Mexican peso rose almost one percent yesterday, to nineteen point two four six. Over the week, the peso has weakened three point seven percent against the dollar.
+MICHAEL: That's a substantial move.
+EMMA: It is. For a manufacturer with Mexican operations, Mexican costs are now notably cheaper in dollar terms. My analysis: if the hedging policy allows flexibility, this is a level worth considering for locking in more peso cost cover. The question is how much of next year's Mexican cost base is already hedged, and whether to extend.
+MICHAEL: And the risk is that it reverses.
+EMMA: Of course. Emerging market currencies can turn quickly. That's why layering hedges, rather than doing everything at once, is usually sensible.
+MICHAEL: The euro.
+EMMA: Euro-dollar fell almost half a percent, to one point oh nine three nine. Down about seven tenths of a percent on the week. Sterling-dollar fell about four tenths of a percent to one point three oh seven four, down almost one percent on the week. Euro-sterling is at nought point eight three six seven.
+MICHAEL: So the dollar strengthened again.
+EMMA: It did. And that keeps squeezing the dollar value of European earnings. Hedge cover on European flows is worth a look.
+MICHAEL: Yen and renminbi.
+EMMA: Dollar-yen rose about a quarter of a percent to one hundred and fifty-nine point oh seven. Dollar-renminbi eased about two tenths of a percent, to six point six six four seven. So a slightly firmer renminbi.
+MICHAEL: Now rates. US Treasuries held on to Friday's rally. The two-year is at four point six three percent, and the ten-year at four point nine two percent. Both unchanged on the day, and both down twenty basis points on the week.
+EMMA: So the ten-year is still below five.
+MICHAEL: It is. SOFR is at three point nine two percent, effective Fed funds three point eight eight. The euro short-term rate is two point four four four percent, up about a basis point on the week, and SONIA is three point nine eight four one percent.
+EMMA: And the E-C-B?
+MICHAEL: Reuters reports the E-C-B's Simkus says a December rate hike may not be enough, but the E-C-B isn't in a rush to move again after that.
+EMMA: So a hike in December, then a pause to see.
+MICHAEL: That's the read. And Philip Lane gave a speech on climate change and monetary policy.
+EMMA: Big stories. Let's start with Nvidia.
+MICHAEL: CFO Dive reports Nvidia has reinstated Jensen Huang as chief executive, and Colette Kress remains chief financial officer. The shares jumped more than thirty percent on Monday, despite reports of multiple affairs, including one with an alleged Chinese spy.
+EMMA: And the market reaction was enormous.
+MICHAEL: It was. The FT reports the Nasdaq jumped seven percent as Nvidia shares soared thirty-one and a half percent, and the S-and-P five hundred rose four point seven percent. The FT also says Nvidia gained nearly one trillion dollars in value after Huang's reinstatement, and Asian tech stocks surged too.
+EMMA: Those are extraordinary numbers for one day.
+MICHAEL: They are. And there are some colourful sidelines. The FT reports President Trump made up to fifteen million dollars on Nvidia shares after Huang's return, based on the maximum amount he could have owned in his latest disclosure. And the FT says leveraged short Nvidia E-T-Fs have blown up.
+EMMA: And the big question.
+MICHAEL: The FT asks whether Huang's return means Nvidia is too big to fail. And CNBC reports Wall Street strategists say Huang's return could establish a bottom and steady the A-I trade, though spending and data centre risks remain.
+EMMA: So what does it mean for Carrier's treasury team?
+MICHAEL: Two things, as analysis. First, risk appetite. A rally like that tends to tighten credit spreads and improve conditions for borrowers. If there's funding to do, a calmer market helps. Second, data centres. The A-I trade has steadied, but CNBC's strategists still flag spending and data centre risks. And CFO Dive quotes Ed Yardeni of Yardeni Research saying data centre activity is at risk after the midterms. So I'd keep a cautious assumption for data centre cooling demand in the plan.
+EMMA: And governance lessons.
+MICHAEL: H-B-R has two timely pieces. One asks who can say no to the founder, and argues for a strong second-in-command to guard against the kind of turmoil that engulfed Nvidia. The other looks at when C-E-O comebacks succeed and when they fail. And there's an H-B-R Q-and-A with researcher Paulo Carvão on what the volatility of the A-I trade means for companies.
+EMMA: Second big story. The Fed.
+MICHAEL: CNBC reports the Fed's John Williams indicated that higher interest rates are likely over time, to address inflation. He expressed confidence that inflation will get closer to the Fed's two percent target in twenty twenty-seven.
+EMMA: So hikes, but a path back to target.
+MICHAEL: That's the message. My analysis: plan for dollar floating costs to keep rising through next year. SOFR-linked debt, commercial paper, revolver drawings and floating intercompany loans all get more expensive.
+EMMA: And there's a money market angle.
+MICHAEL: There is. The FT has a piece on what it calls the Federal Reserve's balance sheet yo-yo. It says recent money market stress is likely to prompt the Fed to expand its balance sheet before it acts next year to shrink it.
+EMMA: Money market stress is something treasurers feel directly.
+MICHAEL: Very directly. When money markets are stressed, commercial paper can be harder or more expensive to issue, and overnight rates can spike. My analysis: it's a reminder to keep liquidity buffers and backup lines solid. If commercial paper markets get choppy, you want your revolver to be there.
+EMMA: And the year-end picture.
+MICHAEL: Barron's says the A-I sell-off, Fed rate hike fears and Iran tensions threaten a year-end rally. Year-end is always a period when liquidity can get tight, so that's another reason to plan year-end funding early.
+EMMA: Third big story. Our own sector.
+MICHAEL: Yes, and it's a good one. ACHR News reports HVAC manufacturers have reported increased revenue for the third quarter. And a separate study reported by ACHR News shows heat pump adoption is surging in new construction.
+EMMA: That's encouraging for Carrier.
+MICHAEL: It is. We don't have company-specific numbers in our inputs, so I won't put figures on it. But the direction is positive for the sector.
+EMMA: What's the treasury angle?
+MICHAEL: My analysis: higher revenue is good, but it often comes with higher working capital. More sales usually means more receivables. And if demand for heat pumps is growing, inventory might need to build ahead of the season. Both tie up cash.
+EMMA: So the question is whether the cash forecast reflects the growth.
+MICHAEL: Exactly. And whether supply chain finance and receivables programmes are sized to support it. Strong demand is the best problem to have, but it still needs funding.
+EMMA: And there's a copper angle.
+MICHAEL: Yes. The FT reports traders are starting to move US copper to China as Trump tariff fears ease, with an acute Chinese shortage and high local premium creating a lucrative arbitrage. If US copper supply tightens, input costs for HVAC equipment could rise. Worth checking copper hedges and supplier pricing clauses.
+EMMA: Fourth big story. Europe's energy costs.
+MICHAEL: The FT reports European fertiliser suppliers are shutting plants as energy prices soar. A third of ammonia production has been suspended because of power costs, increasing reliance on imports.
+EMMA: That's a striking number.
+MICHAEL: It is. My analysis: when energy-intensive industries shut capacity in Europe, it tells you how much energy costs are hurting European manufacturing. For Carrier's European operations, energy is an input cost to watch. And on the demand side, high energy prices could support demand for more efficient heating and cooling, including heat pumps.
+EMMA: Both sides of the coin.
+MICHAEL: Exactly.
+EMMA: Before we move on, let's put the currency moves together, because the combination matters for Carrier's netting and intercompany funding.
+MICHAEL: Go on.
+EMMA: In one week, the peso is down almost four percent, the euro is down about seven tenths of a percent and sterling almost one percent, all against the dollar. If the next netting cycle includes Mexican, European and UK entities settling with US entities, the dollar amounts could look quite different from what each entity planned.
+MICHAEL: So the netting team should rerun the numbers.
+EMMA: Exactly. Check each entity's expected position against current rates, and make sure any entity that now owes more in local currency terms has the cash ready. It's also worth checking intercompany loan revaluations before month end, because moves of this size will show up in the books.
+MICHAEL: And month end is next week.
+EMMA: It is. So there's a short window to get ahead of it. A quick heads-up to the controllers now saves a scramble later.
+MICHAEL: And on hedging policy more generally?
+EMMA: I'd say this is a good week to test whether the policy still fits. When currencies move this much, you find out quickly whether hedge ratios, tenors and approval limits are set right. If the team felt it couldn't act on the peso move because of policy constraints, that's useful information for the next policy review.
+MICHAEL: That's a very practical point. Policies written in calm markets don't always work in volatile ones.
+EMMA: Exactly. And the same goes for counterparty limits with the banks executing the hedges, especially with so much bank consolidation going on.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: The E-C-B has expanded its acceptance of D-L-T-based assets as eligible Eurosystem collateral. That means assets recorded on distributed ledger technology can be used as collateral with the central bank, which is a significant step for tokenisation in European finance.
+MICHAEL: Banks will build on that.
+EMMA: They will. And Payments Dive has a piece on how digital dollars can improve cross-border payment management, as businesses look for more dependable ways to pay partners abroad.
+MICHAEL: Charters.
+EMMA: Cross-border payments company Payoneer has received conditional approval for a trust bank from the O-C-C. It's one of several payments firms seeking such a charter this year. And A-I-focused insurance start-up Corgi has applied for a national bank charter, which would put its holding company under Federal Reserve supervision.
+MICHAEL: Faster payments.
+EMMA: Kansas City Fed President Jeff Schmid nudged credit union executives to adopt faster payment options like FedNow. And in a smaller item, President Trump has signed the Common Cents bill, giving merchants a legal basis for rounding retail cash transactions as pennies disappear.
+MICHAEL: Bank strategy.
+EMMA: First Horizon's chief executive, Bryan Jordan, says operating with a long-term mentality positions the bank to be a buyer or a seller amid industry consolidation. And UK regulators published results of their twenty twenty-six general insurance stress test, which the P-R-A says highlights the value of rehearsing crisis response and recovery.
+MICHAEL: Rehearsing crisis response is a theme this month.
+EMMA: It is. And Manufacturing Dive has a piece on when a cyber vulnerability becomes a production risk, asking whether a production line can afford an emergency patch.
+MICHAEL: A finance leadership item.
+EMMA: Payments Dive confirms PayPal handed its new C-F-O, Claire Bramley, a thirty million dollar pay package, to take the role in February. And CFO Dive reports SAP's C-F-O, Dominik Asam, predicts A-I productivity gains will slow headcount growth, and that SAP will introduce a new K-P-I next year to track A-I's financial impact.
+MICHAEL: An A-I K-P-I is a good idea.
+EMMA: It is. And it ties to a Gartner survey that finds C-F-Os are prioritising cost control and efficiency for twenty twenty-seven, with rising A-I investment, persistent inflation, geopolitical uncertainty and higher borrowing costs all complicating the picture. CFO Dive also says tax organisations know A-I is essential, but most are structurally unready.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with automation and manufacturing, because there's a cluster of stories. Manufacturing Dive reports Rockwell Automation previewed a digital orchestration platform at its automation fair in Boston, and has expanded its digital twins, computing and robotics capabilities. And Lego's chief operating officer, Carsten Rasmussen, discussed how Lego is using automation at its latest factory in Portugal, and its upcoming US plant, set to open soon.
+EMMA: Foreign manufacturers investing in the US again.
+MICHAEL: Yes. And on US policy, Manufacturing Dive reports the National Association of Manufacturers says the House is likely to pass a permitting bill with minimal changes. Industry groups say the Bipartisan American Affordability and Jobs Act will make permitting much faster and cheaper for manufacturers.
+EMMA: That matters for anyone building plants.
+MICHAEL: It does. Faster permitting shortens the time from capex approval to production, which improves the return on capital projects.
+EMMA: What about capital markets?
+MICHAEL: Two London stories. The FT reports catering company Compass has reignited fears of a City exodus, as it plans to move its listing to New York, with companies seeking to boost liquidity and valuations. Another FT piece argues the Compass exit should spur London to strengthen its bench.
+EMMA: Relevant for any company thinking about where its equity is listed.
+MICHAEL: Very. And the FT reports five directors are negotiating what could be the biggest merger ever, combining SpaceX and Tesla into a potential three and a half trillion dollar company. There's also an FT piece on what it calls SpaceX's Black Friday bond hangover.
+EMMA: And credit ratings.
+MICHAEL: The FT reports the president of Egan-Jones, a tiny rating agency behind the private credit boom, describes it as the Tesla of ratings, arguing it can produce thousands of ratings thanks to its investment in technology.
+EMMA: That's a slightly worrying claim for private credit investors.
+MICHAEL: It's one to watch. And the FT reports the political tide is turning on US audits, with signs of the industry regulator's new approach under chair Jim Logothetis.
+EMMA: Any international macro?
+MICHAEL: A few. S-and-P data shows business activity has cooled because of inflation but is still above trend. Statistics Canada's flash estimate says October factory sales most likely rose two point three percent. Australia's treasurer, Jim Chalmers, warns unemployment will climb above five percent as rate hikes bite. And the FT reports that China wanted families to put savings in shares rather than homes, but tumbling stock prices are undermining that effort.
+EMMA: And data centres in Europe.
+MICHAEL: Data Center Dynamics reports Retelit has secured an extra fifty million euros for data centre expansion. A small one, but it shows European data centre investment is continuing.
+EMMA: Let's do the calendar.
+MICHAEL: Nothing high-impact today. Tomorrow, Wednesday, at half past one Dublin time, two big US releases. Core P-C-E price index, forecast to rise point three percent on the month, the same as last time. And preliminary G-D-P, forecast at three point five percent, after three point four.
+EMMA: Core P-C-E is the one the Fed watches most closely.
+MICHAEL: It is. With Williams talking about higher rates over time, a hot number would reinforce that and could undo some of last week's Treasury rally. A soft number would help the rally hold.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: Markets have swung from fear to euphoria in a day, the peso has dropped almost four percent in a week, and our own sector is reporting growth. So here's the question. Is our working capital and funding plan ready for growth, with more receivables, more inventory and possibly higher copper costs, while dollar rates keep rising? And should we use the calmer market to lock in some of that funding now?
+MICHAEL: A good one for a Tuesday. And it's much easier to answer before Wednesday's inflation data than after it.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
