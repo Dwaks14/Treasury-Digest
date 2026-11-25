@@ -1,0 +1,143 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Wednesday, the twenty-fifth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. The Trump administration is teeing up new tariff hikes on the E-U, China and others. McKinsey says half of Europe's industrial companies are under serious financial stress. And E-C-B officials are lining up behind more rate hikes as inflation broadens.
+MICHAEL: Plus a first for tokenised collateral involving two of our banks, and the big US inflation number lands this afternoon.
+EMMA: Let's start with the watchlist. H-S-B-C and J-P Morgan.
+MICHAEL: Finextra reports H-S-B-C, J-P Morgan and StoneX have carried out the first live trades of fractions of physical gold bars, using them as collateral in legally binding wholesale market transactions. Bloomberg describes it as J-P Morgan and H-S-B-C trading a new London digital gold for the first time.
+EMMA: So gold, split into fractions, recorded digitally, and used as collateral.
+MICHAEL: That's the idea. It's a step in tokenisation moving from pilots into live wholesale transactions.
+EMMA: Why does it matter for Carrier's treasury team?
+MICHAEL: My analysis: Carrier isn't trading gold. But the bigger theme is that collateral is becoming more mobile and more digital. Over time, that could change how banks offer liquidity products, margining for hedges, and short-term investments. Expect relationship banks to start pitching tokenised collateral and liquidity tools to corporates.
+EMMA: And it's worth having a view before they do.
+MICHAEL: Exactly. What would we need to see on legal certainty, custody and operational risk before we'd use something like that?
+EMMA: Next, a J-P Morgan alumnus in a new role. The Bank of England says Daniel E. Pinto has been appointed as an external member of its Financial Policy Committee. Reuters describes him as a former J-P Morgan executive.
+MICHAEL: The Financial Policy Committee being the one that looks at UK financial stability.
+EMMA: Right. It doesn't change Carrier's relationship with J-P Morgan, but it adds senior US banking experience to UK financial stability policy.
+MICHAEL: And several J-P Morgan research views today.
+EMMA: Yes, briefly. Bloomberg reports J-P Morgan has set a below-consensus S-and-P five hundred target of eight thousand two hundred for twenty twenty-seven. CNBC reports J-P Morgan's Michael Feroli says inflation, not markets, is driving Fed decisions. And J-P Morgan's Bruce Kasman expects the Fed to hike rates at its next three meetings.
+MICHAEL: Three hikes in a row. That's a strong view.
+EMMA: It is. Reuters also reports J-P Morgan says a possible Tesla merger could help SpaceX get into the S-and-P five hundred.
+MICHAEL: And two more bank views.
+EMMA: CNBC reports B-N-P Paribas says A-I-driven copper demand is overhyped. And H-S-B-C's Ramachandran says global trade remains resilient despite expectations.
+MICHAEL: The copper one is interesting for an HVAC company. We'll come back to it in strategy corner.
+EMMA: Good. Rates and F-X.
+MICHAEL: Let's start with the peso, because it's still the big story. Dollar-Mexican peso is at nineteen point two seven, up a little on the day. Over the week, the peso is down about four point four percent against the dollar.
+EMMA: That's a huge weekly move.
+MICHAEL: It is. For Carrier's Mexican operations, local costs are much cheaper in dollar terms. My analysis: there's a strong case to review the peso cost hedge ratio. If the policy allows, layering in more cover at these levels could lock in a meaningful benefit for next year.
+MICHAEL: And the euro?
+EMMA: Euro-dollar rose about a fifth of a percent, to one point oh nine six three. Still down about a quarter of a percent on the week. Sterling-dollar rose about a fifth of a percent to one point three oh nine eight, down about seven tenths of a percent on the week. Euro-sterling is at nought point eight three seven, up about half a percent on the week, so sterling has been a bit weaker against the euro.
+MICHAEL: Yen and renminbi?
+EMMA: Both flat. Dollar-yen at one hundred and fifty-nine point oh seven, and dollar-renminbi at six point six six four five.
+MICHAEL: Rates. US Treasuries are holding last week's rally. The two-year is at four point six three percent, down seventeen basis points on the week. The ten-year is at four point nine one percent, down a basis point on the day, and nineteen on the week.
+EMMA: And overnight rates?
+MICHAEL: SOFR is three point nine two percent, effective Fed funds three point eight eight. The euro short-term rate is two point four four three percent, and SONIA three point nine eight three seven percent. All steady.
+EMMA: There's an interesting Bloomberg story about bond traders.
+MICHAEL: Yes. Bloomberg reports bond traders are rushing to hedge the risk that Fed hikes stall the economy.
+EMMA: So the market is worried the Fed might overdo it.
+MICHAEL: That's the read. If the Fed hikes several times and the economy slows sharply, longer-term yields could fall further. My analysis: for a treasury team, that's an argument for not assuming rates only go one way. Mixing fixed and floating funding, and thinking about duration on cash investments, both benefit from considering both scenarios.
+EMMA: And the Fed itself.
+MICHAEL: CNBC reports the Fed's John Williams indicated higher interest rates are likely over time to address inflation, and expressed confidence that inflation will get closer to the Fed's two percent target in twenty twenty-seven. The Fed has also published minutes from its discount rate meetings in October.
+EMMA: Big stories. Let's start with tariffs.
+MICHAEL: Politico reports the Trump administration is teeing up tariff hikes on the E-U, China and others.
+EMMA: That's a significant headline for a manufacturer.
+MICHAEL: It is. We don't have the details of rates or timing in our inputs, so I won't speculate on specifics. But the direction is clear.
+EMMA: So what does it mean for Carrier?
+MICHAEL: My analysis: higher tariffs raise the landed cost of imported components and finished goods. For a company with global supply chains, that hits margins unless costs can be passed on. The practical steps are to refresh the tariff scenarios in the twenty twenty-seven plan, and check customer contracts to see where pricing clauses allow cost pass-through.
+EMMA: And there's a policy debate on the other side.
+MICHAEL: There is. Manufacturing Dive reports US manufacturing leaders are urging policy reform to counter China. A House select committee hearing heard industry experts recommend expanded tax credits, stronger trade policy and a national strategy to shore up domestic manufacturing.
+EMMA: And HSBC's view that global trade remains resilient is worth keeping in mind as a counterweight.
+MICHAEL: Agreed. Trade has been more resilient than many expected, but tariff policy keeps shifting.
+EMMA: Second big story. Europe's industrial stress.
+MICHAEL: The FT reports half of European industrial companies are under serious financial stress, according to McKinsey. The rising number of companies classified as stressed or distressed puts about three point seven million jobs at risk.
+EMMA: Half. That's a striking number.
+MICHAEL: It is. And it fits with what we've been seeing on European energy costs. The FT also reports that inflationary pressures remain in diesel and jet fuel prices, despite a glut of gasoline. So energy costs are still a problem for some parts of industry.
+EMMA: What does it mean for a treasury team at a US manufacturer with big European operations?
+MICHAEL: Two angles, as analysis. First, counterparty risk. If many European industrial companies are under stress, some of Carrier's suppliers and customers in Europe could be too. It's worth reviewing exposure to weaker counterparties, both on the receivables side and on the supply side.
+EMMA: And second?
+MICHAEL: Supporting key suppliers. If a critical supplier is under financial stress, a supply chain finance programme can help them get paid earlier, using Carrier's credit rating. That protects supply continuity. It's a classic use of supply chain finance in a downturn.
+EMMA: And there's a European policy response.
+MICHAEL: Yes. The FT reports German industrial giants have launched a trading house for rare earths. And the E-U plans a fifty billion euro tech fund to take stakes in A-I and quantum computing companies, to bolster Europe's technological independence.
+EMMA: And a security note.
+MICHAEL: The FT reports Europe's defence chief warns that Europe must not accept hybrid warfare as normal, after a surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure.
+EMMA: Which matters for business continuity planning in Europe.
+MICHAEL: It does.
+EMMA: Third big story. The E-C-B.
+MICHAEL: Bloomberg reports the E-C-B's Simkus says it's prudent to hike as inflation broadens. And the E-C-B's Kaasik says the latest data show rates must be raised further.
+EMMA: So the hawks are vocal.
+MICHAEL: They are. And there's the leadership race. The FT reports euro-zone capitals are seeking a consolation prize for Knot, the Dutch contender, to avoid an E-C-B vote, as they prepare to endorse his Spanish rival to head the central bank.
+EMMA: And Vujčić gave a speech on resilience in an age of shocks, with lessons from central and eastern Europe.
+MICHAEL: Right.
+EMMA: For a Dublin team, what's the takeaway?
+MICHAEL: My analysis: euro rates look set to keep rising. That argues for keeping euro surplus cash on shorter tenors, so it can be reinvested at higher rates. And any euro facilities or intercompany loans should be priced on the basis that rates are going up.
+EMMA: Fourth big story. Banks versus private credit.
+MICHAEL: The FT reports banks are regaining some ground in the private credit tug of war. For borrowers, the coexistence of bank and non-bank lenders is creating what the FT calls a window of opportunity.
+EMMA: Why does that matter for Carrier?
+MICHAEL: My analysis: when two types of lenders compete for the same business, borrowers get better terms. If Carrier has any new or renewed facilities coming up, it may be a good time to test pricing and terms, including with lenders outside the usual bank group.
+EMMA: So competition among lenders with capacity is worth using.
+MICHAEL: Exactly.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: Payments first. Capital One is investing in real-time and cloud-based rails to keep pace with technology. Payoneer has received conditional approval for a trust bank from the O-C-C. And Worldline has relaunched its Global Collect brand for travel and digital commerce.
+MICHAEL: Worldline relaunching a brand just after its working capital story is interesting timing.
+EMMA: It is. Now the A-I and payments survey. Finextra reports Brits are wary of letting A-I agents make payments for them. Just thirteen percent say they're likely to let an agent make a payment for them in the next year.
+MICHAEL: So trust is a real barrier.
+EMMA: It is. And that's likely to apply to corporates too. Lloyds Banking Group has published a guide on scaling A-I responsibly, sharing practical lessons from its experience. And Indonesia's Danamon, a member of M-U-F-G, has signed an A-I partnership memorandum with Advance Intelligence Group.
+MICHAEL: Fintech funding.
+EMMA: B2B payments fintech Pliant has secured more than two hundred million euros in additional debt financing from Ascory Bank and Viola Credit. And Swedish open banking firm Trustly has raised about sixty million dollars from existing shareholders, shortly after cutting its workforce by a quarter.
+MICHAEL: Leadership changes.
+EMMA: Several. Adyen co-founder and co-C-E-O Pieter van der Does is stepping down after twenty years, saying, quote, I feel my cycle is complete. P-N-C has given its number two executive, Mark Wiedman, a twenty million dollar award and a board seat, which may cement him as a potential successor to C-E-O Bill Demchak. And Coca-Cola has hired pharma finance veteran David Elkins as its incoming C-F-O, breaking from its practice of appointing insiders.
+MICHAEL: Disputes.
+EMMA: Intermex has sued Western Union, alleging Western Union walked away from their five hundred million dollar merger deal because of, quote, buyer's remorse.
+MICHAEL: And a green finance item relevant to our sector.
+EMMA: Yes. Zopa, the British digital bank with two million customers, has joined the government's Warm Homes Loan Scheme to help eligible customers lower the cost of green home upgrades.
+MICHAEL: Green home upgrades often include heating systems.
+EMMA: They do. Financing schemes like this can support demand for efficient heating, including heat pumps.
+MICHAEL: Regulation.
+EMMA: Banking Dive reports former staff say O-C-C staff cuts have left the agency vulnerable. Its headcount has shrunk about thirty percent since January twenty twenty-five. And H-B-R has a piece on software updates that keep crashing systems, with five steps to stay secure and online, as A-I accelerates the discovery of security flaws.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with copper, because B-N-P's view is directly relevant. CNBC reports B-N-P Paribas says A-I-driven copper demand is overhyped.
+EMMA: That's a contrarian view.
+MICHAEL: It is. My analysis: if B-N-P is right, copper demand could prove softer than many expect, and that would be good news for HVAC input costs over time. If it's wrong, copper stays tight. So the practical question is about hedging strategy. Is Carrier's copper hedging for twenty twenty-seven flexible enough to benefit if prices soften, without being exposed if they don't?
+EMMA: A classic hedging dilemma.
+MICHAEL: Exactly. A layered approach, with some cover locked in and some left open, is one way to balance it.
+EMMA: M-and-A.
+MICHAEL: The FT has a piece on how Sanofi's forty-one billion dollar megadeal challenges pharma's M-and-A curse. Investors seem to think the deal will be good for both buyer and seller, after previous big-deal disappointments. And the FT reports Elon Musk's SpaceX and Tesla have entrusted five directors with what could be the largest merger of all time, at three and a half trillion dollars.
+EMMA: And a cautionary one.
+MICHAEL: Yes. The FT reports CrowdStrike's share fall after its merger with peer Zscaler shows the limits of investor patience with charismatic leaders.
+EMMA: Which ties to Nvidia.
+MICHAEL: It does. CFO Dive's quote of the week, about the Nvidia board rehiring Jensen Huang, is "Men fail upward". CNBC argues Huang's return shows the US-China A-I race is about more than chips, it's about tech talent too. And H-B-R has an executive session with H-B-S professor Lynn S. Paine on when a C-E-O becomes bigger than the company.
+EMMA: Capital markets.
+MICHAEL: Two London stories. The FT reports Compass has reignited fears of a City exodus, planning a New York shift. And M-and-G chief executive Andrea Rossi is calling for a cut in stamp duty to halt the flight of London companies to New York, and says he'll vote against Compass's planned US move.
+EMMA: And an industrial investment.
+MICHAEL: Ford is acquiring a minority stake in satellite maker Revolution Space, through its subsidiary Industrial Platform, to help scale production of spacecraft and components.
+EMMA: And the US consumer.
+MICHAEL: CFO Dive reports consumer sentiment surged after the midterm elections, according to the Conference Board. Navy Federal Credit Union's chief economist, Heather Long, says, quote, there's optimism in the air heading into the holiday season.
+EMMA: Good for consumer-facing demand, including residential HVAC.
+MICHAEL: Potentially. And on strategy itself, H-B-R asks a good question: what will you stop doing under your new strategy? It argues leaders must make deliberate trade-offs to turn strategic priorities into results.
+EMMA: A few more items before the calendar.
+MICHAEL: Go on.
+EMMA: CFO Dive looks at four challenges facing Anthropic's finance chief, Krishna Rao, after the I-P-O. He has to balance aggressive A-I expansion with the financial discipline and transparency expected of a public company.
+MICHAEL: That's the tension every newly listed growth company faces.
+EMMA: It is. And in markets, MarketWatch reports Micron's stock fell after an analyst warned of a future supply glut, while A-O Smith shares outperformed competitors on a strong day.
+MICHAEL: Any geopolitics?
+EMMA: The FT's morning newsletter says President Trump has shelved plans for deals with Russia. That matters for energy and for Europe, so it's one to keep an eye on.
+MICHAEL: And something on people.
+EMMA: Two H-B-R pieces. One looks at what Walmart's chief information security officer learned about recruiting and retaining cyber talent, even when that means watching people leave. The other looks at research on whether employees want time or money, and the motivational mismatches that plague workplace wellness programmes.
+MICHAEL: Cyber talent is a real constraint for treasury too. A lot of payment security depends on a small number of people.
+EMMA: Exactly. Key-person risk in treasury operations is worth a look in any resilience review.
+MICHAEL: And a couple of quirky ones.
+EMMA: CNBC reports daily volume of perpetual futures trading on Kalshi has started to top its prediction markets, and Utah has dropped criminal charges against Kalshi's founders after the company suspended operations in the state. And in Australia, N-A-B's chief executive has hit out at an Instagram account making salacious claims about the bank, saying it will act to protect staff. Finally, the FT reports London quant hedge fund Qube is pushing into the options market, with a bid for a broker-dealer licence.
+MICHAEL: A busy news day, then. The common thread is that a lot is changing at once, in trade, in rates, in banking and in technology, and treasury sits right in the middle of all of it. That's exactly why a clear calendar helps.
+EMMA: Let's do the calendar.
+MICHAEL: Today at half past one Dublin time, two big US releases. Core P-C-E price index, forecast to rise point three percent on the month, the same as last time. And preliminary G-D-P, forecast at three point five percent, after three point four.
+EMMA: What should we watch for?
+MICHAEL: Core P-C-E is the Fed's preferred inflation gauge. With J-P Morgan's Kasman expecting three hikes and Williams talking about higher rates over time, a hot number would reinforce the hawkish view and could push yields back up. A soft number would support the recent rally.
+EMMA: And G-D-P?
+MICHAEL: A strong number would back the view that the economy can handle more hikes. A weak one would add to the worry that bond traders are hedging, that hikes could stall the economy.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: New tariffs are coming, half of Europe's industrial companies are under stress, and the peso has dropped more than four percent in a week. So here's the question. Which of our suppliers would we least want to lose, are any of them under financial strain, and could supply chain finance help keep them strong through next year?
+MICHAEL: A question that protects the business, not just the balance sheet.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
