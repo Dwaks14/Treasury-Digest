@@ -1,0 +1,132 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Thursday, the twenty-sixth of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things today. The US is readying tariffs of fifteen to thirty-five percent on China, the E-U and twelve other partners. The Mexican peso has fallen six percent in a week. And FinCEN, the US Treasury's financial crime watchdog, has taken systems offline after a suspected cyber attack.
+MICHAEL: Plus B-N-P Paribas faces a higher capital surcharge, and a big step towards twenty-four seven F-X from Ant International and B-N-Y.
+EMMA: Let's start with the watchlist. B-N-P Paribas first.
+MICHAEL: Bloomberg reports B-N-P Paribas has been hit by a higher capital surcharge under the new list of global systemically important banks. The Basel Committee has published more details on its twenty twenty-six assessment, alongside the Financial Stability Board's updated list.
+EMMA: Explain what that means in plain terms.
+MICHAEL: The biggest, most interconnected banks have to hold extra capital on top of normal requirements. That extra layer depends on how big and how systemic they are. If B-N-P's surcharge goes up, it needs to hold more capital against the same business.
+EMMA: And for Carrier?
+MICHAEL: My analysis: more capital means a higher cost of balance sheet for B-N-P. Banks in that position sometimes reprice credit lines, or become choosier about which business they support. It's worth watching for any changes at the next facility discussion, and making sure the relationship is profitable enough for B-N-P that it stays committed.
+EMMA: And there's a second B-N-P item.
+MICHAEL: Yes. Bloomberg reports B-N-P and Société Générale are among banks contacted by the E-C-B over hedge fund risks.
+EMMA: A supervisory question rather than a problem.
+MICHAEL: That's how I'd read it. The E-C-B is checking how exposed banks are to hedge funds. Not a reason for concern on its own, but it fits a theme of supervisors looking harder at bank risk.
+EMMA: H-S-B-C next.
+MICHAEL: The South China Morning Post reports H-S-B-C has seen over one hundred thousand users of its stablecoin in the first month since launch.
+EMMA: That's a fast start.
+MICHAEL: It is. My analysis: when a relationship bank scales a stablecoin product this quickly, expect it to be pitched for corporate use cases, especially cross-border payments. It's worth having a view on what controls, accounting treatment and counterparty assessment would be needed before using it.
+EMMA: And Barclays.
+MICHAEL: American Banker reports Barclays' Best Egg unit has disclosed a breach affecting seven hundred and ninety-two thousand records.
+EMMA: Best Egg is a consumer-lending business, so not Carrier's corporate relationship.
+MICHAEL: Right. But every data breach is a reminder that leaked personal data fuels phishing. Reinforcing callback controls on changes to payment instructions is always worth it.
+EMMA: J-P Morgan has several items.
+MICHAEL: Yes. The Wall Street Journal has a piece headlined "Jamie Dimon loved Britain, until it raised taxes on J-P Morgan". Bloomberg reports J-P Morgan sees a four hundred and fifty billion dollar A-I debt blitz in twenty twenty-seven before it plateaus. CNBC and MarketWatch report J-P Morgan expects the S-and-P five hundred to rise to eight thousand two hundred next year, about a fourteen percent gain, because of what it calls the A-I supercycle. And Barron's reports financial stocks, including J-P Morgan and Robinhood, slumped amid a broad market rout.
+EMMA: The A-I debt forecast is the one I'd flag for us.
+MICHAEL: Agreed, and we'll come back to it in strategy corner.
+EMMA: Rates and F-X. And the peso is the headline again.
+MICHAEL: It is. Dollar-Mexican peso jumped two point two four percent on Wednesday, to nineteen point seven. Over the week, the peso has fallen about six percent against the dollar.
+EMMA: Six percent in a week is a very large move for a major emerging market currency.
+MICHAEL: It is. For Carrier, there are a few practical checks. First, any peso hedges that involve collateral or margin. A move like this can trigger calls. Second, intercompany settlements with Mexican entities. The dollar amounts may look very different from plan. And third, the opportunity. Mexican costs are much cheaper in dollar terms, which is a good level to consider adding cost cover.
+EMMA: And the risk on the other side?
+MICHAEL: A sharp reversal. Emerging market currencies that fall this fast can bounce back quickly. So layering in cover over several days, rather than all at once, is one way to manage that.
+EMMA: Treasuries.
+MICHAEL: The rally continued. The ten-year Treasury yield fell six basis points to four point eight five percent, down twenty-two basis points on the week. The two-year is at four point six one percent, down nineteen on the week.
+EMMA: So term funding has got noticeably cheaper.
+MICHAEL: It has. My analysis: if there's a refinancing on the horizon, lower term yields help. It's worth keeping the conversation going with the banks, because windows like this don't always last.
+EMMA: And overnight rates.
+MICHAEL: SOFR rose two basis points to three point nine four percent. Effective Fed funds is three point eight eight. The euro short-term rate is two point four four four percent, and SONIA three point nine eight four seven percent.
+EMMA: Currencies beyond the peso.
+MICHAEL: Euro-dollar fell about a quarter of a percent to one point oh nine three five. Sterling-dollar fell about three tenths of a percent to one point three oh six, down about eight tenths on the week. Dollar-yen is at one hundred and fifty-nine point three two. Dollar-renminbi rose about a sixth of a percent to six point six seven five seven. And euro-sterling is at nought point eight three seven three, up about half a percent on the week.
+EMMA: And a data gap.
+MICHAEL: Yes. Today's calendar is unavailable in our inputs, and we don't have the results of yesterday's US P-C-E and G-D-P releases. So before acting on any dollar hedges or funding decisions, check what those numbers showed.
+EMMA: And gold?
+MICHAEL: Reuters reports gold steadied after hitting a more than one-year low, with the Fed outlook in focus.
+EMMA: And the Fed chairman.
+MICHAEL: CNBC's Liesman writes that the Nvidia whiplash tests Fed Chairman Kevin Warsh's push to read market signals. The extreme market swings and the drama around Nvidia have highlighted the dilemma facing the Fed chairman.
+EMMA: Big stories. Tariffs first.
+MICHAEL: Manufacturing Dive reports the US is readying tariffs over manufacturing capacity and production concerns. The proposed levies range from fifteen to thirty-five percent, and target goods from China, the E-U and twelve other partners, following a Section three-oh-one probe earlier this year. IndustryWeek also reports the US has unveiled proposed tariffs on major partners, including the E-U and China.
+EMMA: Fifteen to thirty-five percent is a big range.
+MICHAEL: It is. And we don't know from our inputs which goods fall into which band. My analysis: for a company like Carrier with global supply chains, this is a direct hit to the landed cost of imported components. The practical steps are to update the twenty twenty-seven tariff scenarios, map which suppliers and products are most exposed, and look at supplier contracts for cost-sharing terms.
+EMMA: And customer contracts too.
+MICHAEL: Yes. Where pricing clauses allow pass-through, tariff costs can be shared with customers. Where they don't, margins take the hit.
+EMMA: And there's a treasury angle beyond cost.
+MICHAEL: There is. Higher tariffs can change where companies choose to source and produce. That affects which currencies you need, where cash builds up, and how intercompany funding flows. So the treasury team should be part of any sourcing review, not just procurement.
+EMMA: Second big story. Twenty-four seven F-X.
+MICHAEL: Finextra reports Ant International and B-N-Y have signed a memorandum of understanding to explore next-generation treasury, twenty-four seven F-X and interoperable global payments solutions.
+EMMA: That's an interesting combination. A big Asian digital payments player and a big US custody and treasury bank.
+MICHAEL: It is. And twenty-four seven F-X matters for corporates. Today, a lot of cross-border flows get stuck over weekends or after cut-off times. That creates exposure, because the rate can move before the trade settles.
+EMMA: So round-the-clock F-X and payments could reduce that risk.
+MICHAEL: That's the promise. My analysis: it's early, an M-o-U rather than a product. But it's worth asking B-N-Y, and Carrier's other banks, about their timelines for always-on F-X and payments.
+EMMA: And there's related payments infrastructure news.
+MICHAEL: Yes. The E-C-B and Sweden's Riksbank have concluded an agreement for Sweden to join T2, the euro area's payment settlement system. And the E-C-B reports card payments have edged past cash in shops, while euro area consumers still want both.
+EMMA: Third big story. FinCEN.
+MICHAEL: The FT reports the US Treasury's financial crime watchdog, FinCEN, has been hit by a suspected cyber attack. It took some systems offline after detecting unauthorised access, amid growing fears about the vulnerability of technology systems.
+EMMA: That's the government agency that handles anti-money-laundering reporting.
+MICHAEL: Right. My analysis: for a corporate, the question is whether any compliance or reporting workflows depend on FinCEN systems. If those systems are disrupted, some reporting or screening processes that depend on them could be delayed. It's worth checking with compliance.
+EMMA: And the broader cyber picture.
+MICHAEL: Bloomberg reports banks face a tsunami of patches and are racing to fix them. And CFO Dive reports deepfake detections are surging as fraudsters use A-I, according to Entrust, with California, Texas and Florida driver's licences among the most targeted identity documents in the world.
+EMMA: Deepfakes are a real risk for treasury. Fraudsters can fake a voice or a video to authorise payments.
+MICHAEL: Exactly. Callback controls on known numbers, and dual authorisation on large or unusual payments, matter more than ever.
+EMMA: Fourth big story. The E-C-B.
+MICHAEL: Bloomberg reports the E-C-B's Kocher says the E-C-B can't fall behind the curve on interest rates. And the FT says further tightening is to come from the E-C-B to prevent inflation persistence.
+EMMA: So the message from Frankfurt is consistent.
+MICHAEL: Very. My analysis: keep euro cash on short tenors, so it can be reinvested at higher rates, and budget for higher euro borrowing costs into twenty twenty-seven. For intercompany funding priced off euro benchmarks, the cost to borrowing entities will rise.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: F-X technology first. Bound, an A-I-powered F-X risk management platform, has secured a three-year fifty million dollar debt facility to grow its trading book. Relevant to anyone looking at F-X hedging tools for mid-sized entities.
+MICHAEL: Stablecoins.
+EMMA: A lot of activity. OpenPayd has made senior hires to grow its stablecoin payments business and support its US entry. Transak has received a licence under the E-U's MiCA crypto regulation. And South Korea's financial regulator has proposed rules that would let local banks issue won-pegged stablecoins.
+MICHAEL: Trade finance.
+EMMA: Lloyds has completed multiple digital documentary collections between Bangladesh and the UK, for apparel shipments to a UK garment wholesaler, working with Prime Bank and vendor Enigio. Entirely in digital form.
+MICHAEL: That's a nice example of trade paperwork going digital.
+EMMA: It is. It could speed up trade cycles and reduce document risk. Banking charters. Highnote, an embedded finance and payments firm that counts B-N-Y and Lowe's as clients, has filed for a national bank charter. And Capital One is investing in real-time and cloud-based payment rails.
+MICHAEL: Regulation.
+EMMA: UK regulators have implemented what they call growth-friendly securitisation reforms. The UK plans strict rules for crypto DeFi, citing the Binance heist and a lack of consumer protections. California has fined Block's Afterpay two point seven million dollars, for failing to assess customers' ability to repay. Illinois is fighting in court for its interchange law. And the S-E-C's Investor Advisory Committee will discuss the trading of tokenised securities on the third of December.
+MICHAEL: And A-I in UK finance.
+EMMA: The UK government has reappointed Starling's Harriet Rees and Lloyds' Rohit Dhawan as its financial services A-I champions. And a Finextra survey says just thirteen percent of Brits would let an A-I agent make a payment for them in the next year.
+MICHAEL: And bank consolidation.
+EMMA: Alabama's Family Savings Credit Union is buying an in-state bank. Banking Dive says it's the eleventh proposed bank acquisition by a credit union this year, and the third in three weeks.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with that J-P Morgan forecast. Bloomberg reports J-P Morgan sees a four hundred and fifty billion dollar A-I debt blitz in twenty twenty-seven, before it plateaus.
+EMMA: Why does that matter for an HVAC company?
+MICHAEL: My analysis: a lot of that debt will fund data centres, and data centres need cooling. If borrowing peaks in twenty twenty-seven and then plateaus, data centre construction might follow a similar curve. So the question for F-P-and-A is whether the plan treats data centre orders as durable growth or as a cycle.
+EMMA: And there's evidence of data centre demand elsewhere.
+MICHAEL: There is. Manufacturing Dive reports Deere posted a fifteen percent decline in its tractor business, but construction and small farm equipment sales were boosted by data centre projects and livestock demand. And Qnity, the DuPont spin-off, is paying eight hundred and forty million dollars for Meridian Adhesive Group's electronics unit, to strengthen its position in markets including A-I data centres and semiconductor equipment.
+EMMA: And chips.
+MICHAEL: Manufacturing Dive reports TSMC has proposed a twenty-two point six billion dollar advanced wafer facility in Texas, spanning more than three thousand two hundred acres, to make chips for A-I, high-performance computing and mobile devices.
+EMMA: Those big fabs need a lot of HVAC.
+MICHAEL: They do. Semiconductor fabs have very demanding climate control needs. That's analysis, not reporting, but it's a reminder that US manufacturing investment creates HVAC demand.
+EMMA: And the market mood on A-I.
+MICHAEL: Mixed. The FT reports US stocks closed lower in a volatile session as the A-I trade stayed under pressure, with Nvidia among the losers, but Anthropic a bright spot as its shares finished higher. Asian stocks advanced afterwards. CNBC reports fund managers say to beware higher correlation but take advantage of high US credit yields, with one hedge fund manager saying the A-I boom could trigger a recession, but data centres remain attractive. And prediction market traders on Kalshi have pushed back their expectations for an OpenAI I-P-O to later in twenty twenty-seven.
+EMMA: Energy.
+MICHAEL: Two stories. The FT reports British household energy bills will rise twenty-six percent from January, as the energy regulator Ofgem's new price cap reflects a surge in the wholesale cost of gas. And the FT says Opec plus's largest members are heading for a clash over oil production estimates, with analysts expecting Sunday's meeting to be one of the most complicated in years, as global markets swing back into oversupply.
+EMMA: Higher UK gas bills could support demand for more efficient heating.
+MICHAEL: Potentially, yes. Heat pumps and efficient systems become more attractive when gas is expensive. That's analysis, but it's directly relevant to the sector.
+EMMA: Defence and Europe.
+MICHAEL: The FT has the first in a series on Europe's costly quest for its own defence supply chain, looking at the industry's obsession with sourcing critical parts. And financier Todd Boehly has struck a deal for Lukoil assets.
+EMMA: And governance.
+MICHAEL: The FT looks under the hood of Global Auto Holdings, with a low-profile founder, a multi-continent collection of car dealerships, unexplained related-party transactions, and an I-P-O in the pipeline. And Shein will pay one hundred million dollars to resolve US allegations that it deceived customers about the origin of its cotton fabrics and suppressed negative reviews.
+EMMA: And one on retention.
+MICHAEL: CFO Dive reports Traeger's C-F-O, Joey Hord, is resigning eight months after being awarded a retention bonus of about two hundred and seventy thousand dollars.
+EMMA: Not the best advertisement for retention bonuses.
+MICHAEL: No. And H-B-R has a conversation with FedEx's Raj Subramaniam on innovating at the speed of global commerce, staying customer-centric through geopolitical and technological change.
+EMMA: A few more before the calendar.
+MICHAEL: Go on.
+EMMA: On A-I and markets, the FT has a piece on the fund manager's dilemma over A-I, arguing that assessing concentration risk may be more complicated than it seems. Another FT piece makes the case for India as an A-I play, saying the downsides are overstated and the upside overlooked. And an FT item warns that a supposed three hundred and twelve million dollar Nvidia options insider trade may be based on a misleading tweet.
+MICHAEL: A reminder to check sources before reacting to market rumours.
+EMMA: Exactly. Bloomberg also reports shoppers are using A-I agents to save them from what it calls the annoyance economy. And on people, H-B-R has four strategies for speeding up A-I adoption among reluctant employees, research showing that when leaders practise gratitude it spreads through their organisation, and a session with Arthur C. Brooks on leading others without losing yourself.
+MICHAEL: The A-I adoption one is relevant for treasury teams rolling out new tools. People resist change, especially when it touches payments.
+EMMA: Very true. And two smaller items. The NBA is rallying private equity for a ten billion euro European arena fund, to help teams finance new arenas. And the AfricaNenda Foundation's latest report says instant payment systems in Africa are having a clear impact on financial inclusion, economic growth and user trust.
+MICHAEL: That last one matters for anyone with African operations. Instant payments are spreading fast in emerging markets.
+EMMA: Let's do the calendar.
+MICHAEL: Today's calendar is unavailable in our inputs, so I can't list specific releases. The most important thing to check this morning is the result of yesterday's US core P-C-E and G-D-P numbers, which aren't in our data.
+EMMA: And what to watch?
+MICHAEL: The Opec plus meeting on Sunday is one to watch for energy prices. And the tariff proposals will develop over the coming weeks, so keep an eye on which products and countries end up in which band.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: New tariffs of up to thirty-five percent are on the way, the peso has fallen six percent in a week, and a key Treasury agency has just been hit by a cyber attack. So here's the question. If we had to re-source a critical component away from a tariffed country next year, how quickly could treasury set up the accounts, F-X, payments and funding in the new location?
+MICHAEL: A question that shows whether treasury is ready for supply chain change, not just reacting to it.
+EMMA: That's it for today. Thanks for listening.
+MICHAEL: See you tomorrow.
