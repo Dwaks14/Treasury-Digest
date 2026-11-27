@@ -1,0 +1,148 @@
+EMMA: Good morning, and welcome to the Daily Treasury Brief. It's Friday, the twenty-seventh of November. I'm Emma.
+MICHAEL: And I'm Michael. Good morning.
+EMMA: Three big things to end the week. UniCredit has cleared the final hurdle to take over Commerzbank, and is already pushing for a management shake-up. The E-C-B's minutes point to another rate hike, and Spain's De Cos will take over from Lagarde as E-C-B president. And Barclays is advancing a plan to move its E-U hub to Paris, which matters for anyone banking with Barclays in Europe.
+MICHAEL: Plus the Bank of England Governor is worried about A-I and encryption, and the Fed looks set to hike despite the market turmoil.
+EMMA: Let's start with the watchlist. UniCredit.
+MICHAEL: Bloomberg reports UniCredit has cleared the final hurdle to take over Commerzbank. Reuters, Bloomberg, the Wall Street Journal and the FT all report UniCredit is pushing for a Commerzbank management shake-up, with chief executive Orcel as chair.
+EMMA: And the current Commerzbank leadership?
+MICHAEL: Bloomberg reports Commerzbank chief executive Orlopp faces an exit as UniCredit takes control. And Reuters has a podcast describing Europe's banking superstar as tipping an M-and-A domino.
+EMMA: So for Carrier, this is a relationship in transition.
+MICHAEL: It is. My analysis: when leadership changes at the top, coverage teams and priorities often change too. If Carrier has relationships with both banks, now is the time to make sure you have senior contacts at the combined group, and a clear view of who covers Carrier going forward.
+EMMA: And the practical side?
+MICHAEL: Ask about platform plans, account migrations and documentation. Integrations can mean new payment formats, new cut-off times, even new legal entities. You want to hear about those early, not discover them at month end.
+EMMA: Barclays next, and this is a big one for a Dublin team.
+MICHAEL: The Irish Times reports Barclays is advancing its plan to move its E-U hub to Paris.
+EMMA: We don't have details on which entities or business lines are affected, so let's be careful.
+MICHAEL: Right. But for a Dublin-based treasury team with European banking relationships, it's a prompt to check which Barclays entity books Carrier's E-U accounts, facilities and derivatives.
+EMMA: And what happens if that entity changes?
+MICHAEL: My analysis: if the booking entity moves, there could be new account documentation, new I-S-D-A agreements for derivatives, updated K-Y-C, and possibly new account numbers. None of that is impossible, but it takes time. The earlier you ask, the smoother it goes.
+EMMA: And counterparty limits might need to reflect the new entity too.
+MICHAEL: Exactly.
+EMMA: H-S-B-C.
+MICHAEL: Bloomberg reports H-S-B-C is reorganising support roles in India, affecting hundreds of jobs. And the South China Morning Post says H-S-B-C's stablecoin has passed one hundred thousand users in its first month since launch.
+EMMA: The India reorganisation is worth watching if Carrier's operations or service teams at H-S-B-C sit there.
+MICHAEL: Agreed. Service changes in operations teams can show up as slower responses or changes in how queries are handled. Worth keeping an eye on.
+EMMA: J-P Morgan has a few items.
+MICHAEL: Bloomberg reports J-P Morgan and BlackRock are bidding for a slice of a five hundred and forty-three billion dollar Singapore fund. Reuters reports J-P Morgan sees Indian stocks rising further in twenty twenty-seven after what it calls a great comeback in twenty twenty-six. J-P Morgan's Leccubarri says midcaps are hiding a historic A-I bargain. And J-P Morgan sees fresh upside in liquor giant Kweichow Moutai, and says consumer staples face more challenges ahead.
+EMMA: Market views and asset management, rather than corporate banking.
+MICHAEL: Right.
+EMMA: Rates and F-X.
+MICHAEL: Let's start with the peso. Dollar-Mexican peso eased about a sixth of a percent to nineteen point six seven. But over the week, the peso is still down almost four percent.
+EMMA: So a pause, not a recovery.
+MICHAEL: That's the read. My analysis: if the peso stabilises for a few days, it's a good window to complete hedge rollovers and add peso cost cover at these weaker levels, without the stress of a falling market.
+EMMA: The dollar softened against the majors.
+MICHAEL: It did. Euro-dollar rose about four tenths of a percent to one point oh nine seven five. Sterling-dollar rose about a third of a percent to one point three one oh four. Euro-sterling is at nought point eight three seven six.
+EMMA: Yen and renminbi.
+MICHAEL: Dollar-yen at one hundred and fifty-nine point two six, slightly lower. And dollar-renminbi fell about a quarter of a percent to six point six six oh two, so a firmer renminbi.
+EMMA: Treasuries.
+MICHAEL: The two-year is at four point six one percent and the ten-year at four point eight five percent, both as of Wednesday. Both are about twenty basis points lower on the week. SOFR is three point nine four percent and effective Fed funds three point eight eight.
+EMMA: And Europe and the UK.
+MICHAEL: The euro short-term rate is two point four four four percent, and SONIA three point nine eight six one percent.
+EMMA: And gold.
+MICHAEL: Reuters reports gold is drifting lower as fears of a Fed rate hike loom. CNBC reports gold steadied after hitting a more than one-year low.
+EMMA: And today's calendar?
+MICHAEL: Unavailable in our inputs. So before any large F-X or funding trades today, check whether there are US or euro area releases due.
+EMMA: Big stories. Let's start with the E-C-B.
+MICHAEL: The E-C-B has published the account of its meeting on the twenty-eighth and twenty-ninth of October. The Wall Street Journal reports the E-C-B saw the need for another rate hike unless the inflation outlook improved significantly. And Bloomberg reports E-C-B officials saw more tightening, with the inflation outlook worse.
+EMMA: So a December hike looks likely.
+MICHAEL: That's how markets will read it. My analysis: for a Dublin-based team, keep euro surplus cash on shorter tenors so it can be reinvested at higher rates, and budget for higher euro funding costs, including on intercompany loans priced off euro benchmarks.
+EMMA: And the leadership change.
+MICHAEL: Reuters and the Guardian report Spain's De Cos will take over as E-C-B president from Lagarde. Il Sole twenty-four Ore reports Merz is confident of an agreement on the E-U budget by the end of the year, alongside De Cos being named to head the E-C-B.
+EMMA: What does a new E-C-B president mean for treasury?
+MICHAEL: My analysis: a new leader brings some uncertainty about the policy path and communication style. That can add volatility to euro rates and euro-dollar around the handover. It's not a reason to change strategy, but it's a reason not to assume the current guidance holds forever.
+EMMA: Second big story. The Fed.
+MICHAEL: The FT reports a hawkish Fed is poised to raise rates despite the stock market turmoil. Inflation is the top concern for US central bank officials, even as a tech-led sell-off has triggered fears for the economy.
+EMMA: So the Fed is prioritising inflation over markets.
+MICHAEL: That's the message. My analysis: plan for higher dollar floating costs even if equity markets wobble. That affects commercial paper, revolver drawings, floating-rate debt and intercompany loans priced off SOFR.
+EMMA: And the market backdrop.
+MICHAEL: The FT reports global stocks climbed after volatile US trading over A-I risks. And there's a provocative FT piece arguing it's an earnings bubble, not a valuation bubble, and that the difference matters. Another FT guide offers fund managers advice on navigating tempestuous markets.
+EMMA: And single-stock E-T-Fs.
+MICHAEL: CNBC hears from E-T-F Action's Mike Akins and GraniteShares chief executive Will Rhind on how Nvidia's volatile swings expose the risks of single-stock E-T-Fs. And CNBC reports fund managers say to beware higher correlation but take advantage of high US credit yields.
+EMMA: Third big story. A-I and encryption.
+MICHAEL: The FT reports Bank of England Governor Andrew Bailey says unreleased A-I models have raised encryption concerns. Breakthroughs in mathematics have stoked fears that data across financial systems is under threat.
+EMMA: That's a serious statement from a central bank governor.
+MICHAEL: It is. And separately, Finextra reports the Bank of England says financial services firms need to make significant investments to keep pace with the growing scale and sophistication of cyber threats in the A-I era, while making sure their own use of frontier models is safe.
+EMMA: Why does it matter for Carrier's treasury?
+MICHAEL: My analysis: treasury systems, bank connectivity and payment files all depend on encryption. If that encryption is under threat from new A-I capabilities, it's worth asking IT and the banks how their encryption will keep pace. Not a reason for panic, but a good question for the next technology and security review.
+EMMA: And there's a broader Bank of England package.
+MICHAEL: Yes. The Bank of England's Financial Policy Committee has published its November record, on risks to UK financial stability. And the Bank, P-R-A, F-C-A and P-S-R have reviewed their memorandum of understanding on UK payment systems.
+EMMA: Fourth big story. Europe's banks and France.
+MICHAEL: The FT reports British and European banks have taken on a lot of France risk.
+EMMA: We don't have the detail of the piece, so let's keep it general.
+MICHAEL: Right. My analysis: if banks hold a lot of French exposure, any stress in France could affect their balance sheets. For a corporate, it's a reason to know how your relationship banks are exposed, especially if you hold large deposits with them.
+EMMA: And European industry is under pressure.
+MICHAEL: It is. The FT reports Trafigura will close its Dutch zinc operations after calling for more government help with power costs, and is calling for greater European metals support. And another FT piece says the rest of the world is playing catch-up with China's dominance in solar power, with Europe, India and the US investing in domestic manufacturing but still reliant on Chinese panels and batteries.
+EMMA: Energy costs keep shutting European capacity.
+MICHAEL: They do. And the FT's series on Europe's rearmament drive looks at the industry's efforts to secure critical components.
+EMMA: Before the quick round, let's step back, because Monday is the last day of November, and year end is only a month away.
+MICHAEL: Good point. What's on your month-end and year-end list, given everything this week?
+EMMA: Four things. First, currency revaluation. The peso has moved a lot this month, and the euro and sterling have moved against the dollar too. Intercompany loans and balances in those currencies will be revalued at month end, so the controllers should get a heads-up on the likely size of the swings, and on which positions are hedged and which aren't.
+MICHAEL: Second?
+EMMA: Netting. If there's a netting cycle around month end, entities that owe in currencies that have moved need to have the cash ready. The dollar amounts may look quite different from what was planned a few weeks ago.
+MICHAEL: Third?
+EMMA: Year-end liquidity. Year end is often a time when money markets get tighter, and with the Fed and the E-C-B both leaning towards hikes, it's sensible to plan year-end funding early. That means checking commercial paper maturities around the turn of the year, making sure backup lines are available, and deciding where surplus cash should sit over the holiday period.
+MICHAEL: And fourth?
+EMMA: Bank changes. With UniCredit taking control of Commerzbank and Barclays moving its E-U hub, it's worth making sure that nothing in the year-end payment calendar depends on an account, a contact or a cut-off time that's about to change.
+MICHAEL: That's a very practical checklist. I'd add one thing from the F-P-and-A side.
+EMMA: Go on.
+MICHAEL: The twenty twenty-seven budget. A lot of budgets are finalised around now. Given this month's moves, it's worth checking the F-X rates, interest rate assumptions and tariff assumptions baked into the plan. Rates have moved, the peso has moved, and the tariff picture has changed. If the budget was built on October's numbers, some of those assumptions may already be out of date.
+EMMA: Especially the peso. A budget rate set a month ago could be several percent away from today's level.
+MICHAEL: Exactly. And that changes the expected dollar cost of Mexican operations, which flows straight into margin forecasts.
+EMMA: And on interest rates?
+MICHAEL: The question is whether the budget assumes the Fed and the E-C-B hold, or hike. Given this week's news, a scenario with at least one more hike from each seems prudent.
+EMMA: Let's do a quick round of treasury, payments and banking.
+MICHAEL: Go.
+EMMA: First, a treasury-specific one. A Finextra community piece argues that treasury and payments are converging in twenty twenty-seven, under the idea of liquidity orchestration.
+MICHAEL: That's a nice phrase.
+EMMA: It is. The idea is that cash management and payments shouldn't be separate silos. For Carrier, a good question is whether cash visibility, pooling and payment approvals are built for real-time money, or still built around end-of-day batches.
+MICHAEL: Working capital technology.
+EMMA: CredAble, which describes itself as India's leading working capital and banking technology platform, has acquired a seventy percent stake in Reql, an A-I-native regulatory intelligence platform, to move into regulatory technology for banks and corporates.
+MICHAEL: Open banking and A-I.
+EMMA: Salt Edge and Neumetria have partnered to give A-I agents and lenders a current, cross-bank view of customers in Europe and North America. And a Finextra piece on agentic commerce says trust is the new foundation for payments.
+MICHAEL: Stablecoins and cards.
+EMMA: Visa, NBX, Tieto and IDT Finance plan a new Visa Flex card linked to stablecoins. And Maldives Islamic Bank has launched its first Visa Islamic credit card with B-P-C.
+MICHAEL: Charters.
+EMMA: Crypto firm MoonPay and embedded finance platform Highnote have applied for national trust bank charters.
+MICHAEL: Fraud and regulation.
+EMMA: The New York Attorney General has won a judgement of about one point four billion dollars against the founders of NovaTechFx, over a crypto Ponzi scheme that targeted Haitian communities. Starling Bank research says forty-four percent of British Gen Z men have fallen for social media investment scams. The UK plans strict rules for the crypto DeFi sector. And the UK government has reappointed Starling's Harriet Rees and Lloyds' Rohit Dhawan as its financial services A-I champions.
+MICHAEL: And the UK car finance saga.
+EMMA: The FT reports the F-C-A has admitted miscalculating compensation in its nine billion pound car mis-selling redress scheme, an error that risks further delays to payments for millions of consumers.
+MICHAEL: Relevant for any UK bank exposed to car finance.
+EMMA: Indeed. And it's a reminder that regulatory remediation programmes can drag on and get more expensive, which ties up bank capital and management attention for longer than anyone expects. For banks in the middle of large integrations or relocations, that kind of distraction adds up.
+MICHAEL: Which is another reason to keep relationship reviews regular rather than annual.
+EMMA: Agreed. And a UK utility story. The FT reports Thames Water is seeking to delay debt repayments to secure a two point four billion pound emergency loan. The new funding will keep it afloat, but add hundreds of millions of pounds in financing costs.
+MICHAEL: A stark reminder of what happens when a company runs out of liquidity.
+EMMA: Exactly. Expensive emergency money is what treasury exists to avoid.
+MICHAEL: Okay. Strategy corner.
+EMMA: Over to you.
+MICHAEL: Let's start with a striking CNBC headline: semiconductor chips are the new oil. Semiconductor exports overtook oil and gas for the first time in twenty twenty-six, as the A-I boom fuelled chip demand.
+EMMA: That's a big shift in global trade.
+MICHAEL: It is. My analysis: it means trade policy on chips matters as much as trade policy on energy. And it ties to data centres, which need cooling. Chips, data centres and HVAC are linked.
+EMMA: And robots.
+MICHAEL: CNBC reports Xpeng's co-president, Brian Gu, says robots could be doing household chores in just one to two years. The Chinese electric vehicle maker is betting on humanoid robots.
+EMMA: Ambitious.
+MICHAEL: Very. And it fits a theme of automation and robotics coming from many directions.
+EMMA: China wealth.
+MICHAEL: The FT reports China's super-rich have a new obsession with million-dollar koi fish, but an economic slowdown and Beijing's crackdown on conspicuous wealth are threatening the market.
+EMMA: A quirky one, but it says something about China's economy.
+MICHAEL: It does. Slowdown and a crackdown on wealth display. Both matter for consumer demand in China.
+EMMA: And capital markets oddities.
+MICHAEL: The FT reports Trump Media and Technology Group is expected to pay between eight and thirteen million dollars in fees for proxy solicitation, to woo shareholders before a merger vote.
+EMMA: And a nice travel story to end on.
+MICHAEL: Yes. The FT writes about Europe's newest night train, from Brussels to Milan, covering more than a thousand kilometres through Alpine scenery, for as little as forty euros.
+EMMA: Something for the travel budget review.
+MICHAEL: Indeed.
+EMMA: One more strategic thought before the calendar. Michael, you mentioned energy costs shutting European capacity. Is there an HVAC angle?
+MICHAEL: There is, as analysis. When energy is expensive, efficiency becomes more valuable. Buildings that use less energy for heating and cooling cost less to run. That can support demand for efficient systems, including heat pumps and better controls. At the same time, high energy costs squeeze European industry, which can weigh on commercial construction. So it cuts both ways.
+EMMA: And for treasury, the European business may see mixed signals: stronger demand for some products, weaker customers in others.
+MICHAEL: Right. Which is why customer credit monitoring matters in Europe right now.
+EMMA: Let's do the calendar.
+MICHAEL: Today's calendar is unavailable in our inputs, so I can't list specific releases. Before executing any large trades, check whether US or euro area data is due.
+EMMA: And what to watch over the weekend and next week?
+MICHAEL: The E-C-B leadership handover and the December E-C-B meeting are the big themes in Europe. In the US, the Fed's next move. And for Carrier specifically, the UniCredit-Commerzbank integration and Barclays' E-U hub plans.
+EMMA: Let's close with the question for the office.
+MICHAEL: Go on.
+EMMA: UniCredit is reshaping Commerzbank's leadership, Barclays is moving its E-U hub, and H-S-B-C is reorganising support roles. So here's the Friday question. Do we have an up-to-date map of which legal entity, team and location services each of our European bank relationships, and who we'd call if something went wrong on a payment day?
+MICHAEL: A good one to finish the week on.
+EMMA: That's it for this week. Thanks for listening, and have a good weekend.
+MICHAEL: See you Monday.
